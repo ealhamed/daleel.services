@@ -37,7 +37,9 @@
     {
       "label_ar": "التسجيل والبحث",
       "amount": 0,
-      "unit_ar": "مجاني"
+      "unit_ar": "مجاني",
+      "label_en": "Registration and search",
+      "unit_en": "Free"
     }
   ],
   "steps": [
@@ -65,16 +67,21 @@
   "troubles": [
     {
       "question_ar": "ما الفرق بين جدارات وطاقات وجدارة؟",
-      "answer_ar": "جدارات هي المنصة الموحدة الجديدة التي دمجت خدمات طاقات (القطاع الخاص) وجدارة (القطاع الحكومي) في منصة واحدة."
+      "answer_ar": "جدارات هي المنصة الموحدة الجديدة التي دمجت خدمات طاقات (القطاع الخاص) وجدارة (القطاع الحكومي) في منصة واحدة.",
+      "question_en": "What is the difference between Jadarat, Taqat, and Jadara?",
+      "answer_en": "Jadarat is the new unified platform that merged Taqat (private sector) and Jadara (government sector) services into one platform."
     },
     {
       "question_ar": "هل يمكن لغير السعوديين استخدام جدارات؟",
-      "answer_ar": "المنصة مخصصة بشكل أساسي للمواطنين السعوديين الباحثين عن عمل."
+      "answer_ar": "المنصة مخصصة بشكل أساسي للمواطنين السعوديين الباحثين عن عمل.",
+      "question_en": "Can non-Saudis use Jadarat?",
+      "answer_en": "The platform is primarily designed for Saudi citizens seeking employment."
     }
   ],
   "related_slugs": [
     "gosi-retirement-subscription",
     "renew-national-id"
   ],
-  "last_updated": "########"
+  "last_updated": "########",
+  "description_en": "Jadarat is the national employment platform connecting job seekers with public and private sector opportunities, replacing the former Taqat and Jadara platforms."
 }

@@ -45,12 +45,16 @@
     {
       "label_ar": "مفردة (سفرة واحدة)",
       "amount": 200,
-      "unit_ar": "ر.س"
+      "unit_ar": "ر.س",
+      "label_en": "Single (one trip)",
+      "unit_en": "SAR"
     },
     {
       "label_ar": "متعددة (عدة سفرات)",
       "amount": 500,
-      "unit_ar": "ر.س"
+      "unit_ar": "ر.س",
+      "label_en": "Multiple (several trips)",
+      "unit_en": "SAR"
     }
   ],
   "steps": [
@@ -82,15 +86,21 @@
   "troubles": [
     {
       "question_ar": "ظهرت رسالة \"لا يمكن إصدار التأشيرة\"",
-      "answer_ar": "تأكد من سريان الإقامة وعدم وجود مخالفات أو بلاغ تغيب مسجل على المقيم."
+      "answer_ar": "تأكد من سريان الإقامة وعدم وجود مخالفات أو بلاغ تغيب مسجل على المقيم.",
+      "question_en": "\"Cannot issue visa\" message appeared",
+      "answer_en": "Verify that the Iqama is valid and there are no violations or absconding reports registered against the resident."
     },
     {
       "question_ar": "هل يمكن تمديد التأشيرة بعد السفر؟",
-      "answer_ar": "نعم، يمكن تمديدها عبر أبشر قبل انتهاء صلاحيتها، بشرط أن يكون المقيم خارج المملكة."
+      "answer_ar": "نعم، يمكن تمديدها عبر أبشر قبل انتهاء صلاحيتها، بشرط أن يكون المقيم خارج المملكة.",
+      "question_en": "Can the visa be extended after traveling?",
+      "answer_en": "Yes, it can be extended via Absher before it expires, provided the resident is outside the Kingdom."
     },
     {
       "question_ar": "ماذا يحدث إذا لم يعد المقيم خلال المدة؟",
-      "answer_ar": "تنتهي صلاحية الإقامة وقد يتعرض لمنع من الدخول. يجب إصدار تأشيرة عودة من السفارة."
+      "answer_ar": "تنتهي صلاحية الإقامة وقد يتعرض لمنع من الدخول. يجب إصدار تأشيرة عودة من السفارة.",
+      "question_en": "What happens if the resident does not return within the period?",
+      "answer_en": "The Iqama validity expires and they may be banned from entry. A return visa must be issued from the embassy."
     }
   ],
   "related_slugs": [
@@ -99,5 +109,7 @@
     "renew-passport-expat"
   ],
   "last_updated": "########",
-  "penalty_ar": "عدم العودة خلال مدة التأشيرة قد يؤدي لإلغاء الإقامة"
+  "penalty_ar": "عدم العودة خلال مدة التأشيرة قد يؤدي لإلغاء الإقامة",
+  "description_en": "This service allows you to issue an exit-reentry visa for a sponsored person or domestic worker electronically, enabling them to travel outside the Kingdom and return within a specified period.",
+  "penalty_en": "Failure to return within the visa period may result in Iqama cancellation"
 }

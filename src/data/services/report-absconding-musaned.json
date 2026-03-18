@@ -41,7 +41,9 @@
     {
       "label_ar": "تقديم البلاغ",
       "amount": 0,
-      "unit_ar": "مجاني"
+      "unit_ar": "مجاني",
+      "label_en": "Filing the report",
+      "unit_en": "Free"
     }
   ],
   "steps": [
@@ -69,16 +71,21 @@
   "troubles": [
     {
       "question_ar": "العامل قدّم شكوى ضدي — هل يمكنني تقديم بلاغ؟",
-      "answer_ar": "لا، إذا كان هناك شكوى مقدمة من العامل، لا يمكن تقديم بلاغ تغيب حتى يتم البت في الشكوى."
+      "answer_ar": "لا، إذا كان هناك شكوى مقدمة من العامل، لا يمكن تقديم بلاغ تغيب حتى يتم البت في الشكوى.",
+      "question_en": "The worker filed a complaint against me — can I file a report?",
+      "answer_en": "No, if there is a complaint from the worker, an absconding report cannot be filed until the complaint is resolved."
     },
     {
       "question_ar": "هل يمكن إلغاء بلاغ التغيب؟",
-      "answer_ar": "نعم، يمكن إلغاؤه عبر مساند إذا عاد العامل أو تم حل الخلاف."
+      "answer_ar": "نعم، يمكن إلغاؤه عبر مساند إذا عاد العامل أو تم حل الخلاف.",
+      "question_en": "Can the absconding report be cancelled?",
+      "answer_en": "Yes, it can be cancelled via Musaned if the worker returns or the dispute is resolved."
     }
   ],
   "related_slugs": [
     "musaned-domestic-worker-visa",
     "musaned-transfer-domestic-worker"
   ],
-  "last_updated": "########"
+  "last_updated": "########",
+  "description_en": "This service allows employers to file an absconding report against a domestic worker who left work without a legitimate reason."
 }

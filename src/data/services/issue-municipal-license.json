@@ -45,7 +45,9 @@
     {
       "label_ar": "الرخصة البلدية",
       "amount": 500,
-      "unit_ar": "ر.س - 3,000 ر.س حسب النشاط"
+      "unit_ar": "ر.س - 3,000 ر.س حسب النشاط",
+      "label_en": "Municipal license",
+      "unit_en": "SAR - 3,000 SAR depending on activity"
     }
   ],
   "steps": [
@@ -73,11 +75,15 @@
   "troubles": [
     {
       "question_ar": "طلبي معلق منذ أيام",
-      "answer_ar": "تابع حالة الطلب عبر بلدي. قد يحتاج لتعديل معلومات أو مستندات إضافية."
+      "answer_ar": "تابع حالة الطلب عبر بلدي. قد يحتاج لتعديل معلومات أو مستندات إضافية.",
+      "question_en": "My application has been pending for days",
+      "answer_en": "Follow up on the application status via Balady. It may need information corrections or additional documents."
     },
     {
       "question_ar": "هل أحتاج رخصة بلدية لمتجر إلكتروني؟",
-      "answer_ar": "لا، المتاجر الإلكترونية بدون موقع فعلي تحتاج فقط لسجل تجاري وتوثيق في معروف."
+      "answer_ar": "لا، المتاجر الإلكترونية بدون موقع فعلي تحتاج فقط لسجل تجاري وتوثيق في معروف.",
+      "question_en": "Do I need a municipal license for an online store?",
+      "answer_en": "No, online stores without a physical location only need a commercial registration and Maroof certification."
     }
   ],
   "related_slugs": [
@@ -85,5 +91,7 @@
     "renew-commercial-registration"
   ],
   "last_updated": "########",
-  "penalty_ar": "مزاولة نشاط بدون رخصة بلدية تعرّض المنشأة لغرامة وإغلاق"
+  "penalty_ar": "مزاولة نشاط بدون رخصة بلدية تعرّض المنشأة لغرامة وإغلاق",
+  "description_en": "A municipal license is required to operate any business at a physical location. The Balady platform allows electronic issuance.",
+  "penalty_en": "Operating without a municipal license exposes the business to fines and closure"
 }

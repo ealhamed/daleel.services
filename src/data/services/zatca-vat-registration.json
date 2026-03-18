@@ -45,7 +45,9 @@
     {
       "label_ar": "التسجيل",
       "amount": 0,
-      "unit_ar": "مجاني"
+      "unit_ar": "مجاني",
+      "label_en": "Registration",
+      "unit_en": "Free"
     }
   ],
   "steps": [
@@ -77,15 +79,21 @@
   "troubles": [
     {
       "question_ar": "إيراداتي أقل من 375,000 — هل أسجّل؟",
-      "answer_ar": "التسجيل اختياري لكنه مفيد لاسترداد ضريبة المدخلات واكتساب مصداقية تجارية."
+      "answer_ar": "التسجيل اختياري لكنه مفيد لاسترداد ضريبة المدخلات واكتساب مصداقية تجارية.",
+      "question_en": "My revenue is below SAR 375,000 — should I register?",
+      "answer_en": "Registration is optional but beneficial for recovering input tax and gaining business credibility."
     },
     {
       "question_ar": "ما الفرق بين الزكاة وضريبة القيمة المضافة؟",
-      "answer_ar": "الزكاة تُفرض على صافي ثروة الشركة (2.5%). ضريبة القيمة المضافة (15%) تُفرض على المبيعات وتُحصّل من المستهلك."
+      "answer_ar": "الزكاة تُفرض على صافي ثروة الشركة (2.5%). ضريبة القيمة المضافة (15%) تُفرض على المبيعات وتُحصّل من المستهلك.",
+      "question_en": "What is the difference between Zakat and VAT?",
+      "answer_en": "Zakat is levied on company net wealth (2.5%). VAT (15%) is levied on sales and collected from the consumer."
     },
     {
       "question_ar": "متى أبدأ بتحصيل الضريبة؟",
-      "answer_ar": "من تاريخ سريان التسجيل المحدد في الشهادة."
+      "answer_ar": "من تاريخ سريان التسجيل المحدد في الشهادة.",
+      "question_en": "When do I start collecting tax?",
+      "answer_en": "From the effective registration date specified on the certificate."
     }
   ],
   "related_slugs": [
@@ -93,5 +101,7 @@
     "renew-commercial-registration"
   ],
   "last_updated": "########",
-  "penalty_ar": "عدم التسجيل مع تجاوز الحد يعرّض المنشأة لغرامة تصل إلى 10,000 ر.س"
+  "penalty_ar": "عدم التسجيل مع تجاوز الحد يعرّض المنشأة لغرامة تصل إلى 10,000 ر.س",
+  "description_en": "Every establishment with annual revenue exceeding SAR 375,000 must register for Value Added Tax (15%) with the Zakat, Tax and Customs Authority (ZATCA).",
+  "penalty_en": "Failure to register while exceeding the threshold exposes the establishment to fines up to SAR 10,000"
 }

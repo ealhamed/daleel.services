@@ -49,17 +49,23 @@
     {
       "label_ar": "عمالة منزلية",
       "amount": 600,
-      "unit_ar": "ر.س / سنة"
+      "unit_ar": "ر.س / سنة",
+      "label_en": "Domestic worker",
+      "unit_en": "SAR/year"
     },
     {
       "label_ar": "مرافقين",
       "amount": 650,
-      "unit_ar": "ر.س / سنة"
+      "unit_ar": "ر.س / سنة",
+      "label_en": "Dependents",
+      "unit_en": "SAR/year"
     },
     {
       "label_ar": "التوصيل",
       "amount": 39,
-      "unit_ar": "ر.س"
+      "unit_ar": "ر.س",
+      "label_en": "Delivery",
+      "unit_en": "SAR"
     }
   ],
   "steps": [
@@ -91,19 +97,27 @@
   "troubles": [
     {
       "question_ar": "ظهرت رسالة \"لا يمكن التجديد\"",
-      "answer_ar": "غالباً بسبب: جواز منتهي، تأمين غير ساري، أو مخالفات غير مسددة. راجع بند \"تأكد قبل البدء\" أعلاه."
+      "answer_ar": "غالباً بسبب: جواز منتهي، تأمين غير ساري، أو مخالفات غير مسددة. راجع بند \"تأكد قبل البدء\" أعلاه.",
+      "question_en": "\"Cannot renew\" message appeared",
+      "answer_en": "Usually due to: expired passport, inactive insurance, or unpaid violations. Review the \"Before you start\" checklist above."
     },
     {
       "question_ar": "تم السداد لكن لم يظهر في أبشر",
-      "answer_ar": "انتظر 24 ساعة بعد السداد عبر سداد. إذا استمرت المشكلة، تواصل مع البنك للتأكد من نجاح العملية."
+      "answer_ar": "انتظر 24 ساعة بعد السداد عبر سداد. إذا استمرت المشكلة، تواصل مع البنك للتأكد من نجاح العملية.",
+      "question_en": "Payment was made but does not appear in Absher",
+      "answer_en": "Wait 24 hours after payment via SADAD. If the issue persists, contact your bank to confirm the transaction succeeded."
     },
     {
       "question_ar": "هل يمكن التجديد قبل انتهاء الإقامة؟",
-      "answer_ar": "نعم، يمكن التجديد إذا كانت صلاحية الهوية أقل من 14 شهراً."
+      "answer_ar": "نعم، يمكن التجديد إذا كانت صلاحية الهوية أقل من 14 شهراً.",
+      "question_en": "Can I renew before the Iqama expires?",
+      "answer_en": "Yes, you can renew if the Iqama validity is less than 14 months."
     },
     {
       "question_ar": "ماذا لو تأخرت عن موعد التجديد؟",
-      "answer_ar": "يجب التجديد قبل انتهاء الصلاحية بـ 3 أيام. الغرامة 500 ر.س للمرة الأولى، 1,000 للتكرار، والإبعاد للمرة الثالثة."
+      "answer_ar": "يجب التجديد قبل انتهاء الصلاحية بـ 3 أيام. الغرامة 500 ر.س للمرة الأولى، 1,000 للتكرار، والإبعاد للمرة الثالثة.",
+      "question_en": "What if I am late for renewal?",
+      "answer_en": "You should renew at least 3 days before expiry. The fine is SAR 500 for the first time, SAR 1,000 for repeat, and deportation for the third time."
     }
   ],
   "related_slugs": [
@@ -112,5 +126,7 @@
     "renew-work-permit"
   ],
   "last_updated": "########",
-  "penalty_ar": "غرامة التأخير: 500 ر.س للمرة الأولى — 1,000 ر.س للتكرار — الإبعاد للمرة الثالثة"
+  "penalty_ar": "غرامة التأخير: 500 ر.س للمرة الأولى — 1,000 ر.س للتكرار — الإبعاد للمرة الثالثة",
+  "description_en": "This service enables you to renew a resident identity (Iqama) for your family members or domestic workers electronically via Absher, without visiting the Passport office.",
+  "penalty_en": "Late renewal fine: SAR 500 first time — SAR 1,000 repeat — deportation third time"
 }

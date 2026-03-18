@@ -37,7 +37,9 @@
     {
       "label_ar": "رسوم الخدمة",
       "amount": 0,
-      "unit_ar": "مجانية"
+      "unit_ar": "مجانية",
+      "label_en": "Service fee",
+      "unit_en": "Free"
     }
   ],
   "steps": [
@@ -69,15 +71,21 @@
   "troubles": [
     {
       "question_ar": "مخالفة مسجلة على مركبتي لكنني لم أكن السائق",
-      "answer_ar": "يمكنك تقديم اعتراض عبر منصة أبشر أو تطبيق المرور (كلنا أمن). يجب تقديم الاعتراض خلال 30 يوماً من تاريخ المخالفة."
+      "answer_ar": "يمكنك تقديم اعتراض عبر منصة أبشر أو تطبيق المرور (كلنا أمن). يجب تقديم الاعتراض خلال 30 يوماً من تاريخ المخالفة.",
+      "question_en": "A violation is registered on my vehicle but I was not the driver",
+      "answer_en": "You can submit an objection via Absher or the Traffic app (Kulluna Amn). The objection must be filed within 30 days of the violation date."
     },
     {
       "question_ar": "هل هناك خصم على السداد المبكر؟",
-      "answer_ar": "نعم، بعض المخالفات عليها خصم 25% عند السداد خلال 30 يوماً من تاريخ تسجيلها."
+      "answer_ar": "نعم، بعض المخالفات عليها خصم 25% عند السداد خلال 30 يوماً من تاريخ تسجيلها.",
+      "question_en": "Is there a discount for early payment?",
+      "answer_en": "Yes, some violations have a 25% discount when paid within 30 days of registration."
     },
     {
       "question_ar": "المخالفات لا تظهر في أبشر",
-      "answer_ar": "قد تحتاج 48-72 ساعة لتظهر بعد التسجيل. يمكنك أيضاً الاستعلام عبر تطبيق المرور أو منصة إيفاء."
+      "answer_ar": "قد تحتاج 48-72 ساعة لتظهر بعد التسجيل. يمكنك أيضاً الاستعلام عبر تطبيق المرور أو منصة إيفاء.",
+      "question_en": "Violations are not showing in Absher",
+      "answer_en": "It may take 48-72 hours to appear after registration. You can also check via the Traffic app or the Efa' platform."
     }
   ],
   "related_slugs": [
@@ -85,5 +93,7 @@
     "vehicle-registration-renewal"
   ],
   "last_updated": "########",
-  "penalty_ar": "المخالفات غير المسددة تمنع تجديد الإقامة ورخصة القيادة والاستمارة"
+  "penalty_ar": "المخالفات غير المسددة تمنع تجديد الإقامة ورخصة القيادة والاستمارة",
+  "description_en": "This service allows you to check traffic violations registered against you or your vehicles and pay them electronically via Absher or banking apps.",
+  "penalty_en": "Unpaid violations prevent Iqama renewal, driving license renewal, and vehicle registration renewal"
 }

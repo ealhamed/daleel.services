@@ -41,12 +41,16 @@
     {
       "label_ar": "تجديد عقد سكني",
       "amount": 125,
-      "unit_ar": "ر.س / سنة"
+      "unit_ar": "ر.س / سنة",
+      "label_en": "Residential contract renewal",
+      "unit_en": "SAR/year"
     },
     {
       "label_ar": "تجديد عقد تجاري",
       "amount": 200,
-      "unit_ar": "ر.س / سنة"
+      "unit_ar": "ر.س / سنة",
+      "label_en": "Commercial contract renewal",
+      "unit_en": "SAR/year"
     }
   ],
   "steps": [
@@ -74,20 +78,27 @@
   "troubles": [
     {
       "question_ar": "المؤجر رفع الإيجار ولا أوافق",
-      "answer_ar": "يمكنك رفض التجديد بالقيمة الجديدة. إذا لم يتم الاتفاق، يحق لكل طرف اللجوء للجنة إيجار عبر المنصة."
+      "answer_ar": "يمكنك رفض التجديد بالقيمة الجديدة. إذا لم يتم الاتفاق، يحق لكل طرف اللجوء للجنة إيجار عبر المنصة.",
+      "question_en": "The landlord raised the rent and I disagree",
+      "answer_en": "You can refuse renewal at the new rate. If no agreement is reached, either party can appeal to the Ejar committee via the platform."
     },
     {
       "question_ar": "العقد انتهى ولم يُجدد — ماذا يحدث؟",
-      "answer_ar": "العقد يتحول لحالة \"منتهي\" في إيجار. يمكن تجديده بأثر رجعي أو إنشاء عقد جديد."
+      "answer_ar": "العقد يتحول لحالة \"منتهي\" في إيجار. يمكن تجديده بأثر رجعي أو إنشاء عقد جديد.",
+      "question_en": "The contract expired and was not renewed — what happens?",
+      "answer_en": "The contract status changes to \"Expired\" in Ejar. It can be renewed retroactively or a new contract can be created."
     },
     {
       "question_ar": "هل يمكن تجديد العقد بقيمة مختلفة؟",
-      "answer_ar": "نعم، يمكن تعديل القيمة عند التجديد بموافقة الطرفين."
+      "answer_ar": "نعم، يمكن تعديل القيمة عند التجديد بموافقة الطرفين.",
+      "question_en": "Can the contract be renewed at a different rate?",
+      "answer_en": "Yes, the rate can be modified during renewal with the consent of both parties."
     }
   ],
   "related_slugs": [
     "ejar-rental-contract",
     "register-national-address"
   ],
-  "last_updated": "########"
+  "last_updated": "########",
+  "description_en": "This service allows renewal of a registered residential or commercial rental contract electronically before it expires via the Ejar platform."
 }

@@ -41,12 +41,16 @@
     {
       "label_ar": "سيارة خاصة",
       "amount": 74,
-      "unit_ar": "ر.س شامل الضريبة"
+      "unit_ar": "ر.س شامل الضريبة",
+      "label_en": "Private vehicle",
+      "unit_en": "SAR including VAT"
     },
     {
       "label_ar": "إعادة الفحص",
       "amount": 37,
-      "unit_ar": "ر.س"
+      "unit_ar": "ر.س",
+      "label_en": "Re-inspection",
+      "unit_en": "SAR"
     }
   ],
   "steps": [
@@ -78,19 +82,27 @@
   "troubles": [
     {
       "question_ar": "المركبة لم تنجح في الفحص — ما المهلة؟",
-      "answer_ar": "لديك 20 يوماً لإصلاح الملاحظات وإعادة الفحص برسوم مخفضة (37 ر.س)."
+      "answer_ar": "لديك 20 يوماً لإصلاح الملاحظات وإعادة الفحص برسوم مخفضة (37 ر.س).",
+      "question_en": "The vehicle did not pass inspection — what is the deadline?",
+      "answer_en": "You have 20 days to fix the issues and re-inspect at a reduced fee (SAR 37)."
     },
     {
       "question_ar": "هل يمكن فحص مركبة باستمارة منتهية؟",
-      "answer_ar": "نعم، يمكن الفحص والاستمارة منتهية. ستحتاج الفحص الساري لتجديد الاستمارة."
+      "answer_ar": "نعم، يمكن الفحص والاستمارة منتهية. ستحتاج الفحص الساري لتجديد الاستمارة.",
+      "question_en": "Can a vehicle with an expired registration be inspected?",
+      "answer_en": "Yes, you can inspect with an expired registration. You will need the valid inspection to renew the registration."
     },
     {
       "question_ar": "كم مدة صلاحية الفحص الدوري؟",
-      "answer_ar": "سنة واحدة للمركبات الخاصة الجديدة (أقل من 3 سنوات). سنة واحدة أو أقل للمركبات الأقدم."
+      "answer_ar": "سنة واحدة للمركبات الخاصة الجديدة (أقل من 3 سنوات). سنة واحدة أو أقل للمركبات الأقدم.",
+      "question_en": "How long is the inspection valid?",
+      "answer_en": "One year for new private vehicles (less than 3 years old). One year or less for older vehicles."
     },
     {
       "question_ar": "لمبة Check Engine تمنع النجاح؟",
-      "answer_ar": "نعم، أي إضاءة تحذيرية في لوحة العدادات قد تسبب الرسوب. أصلح المشكلة قبل الذهاب."
+      "answer_ar": "نعم، أي إضاءة تحذيرية في لوحة العدادات قد تسبب الرسوب. أصلح المشكلة قبل الذهاب.",
+      "question_en": "Does a Check Engine light cause failure?",
+      "answer_en": "Yes, any warning light on the dashboard may cause failure. Fix the issue before going."
     }
   ],
   "related_slugs": [
@@ -98,5 +110,7 @@
     "vehicle-ownership-transfer"
   ],
   "last_updated": "########",
-  "penalty_ar": "القيادة بدون فحص دوري ساري مخالفة مرورية وتمنع تجديد الاستمارة"
+  "penalty_ar": "القيادة بدون فحص دوري ساري مخالفة مرورية وتمنع تجديد الاستمارة",
+  "description_en": "Periodic vehicle inspection is mandatory for all vehicles in the Kingdom and required for vehicle registration renewal. It is done at approved inspection stations.",
+  "penalty_en": "Driving without a valid periodic inspection is a traffic violation and prevents vehicle registration renewal"
 }

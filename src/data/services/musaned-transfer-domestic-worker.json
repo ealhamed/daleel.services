@@ -41,7 +41,9 @@
     {
       "label_ar": "رسوم نقل الخدمات",
       "amount": 2000,
-      "unit_ar": "ر.س"
+      "unit_ar": "ر.س",
+      "label_en": "Transfer fee",
+      "unit_en": "SAR"
     }
   ],
   "steps": [
@@ -73,16 +75,21 @@
   "troubles": [
     {
       "question_ar": "الكفيل الحالي يرفض النقل",
-      "answer_ar": "في بعض الحالات يمكن النقل دون موافقته (مثل عدم دفع الراتب أو سوء المعاملة). قدّم شكوى عبر مساند."
+      "answer_ar": "في بعض الحالات يمكن النقل دون موافقته (مثل عدم دفع الراتب أو سوء المعاملة). قدّم شكوى عبر مساند.",
+      "question_en": "The current sponsor refuses the transfer",
+      "answer_en": "In some cases, transfer is possible without consent (such as unpaid salary or mistreatment). File a complaint via Musaned."
     },
     {
       "question_ar": "هل يمكن نقل عمالة منزلية عبر قوى؟",
-      "answer_ar": "لا، نقل العمالة المنزلية حصرياً عبر منصة مساند وليس قوى."
+      "answer_ar": "لا، نقل العمالة المنزلية حصرياً عبر منصة مساند وليس قوى.",
+      "question_en": "Can domestic workers be transferred via Qiwa?",
+      "answer_en": "No, domestic worker transfers are exclusively through the Musaned platform, not Qiwa."
     }
   ],
   "related_slugs": [
     "musaned-domestic-worker-visa",
     "renew-iqama"
   ],
-  "last_updated": "########"
+  "last_updated": "########",
+  "description_en": "This service allows the transfer of domestic worker services from one sponsor to another electronically via the Musaned platform."
 }

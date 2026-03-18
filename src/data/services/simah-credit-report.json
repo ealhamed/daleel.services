@@ -37,12 +37,16 @@
     {
       "label_ar": "التقرير المجاني",
       "amount": 0,
-      "unit_ar": "مرة واحدة سنوياً"
+      "unit_ar": "مرة واحدة سنوياً",
+      "label_en": "Free report",
+      "unit_en": "Once per year"
     },
     {
       "label_ar": "تقرير إضافي",
       "amount": 31,
-      "unit_ar": "ر.س"
+      "unit_ar": "ر.س",
+      "label_en": "Additional report",
+      "unit_en": "SAR"
     }
   ],
   "steps": [
@@ -66,24 +70,33 @@
   "troubles": [
     {
       "question_ar": "درجتي الائتمانية منخفضة — كيف أحسّنها؟",
-      "answer_ar": "سدّد المتأخرات، لا تتجاوز 30% من حد بطاقاتك، ولا تتقدم على عدة قروض في وقت قصير. التحسن يأخذ 3-6 أشهر."
+      "answer_ar": "سدّد المتأخرات، لا تتجاوز 30% من حد بطاقاتك، ولا تتقدم على عدة قروض في وقت قصير. التحسن يأخذ 3-6 أشهر.",
+      "question_en": "My credit score is low — how do I improve it?",
+      "answer_en": "Pay off overdue balances, do not exceed 30% of your card limit, and do not apply for multiple loans in a short time. Improvement takes 3-6 months."
     },
     {
       "question_ar": "يوجد قرض في التقرير لم آخذه",
-      "answer_ar": "قدّم اعتراضاً عبر موقع سمة. سيتم التحقق مع الجهة المسجلة وتصحيح البيانات خلال 20 يوم عمل."
+      "answer_ar": "قدّم اعتراضاً عبر موقع سمة. سيتم التحقق مع الجهة المسجلة وتصحيح البيانات خلال 20 يوم عمل.",
+      "question_en": "There is a loan in the report that I did not take",
+      "answer_en": "Submit an objection via the SIMAH website. It will be verified with the registered entity and corrected within 20 business days."
     },
     {
       "question_ar": "هل يؤثر الاستعلام على درجتي؟",
-      "answer_ar": "استعلامك الشخصي لا يؤثر. لكن استعلامات البنوك عند تقديمك على قروض متعددة قد تخفض الدرجة مؤقتاً."
+      "answer_ar": "استعلامك الشخصي لا يؤثر. لكن استعلامات البنوك عند تقديمك على قروض متعددة قد تخفض الدرجة مؤقتاً.",
+      "question_en": "Does checking affect my score?",
+      "answer_en": "Your personal inquiry does not affect it. However, bank inquiries when applying for multiple loans may temporarily lower the score."
     },
     {
       "question_ar": "كم مرة أستطيع طلب التقرير مجاناً؟",
-      "answer_ar": "مرة واحدة كل 12 شهراً. أي تقرير إضافي يكلف 31 ر.س."
+      "answer_ar": "مرة واحدة كل 12 شهراً. أي تقرير إضافي يكلف 31 ر.س.",
+      "question_en": "How many times can I request a free report?",
+      "answer_en": "Once every 12 months. Any additional report costs SAR 31."
     }
   ],
   "related_slugs": [
     "absher-account-registration",
     "nafath-setup"
   ],
-  "last_updated": "########"
+  "last_updated": "########",
+  "description_en": "The SIMAH report shows your credit history with banks and finance companies. It is required when applying for loans, credit cards, or real estate financing."
 }

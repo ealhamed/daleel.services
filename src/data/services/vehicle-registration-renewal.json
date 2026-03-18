@@ -45,17 +45,23 @@
     {
       "label_ar": "مركبة خاصة",
       "amount": 100,
-      "unit_ar": "ر.س / سنة"
+      "unit_ar": "ر.س / سنة",
+      "label_en": "Private vehicle",
+      "unit_en": "SAR/year"
     },
     {
       "label_ar": "مركبة نقل",
       "amount": 200,
-      "unit_ar": "ر.س / سنة"
+      "unit_ar": "ر.س / سنة",
+      "label_en": "Transport vehicle",
+      "unit_en": "SAR/year"
     },
     {
       "label_ar": "دراجة نارية",
       "amount": 50,
-      "unit_ar": "ر.س / سنة"
+      "unit_ar": "ر.س / سنة",
+      "label_en": "Motorcycle",
+      "unit_en": "SAR/year"
     }
   ],
   "steps": [
@@ -87,19 +93,27 @@
   "troubles": [
     {
       "question_ar": "ظهرت رسالة \"الفحص الدوري غير ساري\"",
-      "answer_ar": "قم بزيارة أقرب محطة فحص دوري. الفحص يرتبط بأبشر تلقائياً خلال ساعات."
+      "answer_ar": "قم بزيارة أقرب محطة فحص دوري. الفحص يرتبط بأبشر تلقائياً خلال ساعات.",
+      "question_en": "\"Periodic inspection not valid\" message appeared",
+      "answer_en": "Visit the nearest inspection station. The inspection links to Absher automatically within hours."
     },
     {
       "question_ar": "ظهرت رسالة \"التأمين غير ساري\"",
-      "answer_ar": "اشترِ أو جدّد التأمين عبر أي تطبيق تأمين معتمد. يرتبط بأبشر تلقائياً خلال 24 ساعة."
+      "answer_ar": "اشترِ أو جدّد التأمين عبر أي تطبيق تأمين معتمد. يرتبط بأبشر تلقائياً خلال 24 ساعة.",
+      "question_en": "\"Insurance not valid\" message appeared",
+      "answer_en": "Purchase or renew insurance via any approved insurance app. It links to Absher automatically within 24 hours."
     },
     {
       "question_ar": "هل يمكن التجديد لأكثر من سنة؟",
-      "answer_ar": "نعم، يمكن التجديد لمدة تصل إلى 3 سنوات مقدماً، بشرط أن يكون التأمين والفحص يغطيان المدة."
+      "answer_ar": "نعم، يمكن التجديد لمدة تصل إلى 3 سنوات مقدماً، بشرط أن يكون التأمين والفحص يغطيان المدة.",
+      "question_en": "Can I renew for more than one year?",
+      "answer_en": "Yes, you can renew for up to 3 years in advance, provided insurance and inspection cover the period."
     },
     {
       "question_ar": "المركبة مرهونة للبنك — هل يمكن التجديد؟",
-      "answer_ar": "نعم، رهن المركبة لا يمنع تجديد الاستمارة."
+      "answer_ar": "نعم، رهن المركبة لا يمنع تجديد الاستمارة.",
+      "question_en": "The vehicle is mortgaged to a bank — can I renew?",
+      "answer_en": "Yes, a vehicle mortgage does not prevent registration renewal."
     }
   ],
   "related_slugs": [
@@ -107,5 +121,7 @@
     "pay-traffic-fines"
   ],
   "last_updated": "########",
-  "penalty_ar": "غرامة التأخير في التجديد تتراوح بين 100-150 ر.س، والقيادة باستمارة منتهية مخالفة مرورية"
+  "penalty_ar": "غرامة التأخير في التجديد تتراوح بين 100-150 ر.س، والقيادة باستمارة منتهية مخالفة مرورية",
+  "description_en": "This service allows you to renew your vehicle registration (Istimara) electronically via Absher, provided you have a valid periodic inspection and active insurance.",
+  "penalty_en": "Late renewal fine ranges from SAR 100-150, and driving with an expired registration is a traffic violation"
 }

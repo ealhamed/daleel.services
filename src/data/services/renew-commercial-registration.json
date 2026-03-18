@@ -41,12 +41,16 @@
     {
       "label_ar": "سجل رئيسي",
       "amount": 200,
-      "unit_ar": "ر.س / سنة"
+      "unit_ar": "ر.س / سنة",
+      "label_en": "Main registration",
+      "unit_en": "SAR/year"
     },
     {
       "label_ar": "سجل فرعي",
       "amount": 100,
-      "unit_ar": "ر.س / سنة"
+      "unit_ar": "ر.س / سنة",
+      "label_en": "Branch registration",
+      "unit_en": "SAR/year"
     }
   ],
   "steps": [
@@ -74,11 +78,15 @@
   "troubles": [
     {
       "question_ar": "السجل انتهى منذ أكثر من 30 يوم",
-      "answer_ar": "إذا لم يُشطب بعد، يمكن التجديد مع دفع الغرامة. إذا شُطب، يجب إصدار سجل جديد."
+      "answer_ar": "إذا لم يُشطب بعد، يمكن التجديد مع دفع الغرامة. إذا شُطب، يجب إصدار سجل جديد.",
+      "question_en": "The registration expired more than 30 days ago",
+      "answer_en": "If not yet deregistered, you can renew with a fine. If deregistered, you must issue a new registration."
     },
     {
       "question_ar": "هل يمكن التجديد لأكثر من سنة؟",
-      "answer_ar": "نعم، يمكن التجديد لمدة تصل إلى 5 سنوات."
+      "answer_ar": "نعم، يمكن التجديد لمدة تصل إلى 5 سنوات.",
+      "question_en": "Can I renew for more than one year?",
+      "answer_en": "Yes, you can renew for up to 5 years."
     }
   ],
   "related_slugs": [
@@ -86,5 +94,7 @@
     "issue-municipal-license"
   ],
   "last_updated": "########",
-  "penalty_ar": "عدم التجديد خلال 30 يوماً من الانتهاء يعرّض المنشأة لغرامة تصل إلى 10,000 ر.س وقد يؤدي للشطب"
+  "penalty_ar": "عدم التجديد خلال 30 يوماً من الانتهاء يعرّض المنشأة لغرامة تصل إلى 10,000 ر.س وقد يؤدي للشطب",
+  "description_en": "This service allows you to renew your commercial registration electronically before it expires to avoid fines and deregistration.",
+  "penalty_en": "Failure to renew within 30 days of expiry exposes the business to fines up to SAR 10,000 and possible deregistration"
 }

@@ -45,12 +45,16 @@
     {
       "label_ar": "رسوم الإفراغ",
       "amount": 0,
-      "unit_ar": "مجاني"
+      "unit_ar": "مجاني",
+      "label_en": "Transfer fee",
+      "unit_en": "Free"
     },
     {
       "label_ar": "ضريبة التصرفات العقارية",
       "amount": 5,
-      "unit_ar": "% من قيمة العقار"
+      "unit_ar": "% من قيمة العقار",
+      "label_en": "Real estate transaction tax",
+      "unit_en": "% of property value"
     }
   ],
   "steps": [
@@ -78,20 +82,27 @@
   "troubles": [
     {
       "question_ar": "الصك ورقي وليس إلكتروني",
-      "answer_ar": "يجب تحويله إلى إلكتروني عبر ناجز أولاً (خدمة تحديث الصكوك)."
+      "answer_ar": "يجب تحويله إلى إلكتروني عبر ناجز أولاً (خدمة تحديث الصكوك).",
+      "question_en": "The deed is paper, not electronic",
+      "answer_en": "You must convert it to electronic via Najiz first (deed update service)."
     },
     {
       "question_ar": "هل يمكن إفراغ عقار مرهون؟",
-      "answer_ar": "لا، يجب فك الرهن من البنك أولاً."
+      "answer_ar": "لا، يجب فك الرهن من البنك أولاً.",
+      "question_en": "Can a mortgaged property be transferred?",
+      "answer_en": "No, the mortgage must be released by the bank first."
     },
     {
       "question_ar": "من يدفع ضريبة التصرفات العقارية؟",
-      "answer_ar": "البائع هو المسؤول نظاماً، لكن يمكن الاتفاق على تحمّل المشتري لها."
+      "answer_ar": "البائع هو المسؤول نظاماً، لكن يمكن الاتفاق على تحمّل المشتري لها.",
+      "question_en": "Who pays the real estate transaction tax?",
+      "answer_en": "The seller is legally responsible, but parties can agree for the buyer to bear it."
     }
   ],
   "related_slugs": [
     "power-of-attorney-najiz",
     "ejar-rental-contract"
   ],
-  "last_updated": "########"
+  "last_updated": "########",
+  "description_en": "This service allows the transfer of property ownership from seller to buyer electronically via the Najiz portal, without visiting a notary office."
 }

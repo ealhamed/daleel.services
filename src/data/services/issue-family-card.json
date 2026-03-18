@@ -41,7 +41,9 @@
     {
       "label_ar": "الإصدار",
       "amount": 0,
-      "unit_ar": "مجاني"
+      "unit_ar": "مجاني",
+      "label_en": "Issuance",
+      "unit_en": "Free"
     }
   ],
   "steps": [
@@ -69,15 +71,21 @@
   "troubles": [
     {
       "question_ar": "أحد الأبناء لا يظهر في البطاقة",
-      "answer_ar": "تأكد من تسجيله في الأحوال المدنية. إذا كان مولوداً حديثاً، سجّله أولاً عبر أبشر ثم حدّث البطاقة."
+      "answer_ar": "تأكد من تسجيله في الأحوال المدنية. إذا كان مولوداً حديثاً، سجّله أولاً عبر أبشر ثم حدّث البطاقة.",
+      "question_en": "One of my children does not appear on the card",
+      "answer_en": "Make sure they are registered in Civil Affairs. If they are a newborn, register them first via Absher then update the card."
     },
     {
       "question_ar": "هل بطاقة العائلة الإلكترونية معتمدة؟",
-      "answer_ar": "نعم، البطاقة الإلكترونية في أبشر وتوكلنا معتمدة رسمياً."
+      "answer_ar": "نعم، البطاقة الإلكترونية في أبشر وتوكلنا معتمدة رسمياً.",
+      "question_en": "Is the electronic family card officially accepted?",
+      "answer_en": "Yes, the electronic card in Absher and Tawakkalna is officially recognized."
     },
     {
       "question_ar": "كيف أضيف زوجة ثانية؟",
-      "answer_ar": "بعد توثيق عقد الزواج الثاني عبر ناجز، حدّث بطاقة العائلة لتشمل الزوجة الجديدة وأبناءها."
+      "answer_ar": "بعد توثيق عقد الزواج الثاني عبر ناجز، حدّث بطاقة العائلة لتشمل الزوجة الجديدة وأبناءها.",
+      "question_en": "How do I add a second wife?",
+      "answer_en": "After registering the second marriage contract via Najiz, update the family card to include the new wife and her children."
     }
   ],
   "related_slugs": [
@@ -85,5 +93,6 @@
     "marriage-contract-najiz",
     "renew-national-id"
   ],
-  "last_updated": "########"
+  "last_updated": "########",
+  "description_en": "The family card is an official document that certifies family members and their relationships. It is required for many government, educational, and health transactions."
 }

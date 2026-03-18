@@ -45,12 +45,16 @@
     {
       "label_ar": "تأشيرة الاستقدام",
       "amount": 2000,
-      "unit_ar": "ر.س تقريباً"
+      "unit_ar": "ر.س تقريباً",
+      "label_en": "Recruitment visa",
+      "unit_en": "SAR approx."
     },
     {
       "label_ar": "تكاليف الاستقدام (مكتب)",
       "amount": 15000,
-      "unit_ar": "ر.س - 30,000 ر.س"
+      "unit_ar": "ر.س - 30,000 ر.س",
+      "label_en": "Recruitment costs (agency)",
+      "unit_en": "SAR - 30,000 SAR"
     }
   ],
   "steps": [
@@ -82,20 +86,27 @@
   "troubles": [
     {
       "question_ar": "كم يستغرق وصول العامل؟",
-      "answer_ar": "يختلف حسب الجنسية: 1-3 أشهر للفلبين وإندونيسيا، وقد يكون أقل لجنسيات أخرى."
+      "answer_ar": "يختلف حسب الجنسية: 1-3 أشهر للفلبين وإندونيسيا، وقد يكون أقل لجنسيات أخرى.",
+      "question_en": "How long does it take for the worker to arrive?",
+      "answer_en": "It varies by nationality: 1-3 months for Philippines and Indonesia, and may be less for other nationalities."
     },
     {
       "question_ar": "ماذا لو لم يعجبني العامل؟",
-      "answer_ar": "يوجد فترة تجربة (90 يوماً). يمكنك إعادة العامل عبر مساند واسترداد جزء من المبلغ حسب سياسة المكتب."
+      "answer_ar": "يوجد فترة تجربة (90 يوماً). يمكنك إعادة العامل عبر مساند واسترداد جزء من المبلغ حسب سياسة المكتب.",
+      "question_en": "What if I am not satisfied with the worker?",
+      "answer_en": "There is a 90-day trial period. You can return the worker via Musaned and recover part of the cost based on the agency policy."
     },
     {
       "question_ar": "هل يمكن نقل عمالة منزلية بدلاً من الاستقدام؟",
-      "answer_ar": "نعم، يمكن نقل خدمات عمالة منزلية من كفيل آخر عبر منصة مساند."
+      "answer_ar": "نعم، يمكن نقل خدمات عمالة منزلية من كفيل آخر عبر منصة مساند.",
+      "question_en": "Can I transfer a domestic worker instead of recruiting?",
+      "answer_en": "Yes, you can transfer domestic worker services from another sponsor via the Musaned platform."
     }
   ],
   "related_slugs": [
     "renew-iqama",
     "transfer-sponsorship"
   ],
-  "last_updated": "########"
+  "last_updated": "########",
+  "description_en": "The Musaned platform allows employers to recruit domestic workers (drivers, maids, nannies, cooks) from outside the Kingdom electronically."
 }

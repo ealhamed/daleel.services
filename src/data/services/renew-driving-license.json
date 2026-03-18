@@ -45,17 +45,23 @@
     {
       "label_ar": "تجديد 5 سنوات",
       "amount": 200,
-      "unit_ar": "ر.س"
+      "unit_ar": "ر.س",
+      "label_en": "5-year renewal",
+      "unit_en": "SAR"
     },
     {
       "label_ar": "تجديد 10 سنوات",
       "amount": 400,
-      "unit_ar": "ر.س"
+      "unit_ar": "ر.س",
+      "label_en": "10-year renewal",
+      "unit_en": "SAR"
     },
     {
       "label_ar": "توصيل الرخصة",
       "amount": 39,
-      "unit_ar": "ر.س"
+      "unit_ar": "ر.س",
+      "label_en": "License delivery",
+      "unit_en": "SAR"
     }
   ],
   "steps": [
@@ -87,15 +93,21 @@
   "troubles": [
     {
       "question_ar": "ظهرت رسالة \"يلزم فحص طبي\"",
-      "answer_ar": "قم بزيارة أي مستوصف أو مستشفى معتمد واطلب فحص رخصة القيادة. النتيجة ترتبط تلقائياً بأبشر."
+      "answer_ar": "قم بزيارة أي مستوصف أو مستشفى معتمد واطلب فحص رخصة القيادة. النتيجة ترتبط تلقائياً بأبشر.",
+      "question_en": "\"Medical examination required\" message appeared",
+      "answer_en": "Visit any approved clinic or hospital and request a driving license medical exam. The result links to Absher automatically."
     },
     {
       "question_ar": "هل يمكن التجديد والرخصة منتهية منذ سنوات؟",
-      "answer_ar": "نعم، مع دفع غرامات التأخير. قد يُطلب فحص طبي إذا مضت فترة طويلة."
+      "answer_ar": "نعم، مع دفع غرامات التأخير. قد يُطلب فحص طبي إذا مضت فترة طويلة.",
+      "question_en": "Can I renew if the license has been expired for years?",
+      "answer_en": "Yes, with late renewal fines. A medical exam may be required if a long period has passed."
     },
     {
       "question_ar": "هل يمكن الحصول على رخصة رقمية بدل الطباعة؟",
-      "answer_ar": "نعم، رخصة القيادة متاحة رقمياً عبر تطبيق توكلنا وهي معتمدة رسمياً."
+      "answer_ar": "نعم، رخصة القيادة متاحة رقمياً عبر تطبيق توكلنا وهي معتمدة رسمياً.",
+      "question_en": "Can I get a digital license instead of a printed one?",
+      "answer_en": "Yes, the driving license is available digitally via the Tawakkalna app and is officially recognized."
     }
   ],
   "related_slugs": [
@@ -103,5 +115,7 @@
     "vehicle-registration-renewal"
   ],
   "last_updated": "########",
-  "penalty_ar": "غرامة تأخير التجديد تتراوح بين 100-150 ر.س، والقيادة برخصة منتهية مخالفة مرورية"
+  "penalty_ar": "غرامة تأخير التجديد تتراوح بين 100-150 ر.س، والقيادة برخصة منتهية مخالفة مرورية",
+  "description_en": "This service enables citizens and residents to renew their driving license electronically via Absher without visiting the Traffic Department.",
+  "penalty_en": "Late renewal fine ranges from SAR 100-150, and driving with an expired license is a traffic violation"
 }

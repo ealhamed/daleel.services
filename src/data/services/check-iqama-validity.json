@@ -37,7 +37,9 @@
     {
       "label_ar": "الاستعلام",
       "amount": 0,
-      "unit_ar": "مجاني"
+      "unit_ar": "مجاني",
+      "label_en": "Inquiry",
+      "unit_en": "Free"
     }
   ],
   "steps": [
@@ -61,19 +63,27 @@
   "troubles": [
     {
       "question_ar": "هل يمكن الاستعلام بدون أبشر؟",
-      "answer_ar": "نعم، يمكن الاستعلام عبر موقع وزارة الموارد البشرية (خدمة استعلام عن موظف وافد) برقم الإقامة فقط."
+      "answer_ar": "نعم، يمكن الاستعلام عبر موقع وزارة الموارد البشرية (خدمة استعلام عن موظف وافد) برقم الإقامة فقط.",
+      "question_en": "Can I check without Absher?",
+      "answer_en": "Yes, you can check via the Ministry of Human Resources website (expatriate employee inquiry service) using only the Iqama number."
     },
     {
       "question_ar": "الإقامة منتهية — ماذا أفعل؟",
-      "answer_ar": "جدّد الإقامة فوراً عبر أبشر لتجنب الغرامة (500 ر.س للمرة الأولى). إذا تجاوزت 3 أيام من الانتهاء ستُفرض الغرامة تلقائياً."
+      "answer_ar": "جدّد الإقامة فوراً عبر أبشر لتجنب الغرامة (500 ر.س للمرة الأولى). إذا تجاوزت 3 أيام من الانتهاء ستُفرض الغرامة تلقائياً.",
+      "question_en": "My Iqama has expired — what should I do?",
+      "answer_en": "Renew the Iqama immediately via Absher to avoid the fine (SAR 500 for the first time). If more than 3 days past expiry, the fine is applied automatically."
     },
     {
       "question_ar": "هل يمكن الاستعلام عن إقامة شخص آخر؟",
-      "answer_ar": "نعم، إذا كان مكفولاً لديك (عمالة منزلية أو تابعين) يمكنك رؤية صلاحية إقامتهم من حسابك."
+      "answer_ar": "نعم، إذا كان مكفولاً لديك (عمالة منزلية أو تابعين) يمكنك رؤية صلاحية إقامتهم من حسابك.",
+      "question_en": "Can I check someone else's Iqama?",
+      "answer_en": "Yes, if they are under your sponsorship (domestic workers or dependents), you can see their Iqama validity from your account."
     },
     {
       "question_ar": "الإقامة تنتهي بعد أسبوع — هل أجدد الآن؟",
-      "answer_ar": "نعم، يُنصح بالتجديد قبل الانتهاء بـ 3 أيام على الأقل. يمكنك التجديد إذا كانت الصلاحية أقل من 14 شهراً."
+      "answer_ar": "نعم، يُنصح بالتجديد قبل الانتهاء بـ 3 أيام على الأقل. يمكنك التجديد إذا كانت الصلاحية أقل من 14 شهراً.",
+      "question_en": "My Iqama expires in a week — should I renew now?",
+      "answer_en": "Yes, it is recommended to renew at least 3 days before expiry. You can renew if the validity is less than 14 months."
     }
   ],
   "related_slugs": [
@@ -81,5 +91,6 @@
     "dependents-fee-payment",
     "exit-reentry-visa"
   ],
-  "last_updated": "########"
+  "last_updated": "########",
+  "description_en": "This service allows you to check the expiry date of your Iqama or your dependents' Iqama online via Absher, to avoid fines and delays."
 }

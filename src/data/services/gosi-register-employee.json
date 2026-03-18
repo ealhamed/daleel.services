@@ -45,12 +45,16 @@
     {
       "label_ar": "اشتراك سعودي",
       "amount": 21.5,
-      "unit_ar": "% من الراتب شهرياً"
+      "unit_ar": "% من الراتب شهرياً",
+      "label_en": "Saudi subscription",
+      "unit_en": "% of salary monthly"
     },
     {
       "label_ar": "اشتراك وافد",
       "amount": 2,
-      "unit_ar": "% أخطار مهنية فقط"
+      "unit_ar": "% أخطار مهنية فقط",
+      "label_en": "Non-Saudi subscription",
+      "unit_en": "% occupational hazards only"
     }
   ],
   "steps": [
@@ -78,15 +82,21 @@
   "troubles": [
     {
       "question_ar": "الموظف مسجل في منشأة أخرى",
-      "answer_ar": "يجب أن تُلغي المنشأة السابقة اشتراكه أولاً، أو يتم النقل تلقائياً عبر قوى عند نقل الخدمات."
+      "answer_ar": "يجب أن تُلغي المنشأة السابقة اشتراكه أولاً، أو يتم النقل تلقائياً عبر قوى عند نقل الخدمات.",
+      "question_en": "The employee is registered at another establishment",
+      "answer_en": "The previous establishment must cancel their subscription first, or the transfer happens automatically via Qiwa when transferring services."
     },
     {
       "question_ar": "ما نسبة الاشتراك للموظف السعودي؟",
-      "answer_ar": "المجموع 21.5%: يدفع صاحب العمل 11.75% والموظف 9.75% (تُخصم من راتبه)."
+      "answer_ar": "المجموع 21.5%: يدفع صاحب العمل 11.75% والموظف 9.75% (تُخصم من راتبه).",
+      "question_en": "What is the subscription rate for Saudi employees?",
+      "answer_en": "Total 21.5%: employer pays 11.75% and employee pays 9.75% (deducted from salary)."
     },
     {
       "question_ar": "هل يمكن التسجيل بأثر رجعي؟",
-      "answer_ar": "نعم، لكن قد تُفرض غرامات على التأخير حسب عدد الأشهر."
+      "answer_ar": "نعم، لكن قد تُفرض غرامات على التأخير حسب عدد الأشهر.",
+      "question_en": "Can registration be done retroactively?",
+      "answer_en": "Yes, but fines may apply for the delay based on the number of months."
     }
   ],
   "related_slugs": [
@@ -94,5 +104,7 @@
     "transfer-sponsorship"
   ],
   "last_updated": "########",
-  "penalty_ar": "التأخر في التسجيل يعرّض المنشأة لغرامات تصل إلى 10,000 ر.س وقد يؤثر على نطاقات"
+  "penalty_ar": "التأخر في التسجيل يعرّض المنشأة لغرامات تصل إلى 10,000 ر.س وقد يؤثر على نطاقات",
+  "description_en": "This service allows business owners to register their new employees (Saudi and non-Saudi) in the social insurance system electronically via the GOSI Amaal portal.",
+  "penalty_en": "Late registration exposes the establishment to fines up to SAR 10,000 and may affect Nitaqat rating"
 }

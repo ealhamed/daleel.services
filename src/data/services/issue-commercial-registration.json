@@ -45,17 +45,23 @@
     {
       "label_ar": "سجل رئيسي",
       "amount": 200,
-      "unit_ar": "ر.س / سنة"
+      "unit_ar": "ر.س / سنة",
+      "label_en": "Main registration",
+      "unit_en": "SAR/year"
     },
     {
       "label_ar": "سجل فرعي",
       "amount": 100,
-      "unit_ar": "ر.س / سنة"
+      "unit_ar": "ر.س / سنة",
+      "label_en": "Branch registration",
+      "unit_en": "SAR/year"
     },
     {
       "label_ar": "الغرفة التجارية",
       "amount": 300,
-      "unit_ar": "ر.س / سنة تقريباً"
+      "unit_ar": "ر.س / سنة تقريباً",
+      "label_en": "Chamber of Commerce",
+      "unit_en": "SAR/year approx."
     }
   ],
   "steps": [
@@ -91,15 +97,21 @@
   "troubles": [
     {
       "question_ar": "الاسم التجاري الذي أريده غير متاح",
-      "answer_ar": "جرّب إضافة كلمة مميزة أو تعديل الصياغة. لا يمكن تكرار الأسماء التجارية المسجلة."
+      "answer_ar": "جرّب إضافة كلمة مميزة أو تعديل الصياغة. لا يمكن تكرار الأسماء التجارية المسجلة.",
+      "question_en": "The business name I want is not available",
+      "answer_en": "Try adding a distinctive word or modifying the wording. Registered business names cannot be duplicated."
     },
     {
       "question_ar": "هل يمكن لموظف حكومي إصدار سجل تجاري؟",
-      "answer_ar": "لا يمكن إصدار سجل رئيسي، لكن يمكن أن يكون شريكاً في سجل فرعي بنسبة لا تتجاوز حداً معيناً."
+      "answer_ar": "لا يمكن إصدار سجل رئيسي، لكن يمكن أن يكون شريكاً في سجل فرعي بنسبة لا تتجاوز حداً معيناً.",
+      "question_en": "Can a government employee issue a commercial registration?",
+      "answer_en": "A main registration cannot be issued, but they can be a partner in a branch registration up to a certain percentage."
     },
     {
       "question_ar": "ما الفرق بين السجل الرئيسي والفرعي؟",
-      "answer_ar": "الرئيسي هو السجل الأساسي للمنشأة. الفرعي يُصدر لفرع في مدينة أخرى أو لنشاط إضافي تحت نفس المنشأة."
+      "answer_ar": "الرئيسي هو السجل الأساسي للمنشأة. الفرعي يُصدر لفرع في مدينة أخرى أو لنشاط إضافي تحت نفس المنشأة.",
+      "question_en": "What is the difference between main and branch registration?",
+      "answer_en": "Main is the primary registration for the business. Branch is issued for a branch in another city or an additional activity under the same business."
     }
   ],
   "related_slugs": [
@@ -107,5 +119,7 @@
     "issue-municipal-license"
   ],
   "last_updated": "########",
-  "penalty_ar": "عدم تجديد السجل خلال 30 يوماً من انتهائه يعرّض المنشأة لغرامة وشطب"
+  "penalty_ar": "عدم تجديد السجل خلال 30 يوماً من انتهائه يعرّض المنشأة لغرامة وشطب",
+  "description_en": "This service allows you to issue a main or branch commercial registration for your business electronically via the Saudi Business Center — the first step to starting any business in the Kingdom.",
+  "penalty_en": "Failure to renew within 30 days of expiry exposes the business to fines and deregistration"
 }

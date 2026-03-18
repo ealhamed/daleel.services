@@ -45,12 +45,16 @@
     {
       "label_ar": "تأشيرة مفردة (90 يوم)",
       "amount": 300,
-      "unit_ar": "ر.س"
+      "unit_ar": "ر.س",
+      "label_en": "Single visa (90 days)",
+      "unit_en": "SAR"
     },
     {
       "label_ar": "تأشيرة متعددة (سنة)",
       "amount": 500,
-      "unit_ar": "ر.س"
+      "unit_ar": "ر.س",
+      "label_en": "Multiple visa (1 year)",
+      "unit_en": "SAR"
     }
   ],
   "steps": [
@@ -82,15 +86,21 @@
   "troubles": [
     {
       "question_ar": "تم رفض الطلب — ماذا أفعل؟",
-      "answer_ar": "الأسباب الشائعة: راتب أقل من الحد، جواز منتهي، أو طلب مقدم لنفس الشخص مسبقاً. صحّح السبب وأعد التقديم."
+      "answer_ar": "الأسباب الشائعة: راتب أقل من الحد، جواز منتهي، أو طلب مقدم لنفس الشخص مسبقاً. صحّح السبب وأعد التقديم.",
+      "question_en": "My application was rejected — what should I do?",
+      "answer_en": "Common reasons: salary below the minimum, expired passport, or a previous application for the same person. Fix the reason and reapply."
     },
     {
       "question_ar": "هل يمكن تمديد الزيارة العائلية؟",
-      "answer_ar": "نعم، يمكن تمديدها عبر أبشر أو منصة مقيم قبل انتهاء صلاحيتها."
+      "answer_ar": "نعم، يمكن تمديدها عبر أبشر أو منصة مقيم قبل انتهاء صلاحيتها.",
+      "question_en": "Can the family visit be extended?",
+      "answer_en": "Yes, it can be extended via Absher or the Muqeem platform before it expires."
     },
     {
       "question_ar": "ما الفرق بين زيارة عائلية وزيارة شخصية؟",
-      "answer_ar": "العائلية تشمل الأقارب من الدرجة الأولى والثانية. الشخصية تشمل الأصدقاء وغير الأقارب."
+      "answer_ar": "العائلية تشمل الأقارب من الدرجة الأولى والثانية. الشخصية تشمل الأصدقاء وغير الأقارب.",
+      "question_en": "What is the difference between a family visit and a personal visit?",
+      "answer_en": "Family visits include first and second degree relatives. Personal visits include friends and non-relatives."
     }
   ],
   "related_slugs": [
@@ -98,5 +108,7 @@
     "renew-iqama"
   ],
   "last_updated": "########",
-  "penalty_ar": "عدم مغادرة الزائر قبل انتهاء التأشيرة يعرّض الكفيل لغرامة ومنع من إصدار تأشيرات مستقبلية"
+  "penalty_ar": "عدم مغادرة الزائر قبل انتهاء التأشيرة يعرّض الكفيل لغرامة ومنع من إصدار تأشيرات مستقبلية",
+  "description_en": "This service allows you to apply for a family visit visa to bring your family members from outside the Kingdom for a temporary visit.",
+  "penalty_en": "If the visitor does not leave before the visa expires, the sponsor faces a fine and a ban on future visa issuance"
 }

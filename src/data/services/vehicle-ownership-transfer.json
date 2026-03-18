@@ -49,7 +49,9 @@
     {
       "label_ar": "رسوم النقل",
       "amount": 150,
-      "unit_ar": "ر.س"
+      "unit_ar": "ر.س",
+      "label_en": "Transfer fee",
+      "unit_en": "SAR"
     }
   ],
   "steps": [
@@ -77,20 +79,27 @@
   "troubles": [
     {
       "question_ar": "المركبة مرهونة للبنك — هل يمكن النقل؟",
-      "answer_ar": "لا، يجب فك الرهن أولاً من البنك ثم إجراء النقل."
+      "answer_ar": "لا، يجب فك الرهن أولاً من البنك ثم إجراء النقل.",
+      "question_en": "The vehicle is mortgaged to a bank — can it be transferred?",
+      "answer_en": "No, the mortgage must be released by the bank first, then the transfer can proceed."
     },
     {
       "question_ar": "المشتري لم يقبل الطلب",
-      "answer_ar": "الطلب صالح لمدة 7 أيام. بعدها ينتهي ويحتاج لإعادة الإرسال."
+      "answer_ar": "الطلب صالح لمدة 7 أيام. بعدها ينتهي ويحتاج لإعادة الإرسال.",
+      "question_en": "The buyer did not accept the request",
+      "answer_en": "The request is valid for 7 days. After that, it expires and needs to be resent."
     },
     {
       "question_ar": "هل يمكن نقل الملكية لمقيم؟",
-      "answer_ar": "نعم، بشرط أن يكون لديه إقامة سارية وحساب أبشر مفعّل."
+      "answer_ar": "نعم، بشرط أن يكون لديه إقامة سارية وحساب أبشر مفعّل.",
+      "question_en": "Can ownership be transferred to a resident?",
+      "answer_en": "Yes, provided they have a valid Iqama and an activated Absher account."
     }
   ],
   "related_slugs": [
     "vehicle-registration-renewal",
     "renew-driving-license"
   ],
-  "last_updated": "########"
+  "last_updated": "########",
+  "description_en": "This service enables vehicle ownership transfer between seller and buyer electronically via Absher, without visiting the Traffic Department."
 }

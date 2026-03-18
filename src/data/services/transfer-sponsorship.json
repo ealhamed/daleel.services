@@ -49,12 +49,16 @@
     {
       "label_ar": "رسوم نقل الخدمات",
       "amount": 2000,
-      "unit_ar": "ر.س"
+      "unit_ar": "ر.س",
+      "label_en": "Transfer fee",
+      "unit_en": "SAR"
     },
     {
       "label_ar": "رخصة عمل جديدة",
       "amount": 100,
-      "unit_ar": "ر.س / سنة"
+      "unit_ar": "ر.س / سنة",
+      "label_en": "New work permit",
+      "unit_en": "SAR/year"
     }
   ],
   "steps": [
@@ -90,15 +94,21 @@
   "troubles": [
     {
       "question_ar": "صاحب العمل الحالي رفض النقل",
-      "answer_ar": "في بعض الحالات يمكن النقل دون موافقته — مثل: عدم دفع الرواتب لـ 3 أشهر، انتهاء العقد، أو وجود بلاغ كيدي. راجع منصة قوى للتفاصيل."
+      "answer_ar": "في بعض الحالات يمكن النقل دون موافقته — مثل: عدم دفع الرواتب لـ 3 أشهر، انتهاء العقد، أو وجود بلاغ كيدي. راجع منصة قوى للتفاصيل.",
+      "question_en": "The current employer refused the transfer",
+      "answer_en": "In some cases, transfer is possible without consent — such as: unpaid salary for 3 months, expired contract, or a malicious report. Check the Qiwa platform for details."
     },
     {
       "question_ar": "هل يمكن نقل خدمات عامل منزلي؟",
-      "answer_ar": "نقل العمالة المنزلية يتم عبر منصة مساند، وليس قوى."
+      "answer_ar": "نقل العمالة المنزلية يتم عبر منصة مساند، وليس قوى.",
+      "question_en": "Can domestic worker services be transferred?",
+      "answer_en": "Domestic worker transfers are done via the Musaned platform, not Qiwa."
     },
     {
       "question_ar": "كم المدة حتى يتم النقل فعلياً؟",
-      "answer_ar": "بعد موافقة الطرفين وسداد الرسوم، يتم النقل خلال 1-3 أيام عمل."
+      "answer_ar": "بعد موافقة الطرفين وسداد الرسوم، يتم النقل خلال 1-3 أيام عمل.",
+      "question_en": "How long until the transfer is completed?",
+      "answer_en": "After both parties agree and fees are paid, the transfer is completed within 1-3 business days."
     }
   ],
   "related_slugs": [
@@ -106,5 +116,6 @@
     "renew-work-permit",
     "final-exit-visa"
   ],
-  "last_updated": "########"
+  "last_updated": "########",
+  "description_en": "This service allows employers to transfer worker services from one establishment to another electronically via the Qiwa platform, according to updated labor regulations."
 }

@@ -41,12 +41,16 @@
     {
       "label_ar": "بدل فاقد / تالف",
       "amount": 100,
-      "unit_ar": "ر.س"
+      "unit_ar": "ر.س",
+      "label_en": "Lost/damaged replacement",
+      "unit_en": "SAR"
     },
     {
       "label_ar": "التوصيل",
       "amount": 39,
-      "unit_ar": "ر.س"
+      "unit_ar": "ر.س",
+      "label_en": "Delivery",
+      "unit_en": "SAR"
     }
   ],
   "steps": [
@@ -74,15 +78,21 @@
   "troubles": [
     {
       "question_ar": "فقدت هويتي خارج المملكة",
-      "answer_ar": "راجع أقرب سفارة أو قنصلية سعودية للحصول على وثيقة سفر مؤقتة، ثم أصدر بدل فاقد بعد العودة."
+      "answer_ar": "راجع أقرب سفارة أو قنصلية سعودية للحصول على وثيقة سفر مؤقتة، ثم أصدر بدل فاقد بعد العودة.",
+      "question_en": "I lost my ID outside the Kingdom",
+      "answer_en": "Visit the nearest Saudi embassy or consulate for a temporary travel document, then issue a replacement after returning."
     },
     {
       "question_ar": "هل أحتاج لتقديم بلاغ شرطة؟",
-      "answer_ar": "لا يُشترط حالياً، لكن يُنصح بتقديم بلاغ عبر تطبيق كلنا أمن لحمايتك من سوء الاستخدام."
+      "answer_ar": "لا يُشترط حالياً، لكن يُنصح بتقديم بلاغ عبر تطبيق كلنا أمن لحمايتك من سوء الاستخدام.",
+      "question_en": "Do I need to file a police report?",
+      "answer_en": "Not currently required, but it is recommended to file a report via the Kulluna Amn app to protect against misuse."
     },
     {
       "question_ar": "هل يمكن استخدام الهوية الرقمية في توكلنا مؤقتاً؟",
-      "answer_ar": "نعم، الهوية الرقمية في توكلنا معتمدة رسمياً ويمكن استخدامها حتى وصول البطاقة الجديدة."
+      "answer_ar": "نعم، الهوية الرقمية في توكلنا معتمدة رسمياً ويمكن استخدامها حتى وصول البطاقة الجديدة.",
+      "question_en": "Can I use the digital ID in Tawakkalna temporarily?",
+      "answer_en": "Yes, the digital ID in Tawakkalna is officially recognized and can be used until the new card arrives."
     }
   ],
   "related_slugs": [
@@ -90,5 +100,7 @@
     "absher-account-registration"
   ],
   "last_updated": "########",
-  "penalty_ar": "غرامة فقدان الهوية قد تصل إلى 100 ر.س في حال التكرار"
+  "penalty_ar": "غرامة فقدان الهوية قد تصل إلى 100 ر.س في حال التكرار",
+  "description_en": "This service allows you to issue a replacement national ID card (lost or damaged) electronically via Absher, with delivery to your national address.",
+  "penalty_en": "The fine for losing an ID card can reach SAR 100 for repeat cases"
 }

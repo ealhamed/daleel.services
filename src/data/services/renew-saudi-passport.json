@@ -45,12 +45,16 @@
     {
       "label_ar": "إصدار / تجديد",
       "amount": 300,
-      "unit_ar": "ر.س"
+      "unit_ar": "ر.س",
+      "label_en": "Issuance/renewal",
+      "unit_en": "SAR"
     },
     {
       "label_ar": "التوصيل",
       "amount": 39,
-      "unit_ar": "ر.س"
+      "unit_ar": "ر.س",
+      "label_en": "Delivery",
+      "unit_en": "SAR"
     }
   ],
   "steps": [
@@ -78,20 +82,27 @@
   "troubles": [
     {
       "question_ar": "الصورة مرفوضة",
-      "answer_ar": "تأكد من أنها بخلفية بيضاء، واضحة الملامح، بدون نظارات، ومقاس 4×6 سم."
+      "answer_ar": "تأكد من أنها بخلفية بيضاء، واضحة الملامح، بدون نظارات، ومقاس 4×6 سم.",
+      "question_en": "Photo was rejected",
+      "answer_en": "Make sure it has a white background, clear facial features, no glasses, and is 4×6 cm size."
     },
     {
       "question_ar": "هل يمكن تجديد جواز طفل؟",
-      "answer_ar": "نعم، عبر حساب ولي الأمر في أبشر. يحتاج لصورة حديثة للطفل."
+      "answer_ar": "نعم، عبر حساب ولي الأمر في أبشر. يحتاج لصورة حديثة للطفل.",
+      "question_en": "Can I renew a child's passport?",
+      "answer_en": "Yes, via the guardian's Absher account. A recent photo of the child is required."
     },
     {
       "question_ar": "كم يستغرق وصول الجواز؟",
-      "answer_ar": "عادة 3-5 أيام عمل عند اختيار التوصيل."
+      "answer_ar": "عادة 3-5 أيام عمل عند اختيار التوصيل.",
+      "question_en": "How long does delivery take?",
+      "answer_en": "Usually 3-5 business days when delivery is selected."
     }
   ],
   "related_slugs": [
     "renew-iqama",
     "exit-reentry-visa"
   ],
-  "last_updated": "########"
+  "last_updated": "########",
+  "description_en": "This service enables you to issue a new Saudi passport or renew an expired one electronically via Absher, with delivery to your national address."
 }

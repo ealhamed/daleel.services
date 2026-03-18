@@ -37,7 +37,9 @@
     {
       "label_ar": "التأمين (يختلف حسب الفئة)",
       "amount": 500,
-      "unit_ar": "ر.س - 2,000+ ر.س / سنة"
+      "unit_ar": "ر.س - 2,000+ ر.س / سنة",
+      "label_en": "Insurance (varies by category)",
+      "unit_en": "SAR - 2,000+ SAR/year"
     }
   ],
   "steps": [
@@ -65,11 +67,15 @@
   "troubles": [
     {
       "question_ar": "كيف أعرف إذا تأميني ساري؟",
-      "answer_ar": "ادخل موقع مجلس الضمان الصحي → الاستعلام عن التأمين → أدخل رقم الهوية. أو عبر تطبيق \"صحتي\"."
+      "answer_ar": "ادخل موقع مجلس الضمان الصحي → الاستعلام عن التأمين → أدخل رقم الهوية. أو عبر تطبيق \"صحتي\".",
+      "question_en": "How do I know if my insurance is active?",
+      "answer_en": "Visit the Council of Health Insurance website → Insurance inquiry → enter your ID number. Or check via the \"Sehhaty\" app."
     },
     {
       "question_ar": "صاحب العمل لا يريد تجديد التأمين",
-      "answer_ar": "التأمين الصحي إلزامي. قدّم شكوى عبر منصة قوى أو مجلس الضمان الصحي."
+      "answer_ar": "التأمين الصحي إلزامي. قدّم شكوى عبر منصة قوى أو مجلس الضمان الصحي.",
+      "question_en": "My employer refuses to renew the insurance",
+      "answer_en": "Health insurance is mandatory. File a complaint via the Qiwa platform or the Council of Health Insurance."
     }
   ],
   "related_slugs": [
@@ -77,5 +83,7 @@
     "renew-work-permit"
   ],
   "last_updated": "########",
-  "penalty_ar": "عدم وجود تأمين صحي ساري يمنع تجديد الإقامة"
+  "penalty_ar": "عدم وجود تأمين صحي ساري يمنع تجديد الإقامة",
+  "description_en": "Health insurance is mandatory for all residents and private sector employees. You can check its status and renew it via the Council of Health Insurance.",
+  "penalty_en": "Not having valid health insurance prevents Iqama renewal"
 }

@@ -37,7 +37,9 @@
     {
       "label_ar": "الاستعلام",
       "amount": 0,
-      "unit_ar": "مجاني"
+      "unit_ar": "مجاني",
+      "label_en": "Inquiry",
+      "unit_en": "Free"
     }
   ],
   "steps": [
@@ -61,15 +63,20 @@
   "troubles": [
     {
       "question_ar": "الراتب المسجل أقل من راتبي الفعلي",
-      "answer_ar": "تقدّم بشكوى عبر التأمينات ضد صاحب العمل. يمكنك أيضاً رفع بلاغ في منصة قوى."
+      "answer_ar": "تقدّم بشكوى عبر التأمينات ضد صاحب العمل. يمكنك أيضاً رفع بلاغ في منصة قوى.",
+      "question_en": "The registered salary is lower than my actual salary",
+      "answer_en": "File a complaint via GOSI against your employer. You can also file a report on the Qiwa platform."
     },
     {
       "question_ar": "جهة عمل سابقة لم تسجّلني",
-      "answer_ar": "يمكنك تقديم طلب ضم مدة اشتراك سابقة عبر التأمينات مع إثبات العلاقة العمالية."
+      "answer_ar": "يمكنك تقديم طلب ضم مدة اشتراك سابقة عبر التأمينات مع إثبات العلاقة العمالية.",
+      "question_en": "A previous employer did not register me",
+      "answer_en": "You can submit a request to add a previous subscription period via GOSI with proof of the employment relationship."
     }
   ],
   "related_slugs": [
     "gosi-register-employee"
   ],
-  "last_updated": "########"
+  "last_updated": "########",
+  "description_en": "This service allows you to check your social insurance subscription period and verify that your employer has registered you correctly."
 }

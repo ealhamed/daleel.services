@@ -45,12 +45,16 @@
     {
       "label_ar": "رسوم التأشيرة",
       "amount": 2000,
-      "unit_ar": "ر.س"
+      "unit_ar": "ر.س",
+      "label_en": "Visa fee",
+      "unit_en": "SAR"
     },
     {
       "label_ar": "رسوم الاستقدام",
       "amount": 2000,
-      "unit_ar": "ر.س تقريباً"
+      "unit_ar": "ر.س تقريباً",
+      "label_en": "Recruitment fee",
+      "unit_en": "SAR approx."
     }
   ],
   "steps": [
@@ -78,16 +82,21 @@
   "troubles": [
     {
       "question_ar": "لا تظهر تأشيرات متاحة",
-      "answer_ar": "حجم التأشيرات يعتمد على نسبة السعودة ونوع النشاط. حسّن نطاقات المنشأة أو قدّم طلب استثنائي."
+      "answer_ar": "حجم التأشيرات يعتمد على نسبة السعودة ونوع النشاط. حسّن نطاقات المنشأة أو قدّم طلب استثنائي.",
+      "question_en": "No available visas are showing",
+      "answer_en": "Visa quota depends on Saudization ratio and activity type. Improve the establishment's Nitaqat rating or submit an exceptional request."
     },
     {
       "question_ar": "ما مدة صلاحية التأشيرة؟",
-      "answer_ar": "عادة 90 يوماً من تاريخ الإصدار. يجب أن يدخل العامل المملكة قبل انتهائها."
+      "answer_ar": "عادة 90 يوماً من تاريخ الإصدار. يجب أن يدخل العامل المملكة قبل انتهائها.",
+      "question_en": "What is the visa validity period?",
+      "answer_en": "Usually 90 days from issuance date. The worker must enter the Kingdom before it expires."
     }
   ],
   "related_slugs": [
     "renew-work-permit",
     "transfer-sponsorship"
   ],
-  "last_updated": "########"
+  "last_updated": "########",
+  "description_en": "This service allows business owners to issue a work visa to recruit workers from outside the Kingdom via the Qiwa platform."
 }

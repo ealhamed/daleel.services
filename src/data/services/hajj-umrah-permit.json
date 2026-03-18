@@ -41,7 +41,9 @@
     {
       "label_ar": "تصريح العمرة",
       "amount": 0,
-      "unit_ar": "مجاني للمقيمين والمواطنين"
+      "unit_ar": "مجاني للمقيمين والمواطنين",
+      "label_en": "Umrah permit",
+      "unit_en": "Free for residents and citizens"
     }
   ],
   "steps": [
@@ -69,16 +71,21 @@
   "troubles": [
     {
       "question_ar": "لا تظهر مواعيد متاحة",
-      "answer_ar": "المواعيد تُحدث دورياً. حاول في أوقات مختلفة أو اختر تاريخاً أبعد."
+      "answer_ar": "المواعيد تُحدث دورياً. حاول في أوقات مختلفة أو اختر تاريخاً أبعد.",
+      "question_en": "No available dates are showing",
+      "answer_en": "Dates are updated periodically. Try at different times or choose a later date."
     },
     {
       "question_ar": "هل أحتاج تصريح للعمرة من داخل مكة؟",
-      "answer_ar": "عادة لا يُطلب تصريح لسكان مكة لأداء العمرة، لكن قد تتغير الاشتراطات في مواسم الذروة."
+      "answer_ar": "عادة لا يُطلب تصريح لسكان مكة لأداء العمرة، لكن قد تتغير الاشتراطات في مواسم الذروة.",
+      "question_en": "Do I need a permit for Umrah from within Makkah?",
+      "answer_en": "Usually no permit is required for Makkah residents to perform Umrah, but requirements may change during peak seasons."
     }
   ],
   "related_slugs": [
     "nafath-setup",
     "absher-account-registration"
   ],
-  "last_updated": "########"
+  "last_updated": "########",
+  "description_en": "The Nusuk platform allows citizens and residents to issue Hajj and Umrah permits and book related services electronically."
 }

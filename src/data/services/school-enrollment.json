@@ -45,7 +45,9 @@
     {
       "label_ar": "التسجيل",
       "amount": 0,
-      "unit_ar": "مجاني"
+      "unit_ar": "مجاني",
+      "label_en": "Enrollment",
+      "unit_en": "Free"
     }
   ],
   "steps": [
@@ -73,20 +75,27 @@
   "troubles": [
     {
       "question_ar": "فترة التسجيل انتهت",
-      "answer_ar": "يمكنك التقديم للتسجيل المتأخر عبر نور أو مراجعة إدارة التعليم في منطقتك."
+      "answer_ar": "يمكنك التقديم للتسجيل المتأخر عبر نور أو مراجعة إدارة التعليم في منطقتك.",
+      "question_en": "The registration period has ended",
+      "answer_en": "You can apply for late registration via Noor or visit the Education Department in your area."
     },
     {
       "question_ar": "المدرسة المرغوبة ممتلئة",
-      "answer_ar": "النظام يعرض بدائل قريبة. يمكنك أيضاً تقديم طلب نقل لاحقاً."
+      "answer_ar": "النظام يعرض بدائل قريبة. يمكنك أيضاً تقديم طلب نقل لاحقاً.",
+      "question_en": "The desired school is full",
+      "answer_en": "The system shows nearby alternatives. You can also submit a transfer request later."
     },
     {
       "question_ar": "هل يمكن تسجيل أبناء المقيمين؟",
-      "answer_ar": "نعم، بشرط إقامة سارية وشهادة ميلاد أو جواز سفر."
+      "answer_ar": "نعم، بشرط إقامة سارية وشهادة ميلاد أو جواز سفر.",
+      "question_en": "Can children of residents be enrolled?",
+      "answer_en": "Yes, provided they have a valid Iqama and a birth certificate or passport."
     }
   ],
   "related_slugs": [
     "absher-account-registration",
     "nafath-setup"
   ],
-  "last_updated": "########"
+  "last_updated": "########",
+  "description_en": "This service allows parents to enroll their children in public schools (elementary, middle, high school) via the Noor electronic system."
 }

@@ -37,7 +37,9 @@
     {
       "label_ar": "الإصدار",
       "amount": 0,
-      "unit_ar": "مجاني"
+      "unit_ar": "مجاني",
+      "label_en": "Issuance",
+      "unit_en": "Free"
     }
   ],
   "steps": [
@@ -61,16 +63,21 @@
   "troubles": [
     {
       "question_ar": "الشهادة تظهر بيانات قديمة",
-      "answer_ar": "إذا غيّرت وظيفتك مؤخراً، قد تحتاج 2-4 أسابيع حتى تُحدث البيانات. تواصل مع صاحب العمل الجديد لتأكيد التسجيل."
+      "answer_ar": "إذا غيّرت وظيفتك مؤخراً، قد تحتاج 2-4 أسابيع حتى تُحدث البيانات. تواصل مع صاحب العمل الجديد لتأكيد التسجيل.",
+      "question_en": "The certificate shows outdated information",
+      "answer_en": "If you recently changed jobs, it may take 2-4 weeks for data to update. Contact your new employer to confirm registration."
     },
     {
       "question_ar": "لماذا أحتاج هذه الشهادة؟",
-      "answer_ar": "مطلوبة عند: التقديم على قرض بنكي، إثبات الخبرة، التقديم على وظيفة حكومية، أو إجراءات التقاعد."
+      "answer_ar": "مطلوبة عند: التقديم على قرض بنكي، إثبات الخبرة، التقديم على وظيفة حكومية، أو إجراءات التقاعد.",
+      "question_en": "Why do I need this certificate?",
+      "answer_en": "Required for: bank loan applications, proof of experience, government job applications, or retirement procedures."
     }
   ],
   "related_slugs": [
     "gosi-register-employee",
     "gosi-retirement-subscription"
   ],
-  "last_updated": "########"
+  "last_updated": "########",
+  "description_en": "The GOSI certificate is required for many government and banking transactions. It can be issued electronically via the GOSI Online portal."
 }

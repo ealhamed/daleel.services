@@ -41,7 +41,9 @@
     {
       "label_ar": "التسجيل",
       "amount": 0,
-      "unit_ar": "مجاني"
+      "unit_ar": "مجاني",
+      "label_en": "Registration",
+      "unit_en": "Free"
     }
   ],
   "steps": [
@@ -73,19 +75,26 @@
   "troubles": [
     {
       "question_ar": "الموقع على الخريطة غير دقيق",
-      "answer_ar": "حرّك الدبوس يدوياً إلى الموقع الصحيح. يمكنك أيضاً إدخال الإحداثيات من خرائط قوقل."
+      "answer_ar": "حرّك الدبوس يدوياً إلى الموقع الصحيح. يمكنك أيضاً إدخال الإحداثيات من خرائط قوقل.",
+      "question_en": "The location on the map is inaccurate",
+      "answer_en": "Move the pin manually to the correct location. You can also enter coordinates from Google Maps."
     },
     {
       "question_ar": "لا يظهر خيار التسجيل",
-      "answer_ar": "قد يكون لديك عنوان مسجل مسبقاً. جرّب خيار \"تحديث\" بدلاً من \"تسجيل جديد\"."
+      "answer_ar": "قد يكون لديك عنوان مسجل مسبقاً. جرّب خيار \"تحديث\" بدلاً من \"تسجيل جديد\".",
+      "question_en": "The registration option does not appear",
+      "answer_en": "You may already have a registered address. Try the \"Update\" option instead of \"New registration\"."
     },
     {
       "question_ar": "هل العنوان الوطني مطلوب للمقيمين؟",
-      "answer_ar": "نعم، مطلوب لفتح حساب بنكي وللعديد من الخدمات الإلكترونية."
+      "answer_ar": "نعم، مطلوب لفتح حساب بنكي وللعديد من الخدمات الإلكترونية.",
+      "question_en": "Is a national address required for residents?",
+      "answer_en": "Yes, it is required for opening a bank account and for many electronic services."
     }
   ],
   "related_slugs": [
     "issue-commercial-registration"
   ],
-  "last_updated": "########"
+  "last_updated": "########",
+  "description_en": "A national address is required for most government and banking services. This service allows you to register or update your address via the Subol platform (formerly Saudi Post)."
 }

@@ -45,7 +45,9 @@
     {
       "label_ar": "التوثيق",
       "amount": 0,
-      "unit_ar": "مجاني"
+      "unit_ar": "مجاني",
+      "label_en": "Registration",
+      "unit_en": "Free"
     }
   ],
   "steps": [
@@ -77,16 +79,21 @@
   "troubles": [
     {
       "question_ar": "هل يمكن توثيق زواج سعودي من أجنبية؟",
-      "answer_ar": "يحتاج لتصريح مسبق من وزارة الداخلية. بعد الحصول على التصريح يُوثق عبر ناجز."
+      "answer_ar": "يحتاج لتصريح مسبق من وزارة الداخلية. بعد الحصول على التصريح يُوثق عبر ناجز.",
+      "question_en": "Can a Saudi marry a non-Saudi woman through this service?",
+      "answer_en": "A prior permit from the Ministry of Interior is required. After obtaining the permit, the marriage is registered via Najiz."
     },
     {
       "question_ar": "أين أجد شهادة الفحص الطبي؟",
-      "answer_ar": "تُجرى الفحوصات في مراكز الرعاية الصحية الأولية. النتيجة ترتبط إلكترونياً."
+      "answer_ar": "تُجرى الفحوصات في مراكز الرعاية الصحية الأولية. النتيجة ترتبط إلكترونياً.",
+      "question_en": "Where can I find the medical examination certificate?",
+      "answer_en": "Examinations are conducted at primary healthcare centers. The result is linked electronically."
     }
   ],
   "related_slugs": [
     "issue-birth-certificate",
     "renew-national-id"
   ],
-  "last_updated": "########"
+  "last_updated": "########",
+  "description_en": "This service allows electronic registration of marriage contracts via the Najiz portal of the Ministry of Justice, without the need to visit the court."
 }

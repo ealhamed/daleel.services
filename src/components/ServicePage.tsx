@@ -99,7 +99,7 @@ export default function ServicePage({ service, relatedServices }: { service: Ser
         </div>
       </div>
 
-      <p className="page-desc">{service.description_ar}</p>
+      <p className="page-desc">{isEn && service.description_en ? service.description_en : service.description_ar}</p>
 
       {/* Checklist — persistent */}
       <div className="section-card">
@@ -136,9 +136,9 @@ export default function ServicePage({ service, relatedServices }: { service: Ser
         <div className="metric-grid" style={{ gridTemplateColumns: `repeat(${Math.min(service.fees.length, 3)}, 1fr)` }}>
           {service.fees.map((fee, i) => (
             <div key={i} className="metric">
-              <div className="metric__label">{fee.label_ar}</div>
+              <div className="metric__label">{isEn && fee.label_en ? fee.label_en : fee.label_ar}</div>
               <div className="metric__value">
-                {fee.amount === 0 ? '' : fee.amount.toLocaleString()} <span className="metric__unit">{fee.unit_ar}</span>
+                {fee.amount === 0 ? '' : fee.amount.toLocaleString()} <span className="metric__unit">{isEn && fee.unit_en ? fee.unit_en : fee.unit_ar}</span>
               </div>
             </div>
           ))}
@@ -146,7 +146,7 @@ export default function ServicePage({ service, relatedServices }: { service: Ser
         {service.penalty_ar && (
           <div className="penalty">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>
-            {service.penalty_ar}
+            {isEn && service.penalty_en ? service.penalty_en : service.penalty_ar}
           </div>
         )}
       </div>
@@ -198,8 +198,8 @@ export default function ServicePage({ service, relatedServices }: { service: Ser
             <div style={{ display: 'flex', flexDirection: 'column', gap: '8px', marginTop: '14px' }}>
               {service.troubles.map((t, i) => (
                 <div key={i} className="trouble-item">
-                  <div className="trouble-item__q">{t.question_ar}</div>
-                  <div className="trouble-item__a">{t.answer_ar}</div>
+                  <div className="trouble-item__q">{isEn && t.question_en ? t.question_en : t.question_ar}</div>
+                  <div className="trouble-item__a">{isEn && t.answer_en ? t.answer_en : t.answer_ar}</div>
                 </div>
               ))}
             </div>

@@ -41,7 +41,9 @@
     {
       "label_ar": "التفعيل",
       "amount": 0,
-      "unit_ar": "مجاني"
+      "unit_ar": "مجاني",
+      "label_en": "Activation",
+      "unit_en": "Free"
     }
   ],
   "steps": [
@@ -73,20 +75,27 @@
   "troubles": [
     {
       "question_ar": "لم يصلني رمز التحقق",
-      "answer_ar": "تأكد أن رقم جوالك المسجل في أبشر هو نفسه الذي تستخدمه. إذا كان مختلفاً، حدّث الرقم في أبشر أولاً."
+      "answer_ar": "تأكد أن رقم جوالك المسجل في أبشر هو نفسه الذي تستخدمه. إذا كان مختلفاً، حدّث الرقم في أبشر أولاً.",
+      "question_en": "I did not receive the verification code",
+      "answer_en": "Make sure the mobile number registered in Absher is the same one you are using. If different, update the number in Absher first."
     },
     {
       "question_ar": "كيف أستخدم نفاذ لتسجيل الدخول؟",
-      "answer_ar": "عند تسجيل الدخول لأي منصة حكومية، اختر \"الدخول عبر النفاذ الوطني\" → يصلك إشعار في تطبيق نفاذ → اضغط \"قبول\"."
+      "answer_ar": "عند تسجيل الدخول لأي منصة حكومية، اختر \"الدخول عبر النفاذ الوطني\" → يصلك إشعار في تطبيق نفاذ → اضغط \"قبول\".",
+      "question_en": "How do I use Nafath to log in?",
+      "answer_en": "When logging into any government platform, choose \"Login via National Access\" → you receive a notification in the Nafath app → tap \"Accept\"."
     },
     {
       "question_ar": "غيّرت جوالي — كيف أنقل نفاذ؟",
-      "answer_ar": "حمّل التطبيق على الجوال الجديد وأعد التسجيل. سيتم ربطه بالجهاز الجديد تلقائياً."
+      "answer_ar": "حمّل التطبيق على الجوال الجديد وأعد التسجيل. سيتم ربطه بالجهاز الجديد تلقائياً.",
+      "question_en": "I changed my phone — how do I transfer Nafath?",
+      "answer_en": "Download the app on the new phone and re-register. It will be linked to the new device automatically."
     }
   ],
   "related_slugs": [
     "absher-account-registration",
     "register-national-address"
   ],
-  "last_updated": "########"
+  "last_updated": "########",
+  "description_en": "Nafath is the national digital identity system required to log in to most government and banking platforms. This guide explains activation step by step."
 }

@@ -41,7 +41,9 @@
     {
       "label_ar": "التسجيل",
       "amount": 0,
-      "unit_ar": "مجاني"
+      "unit_ar": "مجاني",
+      "label_en": "Registration",
+      "unit_en": "Free"
     }
   ],
   "steps": [
@@ -69,15 +71,21 @@
   "troubles": [
     {
       "question_ar": "لا أعرف في أي موجة (Wave) أنا",
-      "answer_ar": "ادخل موقع هيئة الزكاة واستعلم عن موجتك بناءً على إيراداتك السنوية. الموجة 24 تشمل المنشآت بإيرادات فوق 375,000 ر.س."
+      "answer_ar": "ادخل موقع هيئة الزكاة واستعلم عن موجتك بناءً على إيراداتك السنوية. الموجة 24 تشمل المنشآت بإيرادات فوق 375,000 ر.س.",
+      "question_en": "I do not know which Wave I am in",
+      "answer_en": "Visit the ZATCA website and check your wave based on your annual revenue. Wave 24 includes establishments with revenue above SAR 375,000."
     },
     {
       "question_ar": "هل أحتاج لنظام فوترة خاص؟",
-      "answer_ar": "نعم، يجب استخدام نظام معتمد يدعم المرحلة الثانية. قائمة مزودي الحلول متاحة على موقع ZATCA."
+      "answer_ar": "نعم، يجب استخدام نظام معتمد يدعم المرحلة الثانية. قائمة مزودي الحلول متاحة على موقع ZATCA.",
+      "question_en": "Do I need a special invoicing system?",
+      "answer_en": "Yes, you must use an approved system that supports Phase 2. A list of solution providers is available on the ZATCA website."
     },
     {
       "question_ar": "ماذا لو كانت منشأتي صغيرة جداً؟",
-      "answer_ar": "جميع المنشآت المسجلة في VAT ملزمة بالفوترة الإلكترونية بغض النظر عن حجمها."
+      "answer_ar": "جميع المنشآت المسجلة في VAT ملزمة بالفوترة الإلكترونية بغض النظر عن حجمها.",
+      "question_en": "What if my business is very small?",
+      "answer_en": "All VAT-registered establishments are required to comply with electronic invoicing regardless of size."
     }
   ],
   "related_slugs": [
@@ -85,5 +93,7 @@
     "issue-commercial-registration"
   ],
   "last_updated": "########",
-  "penalty_ar": "غرامات عدم الامتثال تتراوح بين 5,000 و 50,000 ر.س"
+  "penalty_ar": "غرامات عدم الامتثال تتراوح بين 5,000 و 50,000 ر.س",
+  "description_en": "Electronic invoicing is mandatory for all establishments registered for VAT. Invoicing systems must be linked with the ZATCA Fatoora platform.",
+  "penalty_en": "Non-compliance fines range from SAR 5,000 to SAR 50,000"
 }

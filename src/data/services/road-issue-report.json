@@ -37,7 +37,9 @@
     {
       "label_ar": "البلاغ",
       "amount": 0,
-      "unit_ar": "مجاني"
+      "unit_ar": "مجاني",
+      "label_en": "Report",
+      "unit_en": "Free"
     }
   ],
   "steps": [
@@ -69,20 +71,27 @@
   "troubles": [
     {
       "question_ar": "البلاغ لم يُعالج منذ أسابيع",
-      "answer_ar": "يمكنك إعادة إرسال البلاغ أو تصعيده عبر منصة X/Twitter على حساب @SaudiMOTLS."
+      "answer_ar": "يمكنك إعادة إرسال البلاغ أو تصعيده عبر منصة X/Twitter على حساب @SaudiMOTLS.",
+      "question_en": "The report has not been addressed for weeks",
+      "answer_en": "You can resend the report or escalate it via X/Twitter on the @SaudiMOTLS account."
     },
     {
       "question_ar": "المشكلة في طريق داخل المدينة وليس طريق سريع",
-      "answer_ar": "الطرق داخل المدن من اختصاص الأمانة/البلدية. استخدم تطبيق بلدي أو تواصل مع أمانة منطقتك."
+      "answer_ar": "الطرق داخل المدن من اختصاص الأمانة/البلدية. استخدم تطبيق بلدي أو تواصل مع أمانة منطقتك.",
+      "question_en": "The problem is on a city road, not a highway",
+      "answer_en": "City roads are under the municipality. Use the Balady app or contact your regional municipality."
     },
     {
       "question_ar": "هل يمكن الإبلاغ عن حادث مروري؟",
-      "answer_ar": "لا، حوادث المرور تُبلغ عبر تطبيق كلنا أمن أو الاتصال بـ 993 (المرور)."
+      "answer_ar": "لا، حوادث المرور تُبلغ عبر تطبيق كلنا أمن أو الاتصال بـ 993 (المرور).",
+      "question_en": "Can I report a traffic accident?",
+      "answer_en": "No, traffic accidents are reported via the Kulluna Amn app or by calling 993 (Traffic)."
     }
   ],
   "related_slugs": [
     "absher-account-registration",
     "tawakkalna-setup"
   ],
-  "last_updated": "########"
+  "last_updated": "########",
+  "description_en": "This service allows you to report road problems (potholes, broken lights, missing signs, damaged barriers) via the Balagh app of the Ministry of Transport."
 }

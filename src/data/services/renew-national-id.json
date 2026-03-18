@@ -41,12 +41,16 @@
     {
       "label_ar": "رسوم التجديد",
       "amount": 100,
-      "unit_ar": "ر.س"
+      "unit_ar": "ر.س",
+      "label_en": "Renewal fee",
+      "unit_en": "SAR"
     },
     {
       "label_ar": "التوصيل",
       "amount": 39,
-      "unit_ar": "ر.س"
+      "unit_ar": "ر.س",
+      "label_en": "Delivery",
+      "unit_en": "SAR"
     }
   ],
   "steps": [
@@ -74,11 +78,15 @@
   "troubles": [
     {
       "question_ar": "هل يمكن التجديد قبل انتهاء الهوية؟",
-      "answer_ar": "نعم، يمكن التجديد قبل الانتهاء بـ 180 يوماً."
+      "answer_ar": "نعم، يمكن التجديد قبل الانتهاء بـ 180 يوماً.",
+      "question_en": "Can I renew before the ID expires?",
+      "answer_en": "Yes, you can renew up to 180 days before expiry."
     },
     {
       "question_ar": "الهوية الرقمية في توكلنا هل تغني عن البطاقة؟",
-      "answer_ar": "الهوية الرقمية معتمدة رسمياً ولكن يُنصح بالاحتفاظ بالبطاقة الفعلية."
+      "answer_ar": "الهوية الرقمية معتمدة رسمياً ولكن يُنصح بالاحتفاظ بالبطاقة الفعلية.",
+      "question_en": "Does the digital ID in Tawakkalna replace the physical card?",
+      "answer_en": "The digital ID is officially recognized but it is recommended to keep the physical card."
     }
   ],
   "related_slugs": [
@@ -86,5 +94,7 @@
     "register-national-address"
   ],
   "last_updated": "########",
-  "penalty_ar": "غرامة تأخير تجديد الهوية تصل إلى 100 ر.س"
+  "penalty_ar": "غرامة تأخير تجديد الهوية تصل إلى 100 ر.س",
+  "description_en": "This service allows you to renew your Saudi national ID card electronically via Absher, with delivery to your national address.",
+  "penalty_en": "Late ID renewal fine up to SAR 100"
 }

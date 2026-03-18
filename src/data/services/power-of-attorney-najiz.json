@@ -37,7 +37,9 @@
     {
       "label_ar": "الإصدار",
       "amount": 0,
-      "unit_ar": "مجاني"
+      "unit_ar": "مجاني",
+      "label_en": "Issuance",
+      "unit_en": "Free"
     }
   ],
   "steps": [
@@ -69,19 +71,26 @@
   "troubles": [
     {
       "question_ar": "هل يمكن إلغاء الوكالة لاحقاً؟",
-      "answer_ar": "نعم، يمكن إلغاؤها في أي وقت عبر ناجز."
+      "answer_ar": "نعم، يمكن إلغاؤها في أي وقت عبر ناجز.",
+      "question_en": "Can the power of attorney be cancelled later?",
+      "answer_en": "Yes, it can be cancelled at any time via Najiz."
     },
     {
       "question_ar": "هل يمكن إصدار وكالة لشخص خارج المملكة؟",
-      "answer_ar": "يجب أن يقبل الوكيل إلكترونياً. إذا كان خارج المملكة، يمكنه القبول عبر تطبيق نفاذ."
+      "answer_ar": "يجب أن يقبل الوكيل إلكترونياً. إذا كان خارج المملكة، يمكنه القبول عبر تطبيق نفاذ.",
+      "question_en": "Can I issue a power of attorney for someone outside the Kingdom?",
+      "answer_en": "The agent must accept electronically. If outside the Kingdom, they can accept via the Nafath app."
     },
     {
       "question_ar": "ما الفرق بين الوكالة العامة والخاصة؟",
-      "answer_ar": "العامة تمنح صلاحيات واسعة. الخاصة تقتصر على مهام محددة (مثل بيع عقار معين)."
+      "answer_ar": "العامة تمنح صلاحيات واسعة. الخاصة تقتصر على مهام محددة (مثل بيع عقار معين).",
+      "question_en": "What is the difference between general and specific power of attorney?",
+      "answer_en": "General grants broad powers. Specific is limited to defined tasks (such as selling a specific property)."
     }
   ],
   "related_slugs": [
     "marriage-contract-najiz"
   ],
-  "last_updated": "########"
+  "last_updated": "########",
+  "description_en": "This service enables you to issue an electronic power of attorney (general or specific) via the Najiz portal without visiting a notary office."
 }

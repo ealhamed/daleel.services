@@ -41,12 +41,16 @@
     {
       "label_ar": "عقد سكني",
       "amount": 125,
-      "unit_ar": "ر.س / سنة"
+      "unit_ar": "ر.س / سنة",
+      "label_en": "Residential contract",
+      "unit_en": "SAR/year"
     },
     {
       "label_ar": "عقد تجاري",
       "amount": 200,
-      "unit_ar": "ر.س / سنة"
+      "unit_ar": "ر.س / سنة",
+      "label_en": "Commercial contract",
+      "unit_en": "SAR/year"
     }
   ],
   "steps": [
@@ -74,15 +78,21 @@
   "troubles": [
     {
       "question_ar": "المستأجر لم يوافق على العقد",
-      "answer_ar": "الطلب صالح لمدة 7 أيام. ذكّر المستأجر بالموافقة عبر أبشر. بعد انتهاء المهلة يجب إعادة الإنشاء."
+      "answer_ar": "الطلب صالح لمدة 7 أيام. ذكّر المستأجر بالموافقة عبر أبشر. بعد انتهاء المهلة يجب إعادة الإنشاء.",
+      "question_en": "The tenant did not approve the contract",
+      "answer_en": "The request is valid for 7 days. Remind the tenant to approve via Absher. After the deadline, you must recreate it."
     },
     {
       "question_ar": "هل يمكن تعديل العقد بعد التوثيق؟",
-      "answer_ar": "نعم، يمكن إنشاء ملحق عقد لتعديل القيمة أو المدة عبر إيجار."
+      "answer_ar": "نعم، يمكن إنشاء ملحق عقد لتعديل القيمة أو المدة عبر إيجار.",
+      "question_en": "Can the contract be modified after registration?",
+      "answer_en": "Yes, you can create a contract amendment to modify the value or duration via Ejar."
     },
     {
       "question_ar": "ماذا لو كان العقار بدون صك إلكتروني؟",
-      "answer_ar": "يجب تحويل الصك الورقي إلى إلكتروني عبر بوابة ناجز أولاً."
+      "answer_ar": "يجب تحويل الصك الورقي إلى إلكتروني عبر بوابة ناجز أولاً.",
+      "question_en": "What if the property does not have an electronic deed?",
+      "answer_en": "You must convert the paper deed to electronic via the Najiz portal first."
     }
   ],
   "related_slugs": [
@@ -90,5 +100,7 @@
     "register-national-address"
   ],
   "last_updated": "########",
-  "penalty_ar": "عقود الإيجار غير الموثقة لا تُقبل في المحاكم ولا تُستخدم لإصدار التراخيص"
+  "penalty_ar": "عقود الإيجار غير الموثقة لا تُقبل في المحاكم ولا تُستخدم لإصدار التراخيص",
+  "description_en": "All residential and commercial rental contracts must be registered electronically via the Ejar platform. A registered contract is required for municipal licenses and utility account setup.",
+  "penalty_en": "Unregistered rental contracts are not accepted in courts and cannot be used for license issuance"
 }

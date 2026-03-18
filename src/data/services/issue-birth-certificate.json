@@ -41,7 +41,9 @@
     {
       "label_ar": "التسجيل",
       "amount": 0,
-      "unit_ar": "مجاني"
+      "unit_ar": "مجاني",
+      "label_en": "Registration",
+      "unit_en": "Free"
     }
   ],
   "steps": [
@@ -69,11 +71,15 @@
   "troubles": [
     {
       "question_ar": "تجاوزت مهلة الـ 15 يوماً",
-      "answer_ar": "يجب مراجعة مكتب الأحوال المدنية شخصياً مع جميع المستندات."
+      "answer_ar": "يجب مراجعة مكتب الأحوال المدنية شخصياً مع جميع المستندات.",
+      "question_en": "I exceeded the 15-day deadline",
+      "answer_en": "You must visit the Civil Affairs office in person with all required documents."
     },
     {
       "question_ar": "هل يمكن تسجيل مولود لأم غير سعودية؟",
-      "answer_ar": "نعم، إذا كان الأب سعودياً يُسجل المولود سعودياً تلقائياً."
+      "answer_ar": "نعم، إذا كان الأب سعودياً يُسجل المولود سعودياً تلقائياً.",
+      "question_en": "Can a child born to a non-Saudi mother be registered?",
+      "answer_en": "Yes, if the father is Saudi, the child is automatically registered as Saudi."
     }
   ],
   "related_slugs": [
@@ -81,5 +87,7 @@
     "absher-account-registration"
   ],
   "last_updated": "########",
-  "penalty_ar": "التأخر عن 15 يوماً يتطلب مراجعة الأحوال المدنية شخصياً"
+  "penalty_ar": "التأخر عن 15 يوماً يتطلب مراجعة الأحوال المدنية شخصياً",
+  "description_en": "This service allows you to register newborns and issue a birth certificate electronically via Absher within 15 days of birth.",
+  "penalty_en": "Delay beyond 15 days requires an in-person visit to Civil Affairs"
 }

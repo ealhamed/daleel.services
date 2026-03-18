@@ -41,7 +41,9 @@
     {
       "label_ar": "تقديم الشكوى",
       "amount": 0,
-      "unit_ar": "مجاني"
+      "unit_ar": "مجاني",
+      "label_en": "Filing the complaint",
+      "unit_en": "Free"
     }
   ],
   "steps": [
@@ -73,24 +75,33 @@
   "troubles": [
     {
       "question_ar": "صاحب العمل لم يدفع راتبي منذ 3 أشهر",
-      "answer_ar": "هذا يعطيك حق نقل خدماتك دون موافقته وفق نظام حماية الأجور. قدّم الشكوى مع كشف حساب بنكي كإثبات."
+      "answer_ar": "هذا يعطيك حق نقل خدماتك دون موافقته وفق نظام حماية الأجور. قدّم الشكوى مع كشف حساب بنكي كإثبات.",
+      "question_en": "My employer has not paid my salary for 3 months",
+      "answer_en": "This gives you the right to transfer your services without their consent under the Wage Protection System. File the complaint with a bank statement as proof."
     },
     {
       "question_ar": "هل يمكن تقديم الشكوى وأنا خارج المملكة؟",
-      "answer_ar": "نعم، يمكنك التقديم عبر قوى إلكترونياً. لكن حضور جلسات التسوية قد يكون مطلوباً."
+      "answer_ar": "نعم، يمكنك التقديم عبر قوى إلكترونياً. لكن حضور جلسات التسوية قد يكون مطلوباً.",
+      "question_en": "Can I file a complaint while outside the Kingdom?",
+      "answer_en": "Yes, you can file electronically via Qiwa. However, attending settlement sessions may be required."
     },
     {
       "question_ar": "كم تستغرق العملية كاملة؟",
-      "answer_ar": "التسوية الودية 21 يوماً. إذا أُحيلت للمحكمة، تأخذ 2-6 أشهر حسب تعقيد القضية."
+      "answer_ar": "التسوية الودية 21 يوماً. إذا أُحيلت للمحكمة، تأخذ 2-6 أشهر حسب تعقيد القضية.",
+      "question_en": "How long does the entire process take?",
+      "answer_en": "Amicable settlement takes 21 days. If referred to court, it takes 2-6 months depending on case complexity."
     },
     {
       "question_ar": "هل أحتاج محامي؟",
-      "answer_ar": "ليس إلزامياً في مرحلة التسوية الودية. لكن يُنصح به إذا أُحيلت للمحكمة العمالية."
+      "answer_ar": "ليس إلزامياً في مرحلة التسوية الودية. لكن يُنصح به إذا أُحيلت للمحكمة العمالية.",
+      "question_en": "Do I need a lawyer?",
+      "answer_en": "Not mandatory during the amicable settlement stage. However, it is recommended if referred to the Labor Court."
     }
   ],
   "related_slugs": [
     "transfer-sponsorship",
     "renew-work-permit"
   ],
-  "last_updated": "########"
+  "last_updated": "########",
+  "description_en": "This service allows workers to file a complaint against their employer in cases such as: delayed salary, unsafe work environment, or contract violations."
 }

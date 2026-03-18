@@ -41,7 +41,9 @@
     {
       "label_ar": "التسجيل",
       "amount": 0,
-      "unit_ar": "مجاني"
+      "unit_ar": "مجاني",
+      "label_en": "Registration",
+      "unit_en": "Free"
     }
   ],
   "steps": [
@@ -73,20 +75,27 @@
   "troubles": [
     {
       "question_ar": "لم يصلني رمز التحقق",
-      "answer_ar": "تأكد أن رقم الجوال مسجل باسمك لدى شركة الاتصالات. إذا كان الرقم مسجلاً باسم شخص آخر، لن يصل الرمز."
+      "answer_ar": "تأكد أن رقم الجوال مسجل باسمك لدى شركة الاتصالات. إذا كان الرقم مسجلاً باسم شخص آخر، لن يصل الرمز.",
+      "question_en": "I did not receive the verification code",
+      "answer_en": "Make sure your mobile number is registered in your name with your telecom provider. If it is registered under someone else, the code will not be sent."
     },
     {
       "question_ar": "ما الفرق بين أبشر أفراد وأبشر أعمال؟",
-      "answer_ar": "أبشر أفراد للخدمات الشخصية (جوازات، مرور، أحوال مدنية). أبشر أعمال لأصحاب المنشآت (إقامات العمالة، تأشيرات)."
+      "answer_ar": "أبشر أفراد للخدمات الشخصية (جوازات، مرور، أحوال مدنية). أبشر أعمال لأصحاب المنشآت (إقامات العمالة، تأشيرات).",
+      "question_en": "What is the difference between Absher Individuals and Absher Business?",
+      "answer_en": "Absher Individuals is for personal services (passports, traffic, civil affairs). Absher Business is for company owners (employee residencies, visas)."
     },
     {
       "question_ar": "نسيت كلمة المرور",
-      "answer_ar": "اضغط \"نسيت كلمة المرور\" في صفحة الدخول وأعد تعيينها عبر رمز التحقق المرسل لجوالك."
+      "answer_ar": "اضغط \"نسيت كلمة المرور\" في صفحة الدخول وأعد تعيينها عبر رمز التحقق المرسل لجوالك.",
+      "question_en": "I forgot my password",
+      "answer_en": "Click \"Forgot Password\" on the login page and reset it using the verification code sent to your mobile."
     }
   ],
   "related_slugs": [
     "register-national-address",
     "renew-iqama"
   ],
-  "last_updated": "########"
+  "last_updated": "########",
+  "description_en": "Absher is the official portal for Ministry of Interior services. This guide explains how to create and activate a new account step by step."
 }

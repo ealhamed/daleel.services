@@ -123,7 +123,12 @@ function buildServices(servicesRows, detailsRows) {
     const fees = myDetails
       .filter(d => d.type === 'fee')
       .sort((a, b) => Number(a.order || 0) - Number(b.order || 0))
-      .map(d => ({ label_ar: d.text_ar, amount: Number(d.amount || 0), unit_ar: d.unit_ar || 'ر.س' }))
+      .map(d => {
+        const fee = { label_ar: d.text_ar, amount: Number(d.amount || 0), unit_ar: d.unit_ar || 'ر.س' }
+        if (d.label_en) fee.label_en = d.label_en
+        if (d.unit_en) fee.unit_en = d.unit_en
+        return fee
+      })
 
     const steps = myDetails
       .filter(d => d.type === 'step')
@@ -133,13 +138,19 @@ function buildServices(servicesRows, detailsRows) {
     const troubles = myDetails
       .filter(d => d.type === 'trouble')
       .sort((a, b) => Number(a.order || 0) - Number(b.order || 0))
-      .map(d => ({ question_ar: d.text_ar, answer_ar: d.text_en }))
+      .map(d => {
+        const t = { question_ar: d.text_ar, answer_ar: d.text_en }
+        if (d.question_en) t.question_en = d.question_en
+        if (d.answer_en) t.answer_en = d.answer_en
+        return t
+      })
 
     const service = {
       slug,
       title_ar: row.title_ar || '',
       title_en: row.title_en || '',
       description_ar: row.description_ar || '',
+      ...(row.description_en ? { description_en: row.description_en } : {}),
       portal: row.portal || '',
       portal_url: row.portal_url || '',
       ministry_ar: row.ministry_ar || '',
@@ -157,6 +168,9 @@ function buildServices(servicesRows, detailsRows) {
 
     if (row.penalty_ar && row.penalty_ar.trim()) {
       service.penalty_ar = row.penalty_ar.trim()
+    }
+    if (row.penalty_en && row.penalty_en.trim()) {
+      service.penalty_en = row.penalty_en.trim()
     }
 
     services.push(service)

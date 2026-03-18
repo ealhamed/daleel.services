@@ -45,12 +45,16 @@
     {
       "label_ar": "رسوم التحويل",
       "amount": 2000,
-      "unit_ar": "ر.س تقريباً"
+      "unit_ar": "ر.س تقريباً",
+      "label_en": "Conversion fee",
+      "unit_en": "SAR approx."
     },
     {
       "label_ar": "إصدار الإقامة",
       "amount": 650,
-      "unit_ar": "ر.س"
+      "unit_ar": "ر.س",
+      "label_en": "Iqama issuance",
+      "unit_en": "SAR"
     }
   ],
   "steps": [
@@ -78,19 +82,27 @@
   "troubles": [
     {
       "question_ar": "هل يمكن تحويل كل أنواع تأشيرات الزيارة؟",
-      "answer_ar": "لا، بعض أنواع التأشيرات لا تقبل التحويل (مثل تأشيرات السياحة). تأشيرات الزيارة العائلية والتجارية عادة تقبل."
+      "answer_ar": "لا، بعض أنواع التأشيرات لا تقبل التحويل (مثل تأشيرات السياحة). تأشيرات الزيارة العائلية والتجارية عادة تقبل.",
+      "question_en": "Can all types of visit visas be converted?",
+      "answer_en": "No, some visa types cannot be converted (such as tourist visas). Family visit and business visit visas are usually eligible."
     },
     {
       "question_ar": "كم تستغرق العملية؟",
-      "answer_ar": "عادة 2-4 أسابيع من تقديم الطلب حتى إصدار الإقامة."
+      "answer_ar": "عادة 2-4 أسابيع من تقديم الطلب حتى إصدار الإقامة.",
+      "question_en": "How long does the process take?",
+      "answer_en": "Usually 2-4 weeks from application submission until the Iqama is issued."
     },
     {
       "question_ar": "تأشيرة الزيارة على وشك الانتهاء — هل أمدد أولاً؟",
-      "answer_ar": "نعم، يجب أن تكون التأشيرة سارية أثناء معالجة الطلب. مدّدها عبر أبشر قبل التقديم على التحويل."
+      "answer_ar": "نعم، يجب أن تكون التأشيرة سارية أثناء معالجة الطلب. مدّدها عبر أبشر قبل التقديم على التحويل.",
+      "question_en": "My visit visa is about to expire — should I extend first?",
+      "answer_en": "Yes, the visa must be valid during application processing. Extend it via Absher before applying for conversion."
     },
     {
       "question_ar": "هل يمكن تحويل زيارة عائلية لمرافق إلى إقامة مرافق؟",
-      "answer_ar": "نعم، إذا كان الكفيل مستوفياً لشروط استقبال المرافقين (راتب كافٍ وإقامة سارية)."
+      "answer_ar": "نعم، إذا كان الكفيل مستوفياً لشروط استقبال المرافقين (راتب كافٍ وإقامة سارية).",
+      "question_en": "Can a family visit dependent visa be converted to a dependent Iqama?",
+      "answer_en": "Yes, if the sponsor meets the requirements for receiving dependents (sufficient salary and valid Iqama)."
     }
   ],
   "related_slugs": [
@@ -98,5 +110,6 @@
     "family-visit-visa",
     "exit-reentry-visa"
   ],
-  "last_updated": "########"
+  "last_updated": "########",
+  "description_en": "In some cases, a visit visa can be converted to a work residence or dependent residence without leaving the Kingdom and returning."
 }

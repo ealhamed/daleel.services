@@ -45,7 +45,9 @@
     {
       "label_ar": "رسوم التأشيرة",
       "amount": 0,
-      "unit_ar": "مجانية"
+      "unit_ar": "مجانية",
+      "label_en": "Visa fee",
+      "unit_en": "Free"
     }
   ],
   "steps": [
@@ -77,15 +79,21 @@
   "troubles": [
     {
       "question_ar": "العامل لا يريد المغادرة — هل يمكن إلغاء التأشيرة؟",
-      "answer_ar": "نعم، يمكن إلغاء تأشيرة الخروج النهائي عبر أبشر قبل مغادرة العامل للمملكة."
+      "answer_ar": "نعم، يمكن إلغاء تأشيرة الخروج النهائي عبر أبشر قبل مغادرة العامل للمملكة.",
+      "question_en": "The worker does not want to leave — can the visa be cancelled?",
+      "answer_en": "Yes, the final exit visa can be cancelled via Absher before the worker leaves the Kingdom."
     },
     {
       "question_ar": "هل يمكن للعامل إصدارها بنفسه؟",
-      "answer_ar": "نعم، يمكن للعامل إصدار تأشيرة خروج نهائي بنفسه عبر أبشر أفراد إذا انتهى عقد العمل."
+      "answer_ar": "نعم، يمكن للعامل إصدار تأشيرة خروج نهائي بنفسه عبر أبشر أفراد إذا انتهى عقد العمل.",
+      "question_en": "Can the worker issue it themselves?",
+      "answer_en": "Yes, the worker can issue a final exit visa themselves via Absher Individuals if the employment contract has ended."
     },
     {
       "question_ar": "ماذا لو لم يغادر العامل خلال 60 يوماً؟",
-      "answer_ar": "تنتهي صلاحية التأشيرة ويجب إصدار واحدة جديدة، وقد تُفرض غرامات على التأخير."
+      "answer_ar": "تنتهي صلاحية التأشيرة ويجب إصدار واحدة جديدة، وقد تُفرض غرامات على التأخير.",
+      "question_en": "What if the worker does not leave within 60 days?",
+      "answer_en": "The visa expires and a new one must be issued. Late departure fines may apply."
     }
   ],
   "related_slugs": [
@@ -93,5 +101,6 @@
     "exit-reentry-visa",
     "transfer-sponsorship"
   ],
-  "last_updated": "########"
+  "last_updated": "########",
+  "description_en": "This service enables employers to issue a final exit visa for an employee to leave the Kingdom permanently after the employment relationship ends."
 }

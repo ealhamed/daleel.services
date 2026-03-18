@@ -45,12 +45,16 @@
     {
       "label_ar": "رسوم رخصة العمل",
       "amount": 100,
-      "unit_ar": "ر.س / سنة"
+      "unit_ar": "ر.س / سنة",
+      "label_en": "Work permit fee",
+      "unit_en": "SAR/year"
     },
     {
       "label_ar": "المقابل المالي",
       "amount": 400,
-      "unit_ar": "ر.س / شهر"
+      "unit_ar": "ر.س / شهر",
+      "label_en": "Financial compensation",
+      "unit_en": "SAR/month"
     }
   ],
   "steps": [
@@ -82,15 +86,21 @@
   "troubles": [
     {
       "question_ar": "ظهرت رسالة \"المنشأة غير مؤهلة\"",
-      "answer_ar": "المنشأة في النطاق الأحمر أو عليها مخالفات. راجع لوحة نطاقات في قوى وصحّح الوضع أولاً."
+      "answer_ar": "المنشأة في النطاق الأحمر أو عليها مخالفات. راجع لوحة نطاقات في قوى وصحّح الوضع أولاً.",
+      "question_en": "\"Establishment not eligible\" message appeared",
+      "answer_en": "The establishment is in the Red zone or has violations. Check the Nitaqat dashboard in Qiwa and correct the status first."
     },
     {
       "question_ar": "ما الفرق بين رسوم رخصة العمل والمقابل المالي؟",
-      "answer_ar": "رخصة العمل 100 ر.س/سنة رسم حكومي. المقابل المالي 400 ر.س/شهر (4,800/سنة) يُدفع عن كل عامل وافد."
+      "answer_ar": "رخصة العمل 100 ر.س/سنة رسم حكومي. المقابل المالي 400 ر.س/شهر (4,800/سنة) يُدفع عن كل عامل وافد.",
+      "question_en": "What is the difference between work permit fees and financial compensation?",
+      "answer_en": "Work permit is SAR 100/year government fee. Financial compensation is SAR 400/month (4,800/year) paid per foreign worker."
     },
     {
       "question_ar": "هل يمكن إصدار رخصة لأقل من سنة؟",
-      "answer_ar": "نعم، يمكن إصدارها لمدة 3 أو 6 أشهر بحسب الحاجة، مع تناسب الرسوم."
+      "answer_ar": "نعم، يمكن إصدارها لمدة 3 أو 6 أشهر بحسب الحاجة، مع تناسب الرسوم.",
+      "question_en": "Can a permit be issued for less than a year?",
+      "answer_en": "Yes, it can be issued for 3 or 6 months as needed, with proportional fees."
     }
   ],
   "related_slugs": [
@@ -98,5 +108,7 @@
     "transfer-sponsorship"
   ],
   "last_updated": "########",
-  "penalty_ar": "رخصة العمل المنتهية تمنع تجديد الإقامة وقد تؤثر على نطاقات المنشأة"
+  "penalty_ar": "رخصة العمل المنتهية تمنع تجديد الإقامة وقد تؤثر على نطاقات المنشأة",
+  "description_en": "This service allows business owners to issue or renew work permits for foreign workers electronically via the Qiwa platform. Work permits are required for Iqama renewal.",
+  "penalty_en": "An expired work permit prevents Iqama renewal and may affect the establishment's Nitaqat rating"
 }

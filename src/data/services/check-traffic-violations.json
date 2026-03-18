@@ -37,7 +37,9 @@
     {
       "label_ar": "الاستعلام",
       "amount": 0,
-      "unit_ar": "مجاني"
+      "unit_ar": "مجاني",
+      "label_en": "Inquiry",
+      "unit_en": "Free"
     }
   ],
   "steps": [
@@ -61,19 +63,27 @@
   "troubles": [
     {
       "question_ar": "المخالفة لا تظهر في أبشر",
-      "answer_ar": "قد تحتاج 48-72 ساعة لتظهر بعد التسجيل. جرّب أيضاً تطبيق المرور أو منصة إيفاء."
+      "answer_ar": "قد تحتاج 48-72 ساعة لتظهر بعد التسجيل. جرّب أيضاً تطبيق المرور أو منصة إيفاء.",
+      "question_en": "The violation does not appear in Absher",
+      "answer_en": "It may take 48-72 hours to appear after registration. Also try the Traffic app or the Efa' platform."
     },
     {
       "question_ar": "مخالفة مسجلة وأنا لم أكن السائق",
-      "answer_ar": "قدّم اعتراضاً خلال 30 يوماً عبر أبشر أو تطبيق كلنا أمن."
+      "answer_ar": "قدّم اعتراضاً خلال 30 يوماً عبر أبشر أو تطبيق كلنا أمن.",
+      "question_en": "A violation is registered but I was not the driver",
+      "answer_en": "Submit an objection within 30 days via Absher or the Kulluna Amn app."
     },
     {
       "question_ar": "هل هناك خصم على السداد المبكر؟",
-      "answer_ar": "نعم، بعض المخالفات عليها خصم 25% عند السداد خلال 30 يوماً من التسجيل."
+      "answer_ar": "نعم، بعض المخالفات عليها خصم 25% عند السداد خلال 30 يوماً من التسجيل.",
+      "question_en": "Is there a discount for early payment?",
+      "answer_en": "Yes, some violations have a 25% discount when paid within 30 days of registration."
     },
     {
       "question_ar": "كيف أعرف إذا عندي مخالفات ساهر؟",
-      "answer_ar": "مخالفات ساهر تظهر ضمن المخالفات المرورية في أبشر. تصلك رسالة SMS عند تسجيل أي مخالفة جديدة."
+      "answer_ar": "مخالفات ساهر تظهر ضمن المخالفات المرورية في أبشر. تصلك رسالة SMS عند تسجيل أي مخالفة جديدة.",
+      "question_en": "How do I know if I have Saher violations?",
+      "answer_en": "Saher violations appear among traffic violations in Absher. You receive an SMS when any new violation is registered."
     }
   ],
   "related_slugs": [
@@ -81,5 +91,6 @@
     "traffic-violation-objection",
     "renew-driving-license"
   ],
-  "last_updated": "########"
+  "last_updated": "########",
+  "description_en": "This service allows you to check all traffic violations registered against you or your vehicles, with details of each violation and payment status."
 }

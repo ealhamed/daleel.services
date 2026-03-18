@@ -49,12 +49,16 @@
     {
       "label_ar": "التقديم",
       "amount": 0,
-      "unit_ar": "مجاني"
+      "unit_ar": "مجاني",
+      "label_en": "Application",
+      "unit_en": "Free"
     },
     {
       "label_ar": "التعويض",
       "amount": 60,
-      "unit_ar": "% من الراتب (أول 3 أشهر)"
+      "unit_ar": "% من الراتب (أول 3 أشهر)",
+      "label_en": "Compensation",
+      "unit_en": "% of salary (first 3 months)"
     }
   ],
   "steps": [
@@ -82,24 +86,33 @@
   "troubles": [
     {
       "question_ar": "استقلت من العمل — هل أستحق ساند؟",
-      "answer_ar": "الاستقالة لا تؤهل لساند إلا في حالات محددة (مثل عدم دفع الراتب لأكثر من 3 أشهر أو بيئة عمل خطرة موثقة)."
+      "answer_ar": "الاستقالة لا تؤهل لساند إلا في حالات محددة (مثل عدم دفع الراتب لأكثر من 3 أشهر أو بيئة عمل خطرة موثقة).",
+      "question_en": "I resigned — am I eligible for SANED?",
+      "answer_en": "Resignation does not qualify for SANED except in specific cases (such as unpaid salary for over 3 months or a documented dangerous work environment)."
     },
     {
       "question_ar": "كم مبلغ التعويض الشهري؟",
-      "answer_ar": "60% من متوسط آخر 3 رواتب في أول 3 أشهر، ثم 50% في الأشهر التالية. الحد الأقصى 9,000 ر.س شهرياً."
+      "answer_ar": "60% من متوسط آخر 3 رواتب في أول 3 أشهر، ثم 50% في الأشهر التالية. الحد الأقصى 9,000 ر.س شهرياً.",
+      "question_en": "How much is the monthly compensation?",
+      "answer_en": "60% of the average of the last 3 salaries for the first 3 months, then 50% for subsequent months. Maximum SAR 9,000/month."
     },
     {
       "question_ar": "ماذا لو وجدت عملاً أثناء فترة ساند؟",
-      "answer_ar": "يتوقف الصرف تلقائياً عند تسجيلك في منشأة جديدة في التأمينات."
+      "answer_ar": "يتوقف الصرف تلقائياً عند تسجيلك في منشأة جديدة في التأمينات.",
+      "question_en": "What if I find a job during the SANED period?",
+      "answer_en": "Payments stop automatically when you are registered at a new establishment in GOSI."
     },
     {
       "question_ar": "تجاوزت مهلة الـ 90 يوماً — هل يمكنني التقديم؟",
-      "answer_ar": "لا، يجب التقديم خلال 90 يوماً من تاريخ ترك العمل. بعدها تسقط الأهلية لهذه الفترة."
+      "answer_ar": "لا، يجب التقديم خلال 90 يوماً من تاريخ ترك العمل. بعدها تسقط الأهلية لهذه الفترة.",
+      "question_en": "I passed the 90-day deadline — can I still apply?",
+      "answer_en": "No, you must apply within 90 days of leaving work. After that, eligibility for this period is forfeited."
     }
   ],
   "related_slugs": [
     "gosi-certificate",
     "jadarat-job-search"
   ],
-  "last_updated": "########"
+  "last_updated": "########",
+  "description_en": "The SANED system provides monthly compensation for Saudi citizens who lost their jobs for reasons beyond their control, for up to 12 months."
 }

@@ -41,7 +41,9 @@
     {
       "label_ar": "رسوم الاعتراض",
       "amount": 0,
-      "unit_ar": "مجاني"
+      "unit_ar": "مجاني",
+      "label_en": "Objection fee",
+      "unit_en": "Free"
     }
   ],
   "steps": [
@@ -69,20 +71,27 @@
   "troubles": [
     {
       "question_ar": "تجاوزت مهلة الـ 30 يوماً",
-      "answer_ar": "لا يمكن الاعتراض بعد 30 يوماً. يجب سداد المخالفة."
+      "answer_ar": "لا يمكن الاعتراض بعد 30 يوماً. يجب سداد المخالفة.",
+      "question_en": "I passed the 30-day deadline",
+      "answer_en": "Objections cannot be filed after 30 days. You must pay the violation."
     },
     {
       "question_ar": "هل الاعتراض يوقف المخالفة مؤقتاً؟",
-      "answer_ar": "نعم، لا يُطلب السداد أثناء فترة دراسة الاعتراض."
+      "answer_ar": "نعم، لا يُطلب السداد أثناء فترة دراسة الاعتراض.",
+      "question_en": "Does the objection pause the violation temporarily?",
+      "answer_en": "Yes, payment is not required during the objection review period."
     },
     {
       "question_ar": "تم رفض الاعتراض — ماذا أفعل؟",
-      "answer_ar": "يمكنك تقديم اعتراض ثانٍ عبر تطبيق \"كلنا أمن\" أو مراجعة إدارة المرور."
+      "answer_ar": "يمكنك تقديم اعتراض ثانٍ عبر تطبيق \"كلنا أمن\" أو مراجعة إدارة المرور.",
+      "question_en": "My objection was rejected — what should I do?",
+      "answer_en": "You can submit a second objection via the Kulluna Amn app or visit the Traffic Department."
     }
   ],
   "related_slugs": [
     "pay-traffic-fines",
     "renew-driving-license"
   ],
-  "last_updated": "########"
+  "last_updated": "########",
+  "description_en": "This service allows you to object to a registered traffic violation if you believe it is incorrect, within 30 days of its registration date."
 }
