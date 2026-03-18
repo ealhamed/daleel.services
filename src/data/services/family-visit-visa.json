@@ -1,0 +1,102 @@
+{
+  "slug": "family-visit-visa",
+  "title_ar": "إصدار تأشيرة زيارة عائلية عبر وزارة الخارجية",
+  "title_en": "Issue family visit visa via MOFA",
+  "description_ar": "تتيح لك هذه الخدمة تقديم طلب تأشيرة زيارة عائلية لاستقدام أفراد عائلتك من خارج المملكة لزيارة مؤقتة.",
+  "portal": "منصة التأشيرات الإلكترونية",
+  "portal_url": "https://visa.mofa.gov.sa",
+  "ministry_ar": "وزارة الخارجية",
+  "ministry_en": "Ministry of Foreign Affairs",
+  "category_ar": "خدمات التأشيرات",
+  "category_en": "Visa Services",
+  "tags": [
+    {
+      "text_ar": "وزارة الخارجية",
+      "type": "info"
+    },
+    {
+      "text_ar": "للمقيمين والمواطنين",
+      "type": "success"
+    },
+    {
+      "text_ar": "آخر تحديث: مارس 2026",
+      "type": "warning"
+    }
+  ],
+  "checks": [
+    {
+      "text_ar": "إقامة أو هوية وطنية سارية",
+      "text_en": "Valid Iqama or national ID"
+    },
+    {
+      "text_ar": "جواز سفر الزائر ساري لمدة 6 أشهر",
+      "text_en": "Visitor passport valid for 6 months"
+    },
+    {
+      "text_ar": "راتب لا يقل عن الحد المطلوب حسب الجنسية",
+      "text_en": "Salary meets minimum requirement by nationality"
+    },
+    {
+      "text_ar": "تأمين طبي للزائر",
+      "text_en": "Medical insurance for the visitor"
+    }
+  ],
+  "fees": [
+    {
+      "label_ar": "تأشيرة مفردة (90 يوم)",
+      "amount": 300,
+      "unit_ar": "ر.س"
+    },
+    {
+      "label_ar": "تأشيرة متعددة (سنة)",
+      "amount": 500,
+      "unit_ar": "ر.س"
+    }
+  ],
+  "penalty_ar": "عدم مغادرة الزائر قبل انتهاء التأشيرة يعرّض الكفيل لغرامة ومنع من إصدار تأشيرات مستقبلية",
+  "steps": [
+    {
+      "text_ar": "ادخل إلى منصة التأشيرات الإلكترونية في وزارة الخارجية",
+      "text_en": "Go to MOFA e-Visa platform"
+    },
+    {
+      "text_ar": "سجّل الدخول عبر النفاذ الوطني",
+      "text_en": "Log in via National SSO"
+    },
+    {
+      "text_ar": "اختر \"تأشيرة زيارة عائلية\" وأدخل بيانات الزائر",
+      "text_en": "Select Family Visit Visa and enter visitor details"
+    },
+    {
+      "text_ar": "حدد نوع التأشيرة (مفردة أو متعددة) والمدة",
+      "text_en": "Choose visa type and duration"
+    },
+    {
+      "text_ar": "ارفع المستندات المطلوبة (جواز، صورة، إثبات قرابة)",
+      "text_en": "Upload required documents (passport, photo, kinship proof)"
+    },
+    {
+      "text_ar": "سدّد الرسوم وانتظر الموافقة (3-7 أيام عمل)",
+      "text_en": "Pay fees and wait for approval (3-7 business days)"
+    }
+  ],
+  "troubles": [
+    {
+      "question_ar": "تم رفض الطلب — ماذا أفعل؟",
+      "answer_ar": "الأسباب الشائعة: راتب أقل من الحد، جواز منتهي، أو طلب مقدم لنفس الشخص مسبقاً. صحّح السبب وأعد التقديم."
+    },
+    {
+      "question_ar": "هل يمكن تمديد الزيارة العائلية؟",
+      "answer_ar": "نعم، يمكن تمديدها عبر أبشر أو منصة مقيم قبل انتهاء صلاحيتها."
+    },
+    {
+      "question_ar": "ما الفرق بين زيارة عائلية وزيارة شخصية؟",
+      "answer_ar": "العائلية تشمل الأقارب من الدرجة الأولى والثانية. الشخصية تشمل الأصدقاء وغير الأقارب."
+    }
+  ],
+  "related_slugs": [
+    "exit-reentry-visa",
+    "renew-iqama"
+  ],
+  "last_updated": "2026-03-18"
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "jadarat-job-search",
+  "title_ar": "البحث عن وظيفة عبر منصة جدارات",
+  "title_en": "Search for jobs via Jadarat platform",
+  "description_ar": "جدارات هي المنصة الوطنية للتوظيف التي تربط الباحثين عن عمل بفرص القطاعين العام والخاص، وتحل محل منصتي طاقات وجدارة.",
+  "portal": "منصة جدارات",
+  "portal_url": "https://www.jadarat.sa",
+  "ministry_ar": "وزارة الموارد البشرية والتنمية الاجتماعية",
+  "ministry_en": "Ministry of Human Resources and Social Development",
+  "category_ar": "خدمات العمل",
+  "category_en": "Labor Services",
+  "tags": [
+    {
+      "text_ar": "منصة جدارات",
+      "type": "info"
+    },
+    {
+      "text_ar": "للباحثين عن عمل",
+      "type": "success"
+    },
+    {
+      "text_ar": "آخر تحديث: مارس 2026",
+      "type": "warning"
+    }
+  ],
+  "checks": [
+    {
+      "text_ar": "هوية وطنية سارية (للسعوديين)",
+      "text_en": "Valid national ID (for Saudis)"
+    },
+    {
+      "text_ar": "بيانات محدّثة في أبشر",
+      "text_en": "Updated data in Absher"
+    }
+  ],
+  "fees": [
+    {
+      "label_ar": "التسجيل والبحث",
+      "amount": 0,
+      "unit_ar": "مجاني"
+    }
+  ],
+  "steps": [
+    {
+      "text_ar": "ادخل إلى منصة جدارات وسجّل عبر النفاذ الوطني",
+      "text_en": "Go to Jadarat and register via National SSO"
+    },
+    {
+      "text_ar": "أكمل ملفك الشخصي (المؤهلات، الخبرات، المهارات)",
+      "text_en": "Complete your profile (qualifications, experience, skills)"
+    },
+    {
+      "text_ar": "ابحث عن الوظائف حسب المجال والمنطقة",
+      "text_en": "Search for jobs by field and region"
+    },
+    {
+      "text_ar": "قدّم على الوظائف المناسبة",
+      "text_en": "Apply to suitable positions"
+    },
+    {
+      "text_ar": "تابع حالة طلباتك عبر لوحة التحكم",
+      "text_en": "Track your applications via dashboard"
+    }
+  ],
+  "troubles": [
+    {
+      "question_ar": "ما الفرق بين جدارات وطاقات وجدارة؟",
+      "answer_ar": "جدارات هي المنصة الموحدة الجديدة التي دمجت خدمات طاقات (القطاع الخاص) وجدارة (القطاع الحكومي) في منصة واحدة."
+    },
+    {
+      "question_ar": "هل يمكن لغير السعوديين استخدام جدارات؟",
+      "answer_ar": "المنصة مخصصة بشكل أساسي للمواطنين السعوديين الباحثين عن عمل."
+    }
+  ],
+  "related_slugs": [
+    "gosi-retirement-subscription",
+    "renew-national-id"
+  ],
+  "last_updated": "2026-03-18"
+}

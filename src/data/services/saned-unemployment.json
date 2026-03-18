@@ -1,0 +1,105 @@
+{
+  "slug": "saned-unemployment",
+  "title_ar": "التقديم على إعانة ساند (التعطل عن العمل)",
+  "title_en": "Apply for SANED unemployment benefit",
+  "description_ar": "نظام ساند يوفر تعويضاً شهرياً للمواطنين السعوديين الذين فقدوا وظائفهم لأسباب خارجة عن إرادتهم، لمدة تصل إلى 12 شهراً.",
+  "portal": "التأمينات أون لاين",
+  "portal_url": "https://www.gosi.gov.sa",
+  "ministry_ar": "المؤسسة العامة للتأمينات الاجتماعية",
+  "ministry_en": "General Organization for Social Insurance (GOSI)",
+  "category_ar": "خدمات التأمينات",
+  "category_en": "Insurance Services",
+  "tags": [
+    {
+      "text_ar": "التأمينات أون لاين",
+      "type": "info"
+    },
+    {
+      "text_ar": "للسعوديين فقط",
+      "type": "warning"
+    },
+    {
+      "text_ar": "آخر تحديث: مارس 2026",
+      "type": "warning"
+    }
+  ],
+  "checks": [
+    {
+      "text_ar": "سعودي الجنسية",
+      "text_en": "Saudi national"
+    },
+    {
+      "text_ar": "مسجل في التأمينات الاجتماعية لمدة 12 شهراً على الأقل (متصلة أو متقطعة)",
+      "text_en": "Registered in GOSI for at least 12 months"
+    },
+    {
+      "text_ar": "فقدان العمل لسبب خارج عن الإرادة (ليس استقالة)",
+      "text_en": "Job loss was involuntary (not resignation)"
+    },
+    {
+      "text_ar": "التقديم خلال 90 يوماً من تاريخ ترك العمل",
+      "text_en": "Apply within 90 days of leaving work"
+    },
+    {
+      "text_ar": "قادر على العمل وباحث عن وظيفة",
+      "text_en": "Able to work and actively seeking employment"
+    }
+  ],
+  "fees": [
+    {
+      "label_ar": "التقديم",
+      "amount": 0,
+      "unit_ar": "مجاني"
+    },
+    {
+      "label_ar": "التعويض",
+      "amount": 60,
+      "unit_ar": "% من الراتب (أول 3 أشهر)"
+    }
+  ],
+  "steps": [
+    {
+      "text_ar": "ادخل إلى بوابة التأمينات أون لاين",
+      "text_en": "Go to GOSI Online portal"
+    },
+    {
+      "text_ar": "سجّل الدخول عبر النفاذ الوطني",
+      "text_en": "Log in via National SSO"
+    },
+    {
+      "text_ar": "اختر \"تعويضات\" ثم \"ساند\"",
+      "text_en": "Select Compensations → SANED"
+    },
+    {
+      "text_ar": "أكمل الطلب وارفق رقم حسابك البنكي (IBAN)",
+      "text_en": "Complete application and attach your bank IBAN"
+    },
+    {
+      "text_ar": "سجّل في منصة جدارات كباحث عن عمل (شرط استمرار الصرف)",
+      "text_en": "Register in Jadarat as job seeker (required to continue receiving benefit)"
+    }
+  ],
+  "troubles": [
+    {
+      "question_ar": "استقلت من العمل — هل أستحق ساند؟",
+      "answer_ar": "الاستقالة لا تؤهل لساند إلا في حالات محددة (مثل عدم دفع الراتب لأكثر من 3 أشهر أو بيئة عمل خطرة موثقة)."
+    },
+    {
+      "question_ar": "كم مبلغ التعويض الشهري؟",
+      "answer_ar": "60% من متوسط آخر 3 رواتب في أول 3 أشهر، ثم 50% في الأشهر التالية. الحد الأقصى 9,000 ر.س شهرياً."
+    },
+    {
+      "question_ar": "ماذا لو وجدت عملاً أثناء فترة ساند؟",
+      "answer_ar": "يتوقف الصرف تلقائياً عند تسجيلك في منشأة جديدة في التأمينات."
+    },
+    {
+      "question_ar": "تجاوزت مهلة الـ 90 يوماً — هل يمكنني التقديم؟",
+      "answer_ar": "لا، يجب التقديم خلال 90 يوماً من تاريخ ترك العمل. بعدها تسقط الأهلية لهذه الفترة."
+    }
+  ],
+  "related_slugs": [
+    "gosi-certificate",
+    "jadarat-job-search"
+  ],
+  "last_updated": "2026-03-18"
+}

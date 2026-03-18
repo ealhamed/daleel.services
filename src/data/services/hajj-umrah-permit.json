@@ -1,0 +1,84 @@
+{
+  "slug": "hajj-umrah-permit",
+  "title_ar": "إصدار تصريح حج أو عمرة عبر نسك",
+  "title_en": "Issue Hajj or Umrah permit via Nusuk",
+  "description_ar": "تتيح منصة نسك للمواطنين والمقيمين إصدار تصاريح الحج والعمرة وحجز الخدمات المرتبطة بها إلكترونياً.",
+  "portal": "منصة نسك",
+  "portal_url": "https://www.nusuk.sa",
+  "ministry_ar": "وزارة الحج والعمرة",
+  "ministry_en": "Ministry of Hajj and Umrah",
+  "category_ar": "خدمات الحج والعمرة",
+  "category_en": "Hajj & Umrah Services",
+  "tags": [
+    {
+      "text_ar": "منصة نسك",
+      "type": "info"
+    },
+    {
+      "text_ar": "تصريح مطلوب",
+      "type": "warning"
+    },
+    {
+      "text_ar": "آخر تحديث: مارس 2026",
+      "type": "warning"
+    }
+  ],
+  "checks": [
+    {
+      "text_ar": "هوية وطنية أو إقامة سارية",
+      "text_en": "Valid national ID or Iqama"
+    },
+    {
+      "text_ar": "تطعيمات محدّثة (حسب الاشتراطات الصحية)",
+      "text_en": "Updated vaccinations (per health requirements)"
+    },
+    {
+      "text_ar": "تطبيق نسك أو توكلنا",
+      "text_en": "Nusuk or Tawakkalna app"
+    }
+  ],
+  "fees": [
+    {
+      "label_ar": "تصريح العمرة",
+      "amount": 0,
+      "unit_ar": "مجاني للمقيمين والمواطنين"
+    }
+  ],
+  "steps": [
+    {
+      "text_ar": "حمّل تطبيق نسك أو ادخل الموقع",
+      "text_en": "Download Nusuk app or visit website"
+    },
+    {
+      "text_ar": "سجّل الدخول عبر النفاذ الوطني",
+      "text_en": "Log in via National SSO"
+    },
+    {
+      "text_ar": "اختر \"إصدار تصريح عمرة\" أو \"التسجيل للحج\"",
+      "text_en": "Select Issue Umrah Permit or Register for Hajj"
+    },
+    {
+      "text_ar": "حدد التاريخ والوقت المناسب",
+      "text_en": "Choose preferred date and time"
+    },
+    {
+      "text_ar": "التصريح يصدر إلكترونياً ويظهر في توكلنا",
+      "text_en": "Permit issues digitally and appears in Tawakkalna"
+    }
+  ],
+  "troubles": [
+    {
+      "question_ar": "لا تظهر مواعيد متاحة",
+      "answer_ar": "المواعيد تُحدث دورياً. حاول في أوقات مختلفة أو اختر تاريخاً أبعد."
+    },
+    {
+      "question_ar": "هل أحتاج تصريح للعمرة من داخل مكة؟",
+      "answer_ar": "عادة لا يُطلب تصريح لسكان مكة لأداء العمرة، لكن قد تتغير الاشتراطات في مواسم الذروة."
+    }
+  ],
+  "related_slugs": [
+    "nafath-setup",
+    "absher-account-registration"
+  ],
+  "last_updated": "2026-03-18"
+}

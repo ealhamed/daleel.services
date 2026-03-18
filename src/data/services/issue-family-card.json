@@ -1,0 +1,89 @@
+{
+  "slug": "issue-family-card",
+  "title_ar": "إصدار بطاقة العائلة (كرت العائلة) عبر أبشر",
+  "title_en": "Issue family card via Absher",
+  "description_ar": "بطاقة العائلة وثيقة رسمية تثبت أفراد الأسرة وعلاقتهم. مطلوبة في كثير من المعاملات الحكومية والتعليمية والصحية.",
+  "portal": "أبشر أفراد",
+  "portal_url": "https://www.absher.sa",
+  "ministry_ar": "وزارة الداخلية",
+  "ministry_en": "Ministry of Interior",
+  "category_ar": "خدمات الأحوال المدنية",
+  "category_en": "Civil Affairs",
+  "tags": [
+    {
+      "text_ar": "أبشر أفراد",
+      "type": "info"
+    },
+    {
+      "text_ar": "للمواطنين فقط",
+      "type": "warning"
+    },
+    {
+      "text_ar": "آخر تحديث: مارس 2026",
+      "type": "warning"
+    }
+  ],
+  "checks": [
+    {
+      "text_ar": "هوية وطنية سارية لرب الأسرة",
+      "text_en": "Valid national ID for head of household"
+    },
+    {
+      "text_ar": "عقد زواج موثق",
+      "text_en": "Authenticated marriage contract"
+    },
+    {
+      "text_ar": "تسجيل جميع أفراد الأسرة في الأحوال المدنية",
+      "text_en": "All family members registered in Civil Affairs"
+    }
+  ],
+  "fees": [
+    {
+      "label_ar": "الإصدار",
+      "amount": 0,
+      "unit_ar": "مجاني"
+    }
+  ],
+  "steps": [
+    {
+      "text_ar": "سجّل الدخول إلى أبشر أفراد",
+      "text_en": "Log in to Absher Individuals"
+    },
+    {
+      "text_ar": "اختر \"خدماتي\" ثم \"الأحوال المدنية\"",
+      "text_en": "Go to My Services → Civil Affairs"
+    },
+    {
+      "text_ar": "اختر \"إصدار بطاقة عائلة\" أو \"تحديث بطاقة عائلة\"",
+      "text_en": "Select Issue Family Card or Update Family Card"
+    },
+    {
+      "text_ar": "راجع بيانات أفراد الأسرة وأكّد",
+      "text_en": "Review family members' data and confirm"
+    },
+    {
+      "text_ar": "البطاقة تصدر إلكترونياً ويمكن طباعتها",
+      "text_en": "Card issues digitally and can be printed"
+    }
+  ],
+  "troubles": [
+    {
+      "question_ar": "أحد الأبناء لا يظهر في البطاقة",
+      "answer_ar": "تأكد من تسجيله في الأحوال المدنية. إذا كان مولوداً حديثاً، سجّله أولاً عبر أبشر ثم حدّث البطاقة."
+    },
+    {
+      "question_ar": "هل بطاقة العائلة الإلكترونية معتمدة؟",
+      "answer_ar": "نعم، البطاقة الإلكترونية في أبشر وتوكلنا معتمدة رسمياً."
+    },
+    {
+      "question_ar": "كيف أضيف زوجة ثانية؟",
+      "answer_ar": "بعد توثيق عقد الزواج الثاني عبر ناجز، حدّث بطاقة العائلة لتشمل الزوجة الجديدة وأبناءها."
+    }
+  ],
+  "related_slugs": [
+    "issue-birth-certificate",
+    "marriage-contract-najiz",
+    "renew-national-id"
+  ],
+  "last_updated": "2026-03-18"
+}

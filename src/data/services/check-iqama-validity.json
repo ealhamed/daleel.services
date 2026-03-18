@@ -1,0 +1,85 @@
+{
+  "slug": "check-iqama-validity",
+  "title_ar": "الاستعلام عن صلاحية الإقامة عبر أبشر",
+  "title_en": "Check Iqama validity via Absher",
+  "description_ar": "تتيح لك هذه الخدمة التحقق من تاريخ انتهاء إقامتك أو إقامة أحد مكفوليك إلكترونياً عبر أبشر، لتجنب الغرامات والتأخير.",
+  "portal": "أبشر أفراد",
+  "portal_url": "https://www.absher.sa",
+  "ministry_ar": "وزارة الداخلية",
+  "ministry_en": "Ministry of Interior",
+  "category_ar": "خدمات الجوازات",
+  "category_en": "Passport Services",
+  "tags": [
+    {
+      "text_ar": "أبشر أفراد",
+      "type": "info"
+    },
+    {
+      "text_ar": "استعلام فوري",
+      "type": "success"
+    },
+    {
+      "text_ar": "آخر تحديث: مارس 2026",
+      "type": "warning"
+    }
+  ],
+  "checks": [
+    {
+      "text_ar": "حساب أبشر مفعّل",
+      "text_en": "Active Absher account"
+    },
+    {
+      "text_ar": "رقم الإقامة المراد الاستعلام عنها",
+      "text_en": "Iqama number to check"
+    }
+  ],
+  "fees": [
+    {
+      "label_ar": "الاستعلام",
+      "amount": 0,
+      "unit_ar": "مجاني"
+    }
+  ],
+  "steps": [
+    {
+      "text_ar": "سجّل الدخول إلى أبشر أفراد",
+      "text_en": "Log in to Absher Individuals"
+    },
+    {
+      "text_ar": "اختر \"خدماتي\" ثم \"الجوازات\"",
+      "text_en": "Go to My Services → Passports"
+    },
+    {
+      "text_ar": "اختر \"الاستعلام عن صلاحية الإقامة\"",
+      "text_en": "Select Check Iqama Validity"
+    },
+    {
+      "text_ar": "ستظهر بيانات الإقامة وتاريخ الانتهاء",
+      "text_en": "Iqama details and expiry date will be displayed"
+    }
+  ],
+  "troubles": [
+    {
+      "question_ar": "هل يمكن الاستعلام بدون أبشر؟",
+      "answer_ar": "نعم، يمكن الاستعلام عبر موقع وزارة الموارد البشرية (خدمة استعلام عن موظف وافد) برقم الإقامة فقط."
+    },
+    {
+      "question_ar": "الإقامة منتهية — ماذا أفعل؟",
+      "answer_ar": "جدّد الإقامة فوراً عبر أبشر لتجنب الغرامة (500 ر.س للمرة الأولى). إذا تجاوزت 3 أيام من الانتهاء ستُفرض الغرامة تلقائياً."
+    },
+    {
+      "question_ar": "هل يمكن الاستعلام عن إقامة شخص آخر؟",
+      "answer_ar": "نعم، إذا كان مكفولاً لديك (عمالة منزلية أو تابعين) يمكنك رؤية صلاحية إقامتهم من حسابك."
+    },
+    {
+      "question_ar": "الإقامة تنتهي بعد أسبوع — هل أجدد الآن؟",
+      "answer_ar": "نعم، يُنصح بالتجديد قبل الانتهاء بـ 3 أيام على الأقل. يمكنك التجديد إذا كانت الصلاحية أقل من 14 شهراً."
+    }
+  ],
+  "related_slugs": [
+    "renew-iqama",
+    "dependents-fee-payment",
+    "exit-reentry-visa"
+  ],
+  "last_updated": "2026-03-18"
+}

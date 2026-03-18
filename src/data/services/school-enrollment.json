@@ -1,0 +1,92 @@
+{
+  "slug": "school-enrollment",
+  "title_ar": "تسجيل طالب في المدارس الحكومية عبر نظام نور",
+  "title_en": "Enroll student in public school via Noor",
+  "description_ar": "تتيح هذه الخدمة لولي الأمر تسجيل أبنائه في المدارس الحكومية (ابتدائي، متوسط، ثانوي) عبر نظام نور الإلكتروني.",
+  "portal": "نظام نور",
+  "portal_url": "https://noor.moe.gov.sa",
+  "ministry_ar": "وزارة التعليم",
+  "ministry_en": "Ministry of Education",
+  "category_ar": "خدمات تعليمية",
+  "category_en": "Education Services",
+  "tags": [
+    {
+      "text_ar": "نظام نور",
+      "type": "info"
+    },
+    {
+      "text_ar": "فترات تسجيل محددة",
+      "type": "warning"
+    },
+    {
+      "text_ar": "آخر تحديث: مارس 2026",
+      "type": "warning"
+    }
+  ],
+  "checks": [
+    {
+      "text_ar": "حساب ولي الأمر في نظام نور",
+      "text_en": "Parent account in Noor system"
+    },
+    {
+      "text_ar": "شهادة ميلاد الطالب أو الهوية",
+      "text_en": "Student's birth certificate or ID"
+    },
+    {
+      "text_ar": "شهادة تطعيمات محدّثة",
+      "text_en": "Updated vaccination certificate"
+    },
+    {
+      "text_ar": "التسجيل خلال الفترة المحددة من الوزارة",
+      "text_en": "Registration within ministry-specified period"
+    }
+  ],
+  "fees": [
+    {
+      "label_ar": "التسجيل",
+      "amount": 0,
+      "unit_ar": "مجاني"
+    }
+  ],
+  "steps": [
+    {
+      "text_ar": "ادخل إلى نظام نور وسجّل الدخول عبر النفاذ الوطني",
+      "text_en": "Go to Noor system and log in via National SSO"
+    },
+    {
+      "text_ar": "اختر \"تسجيل الأبناء\" ثم \"تسجيل طالب جديد\"",
+      "text_en": "Select Register Children → Register New Student"
+    },
+    {
+      "text_ar": "أدخل بيانات الطالب (الاسم، تاريخ الميلاد، الصف)",
+      "text_en": "Enter student details (name, DOB, grade)"
+    },
+    {
+      "text_ar": "اختر المدرسة المرغوبة من القائمة حسب المنطقة",
+      "text_en": "Select preferred school by area"
+    },
+    {
+      "text_ar": "ارفع المستندات المطلوبة واضغط تقديم",
+      "text_en": "Upload required documents and submit"
+    }
+  ],
+  "troubles": [
+    {
+      "question_ar": "فترة التسجيل انتهت",
+      "answer_ar": "يمكنك التقديم للتسجيل المتأخر عبر نور أو مراجعة إدارة التعليم في منطقتك."
+    },
+    {
+      "question_ar": "المدرسة المرغوبة ممتلئة",
+      "answer_ar": "النظام يعرض بدائل قريبة. يمكنك أيضاً تقديم طلب نقل لاحقاً."
+    },
+    {
+      "question_ar": "هل يمكن تسجيل أبناء المقيمين؟",
+      "answer_ar": "نعم، بشرط إقامة سارية وشهادة ميلاد أو جواز سفر."
+    }
+  ],
+  "related_slugs": [
+    "absher-account-registration",
+    "nafath-setup"
+  ],
+  "last_updated": "2026-03-18"
+}

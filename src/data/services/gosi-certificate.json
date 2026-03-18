@@ -1,0 +1,76 @@
+{
+  "slug": "gosi-certificate",
+  "title_ar": "إصدار شهادة التأمينات الاجتماعية",
+  "title_en": "Issue GOSI subscription certificate",
+  "description_ar": "شهادة التأمينات مطلوبة في كثير من المعاملات الحكومية والبنكية. يمكن إصدارها إلكترونياً عبر بوابة التأمينات أون لاين.",
+  "portal": "التأمينات أون لاين",
+  "portal_url": "https://www.gosi.gov.sa",
+  "ministry_ar": "المؤسسة العامة للتأمينات الاجتماعية",
+  "ministry_en": "General Organization for Social Insurance (GOSI)",
+  "category_ar": "خدمات التأمينات",
+  "category_en": "Insurance Services",
+  "tags": [
+    {
+      "text_ar": "التأمينات أون لاين",
+      "type": "info"
+    },
+    {
+      "text_ar": "إلكترونية بالكامل",
+      "type": "success"
+    },
+    {
+      "text_ar": "آخر تحديث: مارس 2026",
+      "type": "warning"
+    }
+  ],
+  "checks": [
+    {
+      "text_ar": "حساب في التأمينات أون لاين أو تطبيق تأميناتي",
+      "text_en": "Account on GOSI Online or Taminaty app"
+    },
+    {
+      "text_ar": "اشتراك ساري أو سابق في التأمينات",
+      "text_en": "Active or past GOSI subscription"
+    }
+  ],
+  "fees": [
+    {
+      "label_ar": "الإصدار",
+      "amount": 0,
+      "unit_ar": "مجاني"
+    }
+  ],
+  "steps": [
+    {
+      "text_ar": "ادخل إلى بوابة التأمينات أون لاين أو تطبيق تأميناتي",
+      "text_en": "Go to GOSI Online or Taminaty app"
+    },
+    {
+      "text_ar": "سجّل الدخول عبر النفاذ الوطني",
+      "text_en": "Log in via National SSO"
+    },
+    {
+      "text_ar": "اختر \"الشهادات\" ثم \"إصدار شهادة اشتراك\"",
+      "text_en": "Select Certificates → Issue Subscription Certificate"
+    },
+    {
+      "text_ar": "الشهادة تصدر فوراً ويمكن تحميلها كـ PDF",
+      "text_en": "Certificate issues instantly and can be downloaded as PDF"
+    }
+  ],
+  "troubles": [
+    {
+      "question_ar": "الشهادة تظهر بيانات قديمة",
+      "answer_ar": "إذا غيّرت وظيفتك مؤخراً، قد تحتاج 2-4 أسابيع حتى تُحدث البيانات. تواصل مع صاحب العمل الجديد لتأكيد التسجيل."
+    },
+    {
+      "question_ar": "لماذا أحتاج هذه الشهادة؟",
+      "answer_ar": "مطلوبة عند: التقديم على قرض بنكي، إثبات الخبرة، التقديم على وظيفة حكومية، أو إجراءات التقاعد."
+    }
+  ],
+  "related_slugs": [
+    "gosi-register-employee",
+    "gosi-retirement-subscription"
+  ],
+  "last_updated": "2026-03-18"
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "ejar-rental-contract",
+  "title_ar": "توثيق عقد إيجار إلكتروني عبر إيجار",
+  "title_en": "Register rental contract via Ejar",
+  "description_ar": "يجب توثيق جميع عقود الإيجار السكنية والتجارية إلكترونياً عبر منصة إيجار. العقد الموثق مطلوب لإصدار رخص البلدية وفتح حسابات الخدمات.",
+  "portal": "منصة إيجار",
+  "portal_url": "https://www.ejar.sa",
+  "ministry_ar": "وزارة الشؤون البلدية والقروية والإسكان",
+  "ministry_en": "Ministry of Municipal, Rural Affairs and Housing",
+  "category_ar": "خدمات الإسكان",
+  "category_en": "Housing Services",
+  "tags": [
+    {
+      "text_ar": "منصة إيجار",
+      "type": "info"
+    },
+    {
+      "text_ar": "إلزامي لكل عقد إيجار",
+      "type": "warning"
+    },
+    {
+      "text_ar": "آخر تحديث: مارس 2026",
+      "type": "warning"
+    }
+  ],
+  "checks": [
+    {
+      "text_ar": "هوية المؤجر والمستأجر سارية",
+      "text_en": "Both landlord and tenant IDs valid"
+    },
+    {
+      "text_ar": "صك ملكية العقار إلكتروني",
+      "text_en": "Electronic property deed"
+    },
+    {
+      "text_ar": "وسيط عقاري معتمد (للعقود التجارية)",
+      "text_en": "Licensed real estate broker (for commercial)"
+    }
+  ],
+  "fees": [
+    {
+      "label_ar": "عقد سكني",
+      "amount": 125,
+      "unit_ar": "ر.س / سنة"
+    },
+    {
+      "label_ar": "عقد تجاري",
+      "amount": 200,
+      "unit_ar": "ر.س / سنة"
+    }
+  ],
+  "penalty_ar": "عقود الإيجار غير الموثقة لا تُقبل في المحاكم ولا تُستخدم لإصدار التراخيص",
+  "steps": [
+    {
+      "text_ar": "يدخل المؤجر أو الوسيط إلى منصة إيجار",
+      "text_en": "Landlord or broker logs in to Ejar"
+    },
+    {
+      "text_ar": "اختر \"إنشاء عقد جديد\" وحدد نوعه (سكني/تجاري)",
+      "text_en": "Select Create New Contract and choose type"
+    },
+    {
+      "text_ar": "أدخل بيانات العقار والمستأجر ومدة العقد والقيمة",
+      "text_en": "Enter property, tenant, duration, and rent details"
+    },
+    {
+      "text_ar": "المستأجر يتلقى إشعاراً للموافقة عبر أبشر أو نفاذ",
+      "text_en": "Tenant receives approval notification via Absher/Nafath"
+    },
+    {
+      "text_ar": "بعد موافقة الطرفين وسداد الرسوم، يُوثق العقد",
+      "text_en": "After both approve and fees are paid, contract is authenticated"
+    }
+  ],
+  "troubles": [
+    {
+      "question_ar": "المستأجر لم يوافق على العقد",
+      "answer_ar": "الطلب صالح لمدة 7 أيام. ذكّر المستأجر بالموافقة عبر أبشر. بعد انتهاء المهلة يجب إعادة الإنشاء."
+    },
+    {
+      "question_ar": "هل يمكن تعديل العقد بعد التوثيق؟",
+      "answer_ar": "نعم، يمكن إنشاء ملحق عقد لتعديل القيمة أو المدة عبر إيجار."
+    },
+    {
+      "question_ar": "ماذا لو كان العقار بدون صك إلكتروني؟",
+      "answer_ar": "يجب تحويل الصك الورقي إلى إلكتروني عبر بوابة ناجز أولاً."
+    }
+  ],
+  "related_slugs": [
+    "issue-municipal-license",
+    "register-national-address"
+  ],
+  "last_updated": "2026-03-18"
+}

@@ -1,0 +1,92 @@
+{
+  "slug": "marriage-contract-najiz",
+  "title_ar": "توثيق عقد زواج عبر ناجز",
+  "title_en": "Authenticate marriage contract via Najiz",
+  "description_ar": "تتيح هذه الخدمة توثيق عقد الزواج إلكترونياً عبر بوابة ناجز التابعة لوزارة العدل، دون الحاجة لزيارة المحكمة.",
+  "portal": "بوابة ناجز",
+  "portal_url": "https://www.najiz.sa",
+  "ministry_ar": "وزارة العدل",
+  "ministry_en": "Ministry of Justice",
+  "category_ar": "خدمات الأحوال المدنية",
+  "category_en": "Civil Affairs",
+  "tags": [
+    {
+      "text_ar": "بوابة ناجز",
+      "type": "info"
+    },
+    {
+      "text_ar": "إلكترونية بالكامل",
+      "type": "success"
+    },
+    {
+      "text_ar": "آخر تحديث: مارس 2026",
+      "type": "warning"
+    }
+  ],
+  "checks": [
+    {
+      "text_ar": "هوية الزوج والزوجة سارية",
+      "text_en": "Both spouses' IDs valid"
+    },
+    {
+      "text_ar": "موافقة ولي أمر الزوجة (إذا لزم)",
+      "text_en": "Guardian approval (if required)"
+    },
+    {
+      "text_ar": "شهادة فحص ما قبل الزواج",
+      "text_en": "Premarital screening certificate"
+    },
+    {
+      "text_ar": "حضور شاهدين",
+      "text_en": "Two witnesses present"
+    }
+  ],
+  "fees": [
+    {
+      "label_ar": "التوثيق",
+      "amount": 0,
+      "unit_ar": "مجاني"
+    }
+  ],
+  "steps": [
+    {
+      "text_ar": "ادخل إلى بوابة ناجز وسجّل الدخول عبر النفاذ الوطني",
+      "text_en": "Go to Najiz and log in via National SSO"
+    },
+    {
+      "text_ar": "اختر \"الخدمات الإنهائية\" ثم \"توثيق عقد زواج\"",
+      "text_en": "Select Notarial Services → Marriage Contract"
+    },
+    {
+      "text_ar": "أدخل بيانات الزوج والزوجة والشهود",
+      "text_en": "Enter details of both spouses and witnesses"
+    },
+    {
+      "text_ar": "ارفع شهادة الفحص الطبي",
+      "text_en": "Upload premarital screening certificate"
+    },
+    {
+      "text_ar": "جميع الأطراف يوافقون إلكترونياً عبر نفاذ",
+      "text_en": "All parties approve electronically via Nafath"
+    },
+    {
+      "text_ar": "العقد يصدر موثقاً إلكترونياً",
+      "text_en": "Contract issues as authenticated digital document"
+    }
+  ],
+  "troubles": [
+    {
+      "question_ar": "هل يمكن توثيق زواج سعودي من أجنبية؟",
+      "answer_ar": "يحتاج لتصريح مسبق من وزارة الداخلية. بعد الحصول على التصريح يُوثق عبر ناجز."
+    },
+    {
+      "question_ar": "أين أجد شهادة الفحص الطبي؟",
+      "answer_ar": "تُجرى الفحوصات في مراكز الرعاية الصحية الأولية. النتيجة ترتبط إلكترونياً."
+    }
+  ],
+  "related_slugs": [
+    "issue-birth-certificate",
+    "renew-national-id"
+  ],
+  "last_updated": "2026-03-18"
+}

@@ -1,0 +1,93 @@
+{
+  "slug": "saudi-business-visa",
+  "title_ar": "إصدار تأشيرة عمل (استقدام) عبر قوى",
+  "title_en": "Issue work visa via Qiwa",
+  "description_ar": "تتيح هذه الخدمة لأصحاب المنشآت إصدار تأشيرة عمل لاستقدام عمالة من خارج المملكة عبر منصة قوى.",
+  "portal": "منصة قوى",
+  "portal_url": "https://www.qiwa.sa",
+  "ministry_ar": "وزارة الموارد البشرية والتنمية الاجتماعية",
+  "ministry_en": "Ministry of Human Resources and Social Development",
+  "category_ar": "خدمات العمل",
+  "category_en": "Labor Services",
+  "tags": [
+    {
+      "text_ar": "منصة قوى",
+      "type": "info"
+    },
+    {
+      "text_ar": "للمنشآت فقط",
+      "type": "warning"
+    },
+    {
+      "text_ar": "آخر تحديث: مارس 2026",
+      "type": "warning"
+    }
+  ],
+  "checks": [
+    {
+      "text_ar": "المنشأة في نطاق أخضر أو أعلى",
+      "text_en": "Establishment in green Nitaqat or above"
+    },
+    {
+      "text_ar": "رخصة عمل سارية",
+      "text_en": "Valid work license"
+    },
+    {
+      "text_ar": "عدم وجود مخالفات عمالية",
+      "text_en": "No labor violations"
+    },
+    {
+      "text_ar": "حجز التأشيرة متاح (حسب النشاط والحجم)",
+      "text_en": "Visa quota available (by activity and size)"
+    }
+  ],
+  "fees": [
+    {
+      "label_ar": "رسوم التأشيرة",
+      "amount": 2000,
+      "unit_ar": "ر.س"
+    },
+    {
+      "label_ar": "رسوم الاستقدام",
+      "amount": 2000,
+      "unit_ar": "ر.س تقريباً"
+    }
+  ],
+  "steps": [
+    {
+      "text_ar": "سجّل الدخول إلى منصة قوى",
+      "text_en": "Log in to Qiwa platform"
+    },
+    {
+      "text_ar": "اختر \"التأشيرات\" ثم \"طلب تأشيرة عمل\"",
+      "text_en": "Select Visas → Request Work Visa"
+    },
+    {
+      "text_ar": "حدد المهنة والجنسية وعدد التأشيرات",
+      "text_en": "Specify profession, nationality, and number of visas"
+    },
+    {
+      "text_ar": "سدّد الرسوم عبر سداد",
+      "text_en": "Pay fees via Sadad"
+    },
+    {
+      "text_ar": "التأشيرة تصدر وتُرسل للسفارة في بلد العامل",
+      "text_en": "Visa issues and is sent to embassy in worker's country"
+    }
+  ],
+  "troubles": [
+    {
+      "question_ar": "لا تظهر تأشيرات متاحة",
+      "answer_ar": "حجم التأشيرات يعتمد على نسبة السعودة ونوع النشاط. حسّن نطاقات المنشأة أو قدّم طلب استثنائي."
+    },
+    {
+      "question_ar": "ما مدة صلاحية التأشيرة؟",
+      "answer_ar": "عادة 90 يوماً من تاريخ الإصدار. يجب أن يدخل العامل المملكة قبل انتهائها."
+    }
+  ],
+  "related_slugs": [
+    "renew-work-permit",
+    "transfer-sponsorship"
+  ],
+  "last_updated": "2026-03-18"
+}

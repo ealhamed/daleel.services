@@ -1,0 +1,89 @@
+{
+  "slug": "zatca-einvoicing-registration",
+  "title_ar": "التسجيل في الفوترة الإلكترونية (فاتورة) عبر هيئة الزكاة",
+  "title_en": "Register for e-invoicing (Fatoorah) via ZATCA",
+  "description_ar": "الفوترة الإلكترونية إلزامية لجميع المنشآت المسجلة في ضريبة القيمة المضافة. يجب ربط أنظمة الفوترة مع منصة فاتورة التابعة لهيئة الزكاة.",
+  "portal": "هيئة الزكاة والضريبة والجمارك",
+  "portal_url": "https://zatca.gov.sa",
+  "ministry_ar": "هيئة الزكاة والضريبة والجمارك",
+  "ministry_en": "Zakat, Tax and Customs Authority (ZATCA)",
+  "category_ar": "خدمات ضريبية",
+  "category_en": "Tax Services",
+  "tags": [
+    {
+      "text_ar": "منصة فاتورة",
+      "type": "info"
+    },
+    {
+      "text_ar": "إلزامي لجميع المنشآت",
+      "type": "warning"
+    },
+    {
+      "text_ar": "آخر تحديث: مارس 2026",
+      "type": "warning"
+    }
+  ],
+  "checks": [
+    {
+      "text_ar": "منشأة مسجلة في ضريبة القيمة المضافة",
+      "text_en": "Establishment registered for VAT"
+    },
+    {
+      "text_ar": "نظام فوترة إلكتروني متوافق مع متطلبات المرحلة الثانية",
+      "text_en": "E-invoicing system compliant with Phase 2 requirements"
+    },
+    {
+      "text_ar": "شهادة التشفير (CSID) من منصة فاتورة",
+      "text_en": "Cryptographic stamp (CSID) from Fatoorah platform"
+    }
+  ],
+  "fees": [
+    {
+      "label_ar": "التسجيل",
+      "amount": 0,
+      "unit_ar": "مجاني"
+    }
+  ],
+  "penalty_ar": "غرامات عدم الامتثال تتراوح بين 5,000 و 50,000 ر.س",
+  "steps": [
+    {
+      "text_ar": "تأكد أن نظام الفوترة لديك متوافق مع متطلبات ZATCA",
+      "text_en": "Ensure your invoicing system meets ZATCA requirements"
+    },
+    {
+      "text_ar": "ادخل إلى بوابة فاتورة عبر موقع هيئة الزكاة",
+      "text_en": "Access Fatoorah portal via ZATCA website"
+    },
+    {
+      "text_ar": "سجّل جهاز الفوترة (EGS) واحصل على شهادة التشفير",
+      "text_en": "Register invoicing device (EGS) and obtain CSID"
+    },
+    {
+      "text_ar": "اختبر الربط عبر بيئة الاختبار (Sandbox)",
+      "text_en": "Test integration via Sandbox environment"
+    },
+    {
+      "text_ar": "بعد نجاح الاختبار، فعّل الربط المباشر مع منصة فاتورة",
+      "text_en": "After successful testing, activate live integration"
+    }
+  ],
+  "troubles": [
+    {
+      "question_ar": "لا أعرف في أي موجة (Wave) أنا",
+      "answer_ar": "ادخل موقع هيئة الزكاة واستعلم عن موجتك بناءً على إيراداتك السنوية. الموجة 24 تشمل المنشآت بإيرادات فوق 375,000 ر.س."
+    },
+    {
+      "question_ar": "هل أحتاج لنظام فوترة خاص؟",
+      "answer_ar": "نعم، يجب استخدام نظام معتمد يدعم المرحلة الثانية. قائمة مزودي الحلول متاحة على موقع ZATCA."
+    },
+    {
+      "question_ar": "ماذا لو كانت منشأتي صغيرة جداً؟",
+      "answer_ar": "جميع المنشآت المسجلة في VAT ملزمة بالفوترة الإلكترونية بغض النظر عن حجمها."
+    }
+  ],
+  "related_slugs": [
+    "zatca-vat-registration",
+    "issue-commercial-registration"
+  ],
+  "last_updated": "2026-03-18"
+}

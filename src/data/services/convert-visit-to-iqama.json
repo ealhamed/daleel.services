@@ -1,0 +1,102 @@
+{
+  "slug": "convert-visit-to-iqama",
+  "title_ar": "تحويل تأشيرة زيارة إلى إقامة",
+  "title_en": "Convert visit visa to Iqama (residence permit)",
+  "description_ar": "في بعض الحالات يمكن تحويل تأشيرة الزيارة إلى إقامة عمل أو إقامة مرافق دون الحاجة لمغادرة المملكة والعودة.",
+  "portal": "أبشر أعمال / قوى",
+  "portal_url": "https://www.absher.sa",
+  "ministry_ar": "وزارة الداخلية / وزارة الموارد البشرية",
+  "ministry_en": "Ministry of Interior / HRSD",
+  "category_ar": "خدمات الجوازات",
+  "category_en": "Passport Services",
+  "tags": [
+    {
+      "text_ar": "أبشر أعمال / قوى",
+      "type": "info"
+    },
+    {
+      "text_ar": "شروط محددة",
+      "type": "warning"
+    },
+    {
+      "text_ar": "آخر تحديث: مارس 2026",
+      "type": "warning"
+    }
+  ],
+  "checks": [
+    {
+      "text_ar": "تأشيرة زيارة سارية المفعول",
+      "text_en": "Valid visit visa"
+    },
+    {
+      "text_ar": "جواز سفر ساري لمدة 6 أشهر على الأقل",
+      "text_en": "Passport valid for at least 6 months"
+    },
+    {
+      "text_ar": "صاحب عمل مستعد لتقديم طلب النقل (لتأشيرة العمل)",
+      "text_en": "Employer ready to submit transfer request (for work visa)"
+    },
+    {
+      "text_ar": "فحص طبي وتأمين صحي",
+      "text_en": "Medical exam and health insurance"
+    }
+  ],
+  "fees": [
+    {
+      "label_ar": "رسوم التحويل",
+      "amount": 2000,
+      "unit_ar": "ر.س تقريباً"
+    },
+    {
+      "label_ar": "إصدار الإقامة",
+      "amount": 650,
+      "unit_ar": "ر.س"
+    }
+  ],
+  "steps": [
+    {
+      "text_ar": "صاحب العمل يتقدم بطلب تحويل الزيارة إلى عمل عبر قوى",
+      "text_en": "Employer submits conversion request via Qiwa"
+    },
+    {
+      "text_ar": "بعد الموافقة، يصدر تأشيرة عمل داخلية",
+      "text_en": "After approval, internal work visa is issued"
+    },
+    {
+      "text_ar": "الزائر يُجري الفحص الطبي ويحصل على تأمين صحي",
+      "text_en": "Visitor completes medical exam and obtains health insurance"
+    },
+    {
+      "text_ar": "صاحب العمل يُصدر الإقامة عبر أبشر أعمال",
+      "text_en": "Employer issues Iqama via Absher Business"
+    },
+    {
+      "text_ar": "يتم إصدار هوية مقيم جديدة",
+      "text_en": "New resident ID is issued"
+    }
+  ],
+  "troubles": [
+    {
+      "question_ar": "هل يمكن تحويل كل أنواع تأشيرات الزيارة؟",
+      "answer_ar": "لا، بعض أنواع التأشيرات لا تقبل التحويل (مثل تأشيرات السياحة). تأشيرات الزيارة العائلية والتجارية عادة تقبل."
+    },
+    {
+      "question_ar": "كم تستغرق العملية؟",
+      "answer_ar": "عادة 2-4 أسابيع من تقديم الطلب حتى إصدار الإقامة."
+    },
+    {
+      "question_ar": "تأشيرة الزيارة على وشك الانتهاء — هل أمدد أولاً؟",
+      "answer_ar": "نعم، يجب أن تكون التأشيرة سارية أثناء معالجة الطلب. مدّدها عبر أبشر قبل التقديم على التحويل."
+    },
+    {
+      "question_ar": "هل يمكن تحويل زيارة عائلية لمرافق إلى إقامة مرافق؟",
+      "answer_ar": "نعم، إذا كان الكفيل مستوفياً لشروط استقبال المرافقين (راتب كافٍ وإقامة سارية)."
+    }
+  ],
+  "related_slugs": [
+    "renew-iqama",
+    "family-visit-visa",
+    "exit-reentry-visa"
+  ],
+  "last_updated": "2026-03-18"
+}

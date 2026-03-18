@@ -1,0 +1,93 @@
+{
+  "slug": "renew-ejar-contract",
+  "title_ar": "تجديد عقد إيجار إلكتروني عبر إيجار",
+  "title_en": "Renew rental contract via Ejar",
+  "description_ar": "تتيح هذه الخدمة تجديد عقد الإيجار السكني أو التجاري الموثق إلكترونياً قبل انتهائه عبر منصة إيجار.",
+  "portal": "منصة إيجار",
+  "portal_url": "https://www.ejar.sa",
+  "ministry_ar": "وزارة الشؤون البلدية والقروية والإسكان",
+  "ministry_en": "Ministry of Municipal, Rural Affairs and Housing",
+  "category_ar": "خدمات الإسكان",
+  "category_en": "Housing Services",
+  "tags": [
+    {
+      "text_ar": "منصة إيجار",
+      "type": "info"
+    },
+    {
+      "text_ar": "موافقة الطرفين مطلوبة",
+      "type": "warning"
+    },
+    {
+      "text_ar": "آخر تحديث: مارس 2026",
+      "type": "warning"
+    }
+  ],
+  "checks": [
+    {
+      "text_ar": "عقد إيجار موثق وساري في منصة إيجار",
+      "text_en": "Authenticated active Ejar contract"
+    },
+    {
+      "text_ar": "موافقة المؤجر والمستأجر",
+      "text_en": "Both landlord and tenant consent"
+    },
+    {
+      "text_ar": "عدم وجود مخالفات على العقد الحالي",
+      "text_en": "No violations on current contract"
+    }
+  ],
+  "fees": [
+    {
+      "label_ar": "تجديد عقد سكني",
+      "amount": 125,
+      "unit_ar": "ر.س / سنة"
+    },
+    {
+      "label_ar": "تجديد عقد تجاري",
+      "amount": 200,
+      "unit_ar": "ر.س / سنة"
+    }
+  ],
+  "steps": [
+    {
+      "text_ar": "يدخل المؤجر أو الوسيط إلى منصة إيجار",
+      "text_en": "Landlord or broker logs in to Ejar"
+    },
+    {
+      "text_ar": "اختر العقد المراد تجديده من قائمة العقود",
+      "text_en": "Select contract to renew from contracts list"
+    },
+    {
+      "text_ar": "حدد مدة التجديد والقيمة الجديدة (إن تغيرت)",
+      "text_en": "Set renewal duration and new rent (if changed)"
+    },
+    {
+      "text_ar": "المستأجر يوافق إلكترونياً عبر أبشر أو نفاذ",
+      "text_en": "Tenant approves electronically via Absher/Nafath"
+    },
+    {
+      "text_ar": "سدّد الرسوم — العقد يُجدد فورياً",
+      "text_en": "Pay fees — contract renews instantly"
+    }
+  ],
+  "troubles": [
+    {
+      "question_ar": "المؤجر رفع الإيجار ولا أوافق",
+      "answer_ar": "يمكنك رفض التجديد بالقيمة الجديدة. إذا لم يتم الاتفاق، يحق لكل طرف اللجوء للجنة إيجار عبر المنصة."
+    },
+    {
+      "question_ar": "العقد انتهى ولم يُجدد — ماذا يحدث؟",
+      "answer_ar": "العقد يتحول لحالة \"منتهي\" في إيجار. يمكن تجديده بأثر رجعي أو إنشاء عقد جديد."
+    },
+    {
+      "question_ar": "هل يمكن تجديد العقد بقيمة مختلفة؟",
+      "answer_ar": "نعم، يمكن تعديل القيمة عند التجديد بموافقة الطرفين."
+    }
+  ],
+  "related_slugs": [
+    "ejar-rental-contract",
+    "register-national-address"
+  ],
+  "last_updated": "2026-03-18"
+}

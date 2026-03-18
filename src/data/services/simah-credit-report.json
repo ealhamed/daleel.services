@@ -1,0 +1,89 @@
+{
+  "slug": "simah-credit-report",
+  "title_ar": "طلب تقرير سمة الائتماني",
+  "title_en": "Request SIMAH credit report",
+  "description_ar": "تقرير سمة يوضح سجلك الائتماني لدى البنوك وشركات التمويل. مطلوب عند التقديم على قرض أو بطاقة ائتمانية أو تمويل عقاري.",
+  "portal": "سمة الائتمانية",
+  "portal_url": "https://www.simah.com",
+  "ministry_ar": "الشركة السعودية للمعلومات الائتمانية (سمة)",
+  "ministry_en": "Saudi Credit Bureau (SIMAH)",
+  "category_ar": "خدمات مالية",
+  "category_en": "Financial Services",
+  "tags": [
+    {
+      "text_ar": "سمة الائتمانية",
+      "type": "info"
+    },
+    {
+      "text_ar": "تقرير مجاني مرة سنوياً",
+      "type": "success"
+    },
+    {
+      "text_ar": "آخر تحديث: مارس 2026",
+      "type": "warning"
+    }
+  ],
+  "checks": [
+    {
+      "text_ar": "هوية وطنية أو إقامة سارية",
+      "text_en": "Valid national ID or Iqama"
+    },
+    {
+      "text_ar": "حساب في موقع سمة أو تطبيق سمة",
+      "text_en": "Account on SIMAH website or app"
+    }
+  ],
+  "fees": [
+    {
+      "label_ar": "التقرير المجاني",
+      "amount": 0,
+      "unit_ar": "مرة واحدة سنوياً"
+    },
+    {
+      "label_ar": "تقرير إضافي",
+      "amount": 31,
+      "unit_ar": "ر.س"
+    }
+  ],
+  "steps": [
+    {
+      "text_ar": "ادخل إلى موقع سمة أو حمّل تطبيق سمة",
+      "text_en": "Go to SIMAH website or download SIMAH app"
+    },
+    {
+      "text_ar": "سجّل الدخول عبر النفاذ الوطني",
+      "text_en": "Log in via National SSO (Nafath)"
+    },
+    {
+      "text_ar": "اختر \"تقريري الائتماني\"",
+      "text_en": "Select My Credit Report"
+    },
+    {
+      "text_ar": "راجع التقرير: يشمل القروض، البطاقات، التعثرات، ودرجة الائتمان",
+      "text_en": "Review report: includes loans, cards, defaults, and credit score"
+    }
+  ],
+  "troubles": [
+    {
+      "question_ar": "درجتي الائتمانية منخفضة — كيف أحسّنها؟",
+      "answer_ar": "سدّد المتأخرات، لا تتجاوز 30% من حد بطاقاتك، ولا تتقدم على عدة قروض في وقت قصير. التحسن يأخذ 3-6 أشهر."
+    },
+    {
+      "question_ar": "يوجد قرض في التقرير لم آخذه",
+      "answer_ar": "قدّم اعتراضاً عبر موقع سمة. سيتم التحقق مع الجهة المسجلة وتصحيح البيانات خلال 20 يوم عمل."
+    },
+    {
+      "question_ar": "هل يؤثر الاستعلام على درجتي؟",
+      "answer_ar": "استعلامك الشخصي لا يؤثر. لكن استعلامات البنوك عند تقديمك على قروض متعددة قد تخفض الدرجة مؤقتاً."
+    },
+    {
+      "question_ar": "كم مرة أستطيع طلب التقرير مجاناً؟",
+      "answer_ar": "مرة واحدة كل 12 شهراً. أي تقرير إضافي يكلف 31 ر.س."
+    }
+  ],
+  "related_slugs": [
+    "absher-account-registration",
+    "nafath-setup"
+  ],
+  "last_updated": "2026-03-18"
+}

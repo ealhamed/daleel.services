@@ -1,0 +1,93 @@
+{
+  "slug": "zatca-vat-registration",
+  "title_ar": "التسجيل في ضريبة القيمة المضافة عبر هيئة الزكاة",
+  "title_en": "Register for VAT via ZATCA",
+  "description_ar": "يجب على كل منشأة تتجاوز إيراداتها السنوية 375,000 ر.س التسجيل في ضريبة القيمة المضافة (15%) لدى هيئة الزكاة والضريبة والجمارك.",
+  "portal": "هيئة الزكاة والضريبة والجمارك",
+  "portal_url": "https://zatca.gov.sa",
+  "ministry_ar": "هيئة الزكاة والضريبة والجمارك",
+  "ministry_en": "Zakat, Tax and Customs Authority (ZATCA)",
+  "category_ar": "خدمات ضريبية",
+  "category_en": "Tax Services",
+  "tags": [
+    {
+      "text_ar": "هيئة الزكاة والضريبة",
+      "type": "info"
+    },
+    {
+      "text_ar": "إلزامي فوق 375,000 ر.س",
+      "type": "warning"
+    },
+    {
+      "text_ar": "آخر تحديث: مارس 2026",
+      "type": "warning"
+    }
+  ],
+  "checks": [
+    {
+      "text_ar": "سجل تجاري ساري المفعول",
+      "text_en": "Valid commercial registration"
+    },
+    {
+      "text_ar": "حساب في بوابة هيئة الزكاة والضريبة",
+      "text_en": "Account on ZATCA portal"
+    },
+    {
+      "text_ar": "إيرادات سنوية تتجاوز 375,000 ر.س (إلزامي) أو أقل (اختياري)",
+      "text_en": "Annual revenue exceeds SAR 375,000 (mandatory) or less (optional)"
+    }
+  ],
+  "fees": [
+    {
+      "label_ar": "التسجيل",
+      "amount": 0,
+      "unit_ar": "مجاني"
+    }
+  ],
+  "penalty_ar": "عدم التسجيل مع تجاوز الحد يعرّض المنشأة لغرامة تصل إلى 10,000 ر.س",
+  "steps": [
+    {
+      "text_ar": "ادخل إلى بوابة هيئة الزكاة والضريبة والجمارك",
+      "text_en": "Go to ZATCA portal"
+    },
+    {
+      "text_ar": "سجّل الدخول واختر \"الخدمات الضريبية\"",
+      "text_en": "Log in and select Tax Services"
+    },
+    {
+      "text_ar": "اختر \"التسجيل في ضريبة القيمة المضافة\"",
+      "text_en": "Select Register for VAT"
+    },
+    {
+      "text_ar": "أكمل نموذج التسجيل (بيانات المنشأة، الإيرادات، النشاط)",
+      "text_en": "Complete registration form (establishment details, revenue, activity)"
+    },
+    {
+      "text_ar": "ارفع المستندات المطلوبة",
+      "text_en": "Upload required documents"
+    },
+    {
+      "text_ar": "بعد المراجعة، يصدر الرقم الضريبي (TIN)",
+      "text_en": "After review, Tax Identification Number (TIN) is issued"
+    }
+  ],
+  "troubles": [
+    {
+      "question_ar": "إيراداتي أقل من 375,000 — هل أسجّل؟",
+      "answer_ar": "التسجيل اختياري لكنه مفيد لاسترداد ضريبة المدخلات واكتساب مصداقية تجارية."
+    },
+    {
+      "question_ar": "ما الفرق بين الزكاة وضريبة القيمة المضافة؟",
+      "answer_ar": "الزكاة تُفرض على صافي ثروة الشركة (2.5%). ضريبة القيمة المضافة (15%) تُفرض على المبيعات وتُحصّل من المستهلك."
+    },
+    {
+      "question_ar": "متى أبدأ بتحصيل الضريبة؟",
+      "answer_ar": "من تاريخ سريان التسجيل المحدد في الشهادة."
+    }
+  ],
+  "related_slugs": [
+    "issue-commercial-registration",
+    "renew-commercial-registration"
+  ],
+  "last_updated": "2026-03-18"
+}

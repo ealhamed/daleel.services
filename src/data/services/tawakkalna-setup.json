@@ -1,0 +1,92 @@
+{
+  "slug": "tawakkalna-setup",
+  "title_ar": "التسجيل وتفعيل تطبيق توكلنا خدمات",
+  "title_en": "Set up Tawakkalna Services app",
+  "description_ar": "توكلنا هو التطبيق الحكومي الشامل الذي يوفر أكثر من 600 خدمة حكومية، بما في ذلك الهوية الرقمية ورخصة القيادة الرقمية وتصاريح الحج والعمرة.",
+  "portal": "تطبيق توكلنا",
+  "portal_url": "https://ta.sdaia.gov.sa",
+  "ministry_ar": "الهيئة السعودية للبيانات والذكاء الاصطناعي",
+  "ministry_en": "Saudi Data and AI Authority (SDAIA)",
+  "category_ar": "خدمات عامة",
+  "category_en": "General Services",
+  "tags": [
+    {
+      "text_ar": "تطبيق توكلنا",
+      "type": "info"
+    },
+    {
+      "text_ar": "600+ خدمة حكومية",
+      "type": "success"
+    },
+    {
+      "text_ar": "آخر تحديث: مارس 2026",
+      "type": "warning"
+    }
+  ],
+  "checks": [
+    {
+      "text_ar": "هوية وطنية أو إقامة سارية",
+      "text_en": "Valid national ID or Iqama"
+    },
+    {
+      "text_ar": "حساب أبشر مفعّل",
+      "text_en": "Active Absher account"
+    },
+    {
+      "text_ar": "هاتف ذكي (iOS أو Android)",
+      "text_en": "Smartphone (iOS or Android)"
+    }
+  ],
+  "fees": [
+    {
+      "label_ar": "التطبيق",
+      "amount": 0,
+      "unit_ar": "مجاني"
+    }
+  ],
+  "steps": [
+    {
+      "text_ar": "حمّل تطبيق توكلنا من App Store أو Google Play",
+      "text_en": "Download Tawakkalna from App Store or Google Play"
+    },
+    {
+      "text_ar": "افتح التطبيق واختر \"تسجيل جديد\"",
+      "text_en": "Open app and select New Registration"
+    },
+    {
+      "text_ar": "أدخل رقم الهوية أو الإقامة",
+      "text_en": "Enter national ID or Iqama number"
+    },
+    {
+      "text_ar": "وافق على الطلب عبر تطبيق نفاذ",
+      "text_en": "Approve request via Nafath app"
+    },
+    {
+      "text_ar": "التطبيق جاهز — يمكنك الآن استخدام الهوية الرقمية والخدمات",
+      "text_en": "App is ready — digital ID and services now available"
+    }
+  ],
+  "troubles": [
+    {
+      "question_ar": "لا أستطيع التسجيل — يظهر خطأ",
+      "answer_ar": "تأكد أن رقم جوالك محدث في أبشر وأن تطبيق نفاذ مفعّل. معظم مشاكل التسجيل سببها عدم تفعيل نفاذ."
+    },
+    {
+      "question_ar": "ما الفرق بين توكلنا ونفاذ؟",
+      "answer_ar": "نفاذ للتحقق من الهوية وتسجيل الدخول للمنصات. توكلنا تطبيق شامل يوفر خدمات حكومية كاملة + الهوية الرقمية."
+    },
+    {
+      "question_ar": "هل يمكن لأكثر من شخص استخدام نفس الجوال؟",
+      "answer_ar": "لا، كل حساب توكلنا مرتبط بجهاز واحد فقط. عند تغيير الجوال يجب إعادة التسجيل."
+    },
+    {
+      "question_ar": "هل رخصة القيادة الرقمية في توكلنا معتمدة؟",
+      "answer_ar": "نعم، معتمدة رسمياً من إدارة المرور ويمكن استخدامها بدل البطاقة الفعلية."
+    }
+  ],
+  "related_slugs": [
+    "nafath-setup",
+    "absher-account-registration"
+  ],
+  "last_updated": "2026-03-18"
+}

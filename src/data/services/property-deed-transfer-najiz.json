@@ -1,0 +1,97 @@
+{
+  "slug": "property-deed-transfer-najiz",
+  "title_ar": "نقل ملكية عقار (إفراغ) عبر ناجز",
+  "title_en": "Transfer property ownership via Najiz",
+  "description_ar": "تتيح هذه الخدمة نقل ملكية عقار من البائع إلى المشتري إلكترونياً عبر بوابة ناجز، دون الحاجة لزيارة كتابة العدل.",
+  "portal": "بوابة ناجز",
+  "portal_url": "https://www.najiz.sa",
+  "ministry_ar": "وزارة العدل",
+  "ministry_en": "Ministry of Justice",
+  "category_ar": "خدمات عدلية",
+  "category_en": "Justice Services",
+  "tags": [
+    {
+      "text_ar": "بوابة ناجز",
+      "type": "info"
+    },
+    {
+      "text_ar": "إلكترونية بالكامل",
+      "type": "success"
+    },
+    {
+      "text_ar": "آخر تحديث: مارس 2026",
+      "type": "warning"
+    }
+  ],
+  "checks": [
+    {
+      "text_ar": "صك ملكية إلكتروني باسم البائع",
+      "text_en": "Electronic property deed in seller's name"
+    },
+    {
+      "text_ar": "هوية البائع والمشتري سارية",
+      "text_en": "Both parties' IDs valid"
+    },
+    {
+      "text_ar": "عدم وجود رهن أو حجز على العقار",
+      "text_en": "No mortgage or hold on property"
+    },
+    {
+      "text_ar": "سداد ضريبة التصرفات العقارية (5%)",
+      "text_en": "Real estate transaction tax (5%) paid"
+    }
+  ],
+  "fees": [
+    {
+      "label_ar": "رسوم الإفراغ",
+      "amount": 0,
+      "unit_ar": "مجاني"
+    },
+    {
+      "label_ar": "ضريبة التصرفات العقارية",
+      "amount": 5,
+      "unit_ar": "% من قيمة العقار"
+    }
+  ],
+  "steps": [
+    {
+      "text_ar": "سدّد ضريبة التصرفات العقارية عبر موقع هيئة الزكاة",
+      "text_en": "Pay real estate tax via ZATCA portal"
+    },
+    {
+      "text_ar": "البائع يدخل ناجز ويختار \"إفراغ عقاري\"",
+      "text_en": "Seller enters Najiz and selects Property Transfer"
+    },
+    {
+      "text_ar": "يدخل بيانات المشتري ورقم الصك والمبلغ",
+      "text_en": "Enter buyer details, deed number, and amount"
+    },
+    {
+      "text_ar": "المشتري يوافق إلكترونياً عبر نفاذ",
+      "text_en": "Buyer approves via Nafath"
+    },
+    {
+      "text_ar": "الصك الجديد يصدر باسم المشتري فوراً",
+      "text_en": "New deed issues in buyer's name instantly"
+    }
+  ],
+  "troubles": [
+    {
+      "question_ar": "الصك ورقي وليس إلكتروني",
+      "answer_ar": "يجب تحويله إلى إلكتروني عبر ناجز أولاً (خدمة تحديث الصكوك)."
+    },
+    {
+      "question_ar": "هل يمكن إفراغ عقار مرهون؟",
+      "answer_ar": "لا، يجب فك الرهن من البنك أولاً."
+    },
+    {
+      "question_ar": "من يدفع ضريبة التصرفات العقارية؟",
+      "answer_ar": "البائع هو المسؤول نظاماً، لكن يمكن الاتفاق على تحمّل المشتري لها."
+    }
+  ],
+  "related_slugs": [
+    "power-of-attorney-najiz",
+    "ejar-rental-contract"
+  ],
+  "last_updated": "2026-03-18"
+}

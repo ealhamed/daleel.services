@@ -1,0 +1,45 @@
+{
+  "slug": "vehicle-registration-renewal",
+  "title_ar": "تجديد استمارة المركبة عبر أبشر",
+  "title_en": "Renew vehicle registration (Istimara) via Absher",
+  "description_ar": "تتيح لك هذه الخدمة تجديد رخصة سير المركبة (الاستمارة) إلكترونياً عبر منصة أبشر، بشرط اجتياز الفحص الدوري وتوفر تأمين ساري.",
+  "portal": "أبشر أفراد",
+  "portal_url": "https://www.absher.sa",
+  "ministry_ar": "وزارة الداخلية",
+  "ministry_en": "Ministry of Interior",
+  "category_ar": "خدمات المرور",
+  "category_en": "Traffic Services",
+  "tags": [
+    { "text_ar": "أبشر أفراد", "type": "info" },
+    { "text_ar": "يتطلب فحص دوري وتأمين", "type": "warning" },
+    { "text_ar": "آخر تحديث: مارس 2026", "type": "warning" }
+  ],
+  "checks": [
+    { "text_ar": "الفحص الدوري ساري المفعول", "text_en": "Valid periodic vehicle inspection (Fahs)" },
+    { "text_ar": "تأمين مركبة ساري المفعول", "text_en": "Valid vehicle insurance" },
+    { "text_ar": "سداد جميع المخالفات المرورية", "text_en": "All traffic fines paid" },
+    { "text_ar": "الهوية الوطنية أو الإقامة سارية", "text_en": "Valid national ID or Iqama" }
+  ],
+  "fees": [
+    { "label_ar": "مركبة خاصة", "amount": 100, "unit_ar": "ر.س / سنة" },
+    { "label_ar": "مركبة نقل", "amount": 200, "unit_ar": "ر.س / سنة" },
+    { "label_ar": "دراجة نارية", "amount": 50, "unit_ar": "ر.س / سنة" }
+  ],
+  "penalty_ar": "غرامة التأخير في التجديد تتراوح بين 100-150 ر.س، والقيادة باستمارة منتهية مخالفة مرورية",
+  "steps": [
+    { "text_ar": "تأكد من اجتياز الفحص الدوري (محطة فحص معتمدة)", "text_en": "Ensure periodic inspection is passed (certified station)" },
+    { "text_ar": "تأكد من وجود تأمين ساري (تطبيقات التأمين أو نجم)", "text_en": "Ensure valid insurance (via insurance apps or Najm)" },
+    { "text_ar": "سجّل الدخول إلى أبشر أفراد", "text_en": "Log in to Absher Individuals" },
+    { "text_ar": "اختر \"خدماتي\" ثم \"خدمات المرور\" ثم \"تجديد رخصة السير\"", "text_en": "Go to My Services → Traffic → Renew Vehicle Registration" },
+    { "text_ar": "اختر المركبة المراد تجديد استمارتها", "text_en": "Select the vehicle to renew" },
+    { "text_ar": "راجع البيانات وسدّد الرسوم", "text_en": "Review details and pay" }
+  ],
+  "troubles": [
+    { "question_ar": "ظهرت رسالة \"الفحص الدوري غير ساري\"", "answer_ar": "قم بزيارة أقرب محطة فحص دوري. الفحص يرتبط بأبشر تلقائياً خلال ساعات." },
+    { "question_ar": "ظهرت رسالة \"التأمين غير ساري\"", "answer_ar": "اشترِ أو جدّد التأمين عبر أي تطبيق تأمين معتمد. يرتبط بأبشر تلقائياً خلال 24 ساعة." },
+    { "question_ar": "هل يمكن التجديد لأكثر من سنة؟", "answer_ar": "نعم، يمكن التجديد لمدة تصل إلى 3 سنوات مقدماً، بشرط أن يكون التأمين والفحص يغطيان المدة." },
+    { "question_ar": "المركبة مرهونة للبنك — هل يمكن التجديد؟", "answer_ar": "نعم، رهن المركبة لا يمنع تجديد الاستمارة." }
+  ],
+  "related_slugs": ["renew-driving-license", "pay-traffic-fines"],
+  "last_updated": "2026-03-18"
+}

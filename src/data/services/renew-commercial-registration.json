@@ -1,0 +1,90 @@
+{
+  "slug": "renew-commercial-registration",
+  "title_ar": "تجديد السجل التجاري عبر المركز السعودي للأعمال",
+  "title_en": "Renew commercial registration via Saudi Business Center",
+  "description_ar": "تتيح لك هذه الخدمة تجديد السجل التجاري لمنشأتك إلكترونياً قبل انتهائه لتجنب الغرامات والشطب.",
+  "portal": "المركز السعودي للأعمال",
+  "portal_url": "https://business.sa",
+  "ministry_ar": "وزارة التجارة",
+  "ministry_en": "Ministry of Commerce",
+  "category_ar": "خدمات تجارية",
+  "category_en": "Business Services",
+  "tags": [
+    {
+      "text_ar": "المركز السعودي للأعمال",
+      "type": "info"
+    },
+    {
+      "text_ar": "إلكترونية بالكامل",
+      "type": "success"
+    },
+    {
+      "text_ar": "آخر تحديث: مارس 2026",
+      "type": "warning"
+    }
+  ],
+  "checks": [
+    {
+      "text_ar": "السجل التجاري الحالي لم يُشطب",
+      "text_en": "Current CR not struck off"
+    },
+    {
+      "text_ar": "عنوان وطني محدث للمنشأة",
+      "text_en": "Updated national address for establishment"
+    },
+    {
+      "text_ar": "اشتراك الغرفة التجارية ساري",
+      "text_en": "Chamber of Commerce subscription active"
+    }
+  ],
+  "fees": [
+    {
+      "label_ar": "سجل رئيسي",
+      "amount": 200,
+      "unit_ar": "ر.س / سنة"
+    },
+    {
+      "label_ar": "سجل فرعي",
+      "amount": 100,
+      "unit_ar": "ر.س / سنة"
+    }
+  ],
+  "penalty_ar": "عدم التجديد خلال 30 يوماً من الانتهاء يعرّض المنشأة لغرامة تصل إلى 10,000 ر.س وقد يؤدي للشطب",
+  "steps": [
+    {
+      "text_ar": "ادخل إلى المركز السعودي للأعمال وسجّل الدخول",
+      "text_en": "Go to business.sa and log in"
+    },
+    {
+      "text_ar": "اختر \"تجديد سجل تجاري\" من القائمة",
+      "text_en": "Select Renew Commercial Registration"
+    },
+    {
+      "text_ar": "اختر السجل المراد تجديده وحدد المدة",
+      "text_en": "Select CR and choose duration"
+    },
+    {
+      "text_ar": "راجع الرسوم وسدّد عبر سداد",
+      "text_en": "Review fees and pay via Sadad"
+    },
+    {
+      "text_ar": "السجل يُجدد فورياً بعد السداد",
+      "text_en": "CR renews instantly after payment"
+    }
+  ],
+  "troubles": [
+    {
+      "question_ar": "السجل انتهى منذ أكثر من 30 يوم",
+      "answer_ar": "إذا لم يُشطب بعد، يمكن التجديد مع دفع الغرامة. إذا شُطب، يجب إصدار سجل جديد."
+    },
+    {
+      "question_ar": "هل يمكن التجديد لأكثر من سنة؟",
+      "answer_ar": "نعم، يمكن التجديد لمدة تصل إلى 5 سنوات."
+    }
+  ],
+  "related_slugs": [
+    "issue-commercial-registration",
+    "issue-municipal-license"
+  ],
+  "last_updated": "2026-03-18"
+}

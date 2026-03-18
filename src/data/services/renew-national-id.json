@@ -1,0 +1,90 @@
+{
+  "slug": "renew-national-id",
+  "title_ar": "تجديد الهوية الوطنية عبر أبشر",
+  "title_en": "Renew national ID (Hawiyya) via Absher",
+  "description_ar": "تتيح لك هذه الخدمة تجديد بطاقة الهوية الوطنية السعودية إلكترونياً عبر منصة أبشر، وتوصيلها لعنوانك الوطني.",
+  "portal": "أبشر أفراد",
+  "portal_url": "https://www.absher.sa",
+  "ministry_ar": "وزارة الداخلية",
+  "ministry_en": "Ministry of Interior",
+  "category_ar": "خدمات الأحوال المدنية",
+  "category_en": "Civil Affairs",
+  "tags": [
+    {
+      "text_ar": "أبشر أفراد",
+      "type": "info"
+    },
+    {
+      "text_ar": "للمواطنين فقط",
+      "type": "warning"
+    },
+    {
+      "text_ar": "آخر تحديث: مارس 2026",
+      "type": "warning"
+    }
+  ],
+  "checks": [
+    {
+      "text_ar": "العمر 15 سنة فأكثر",
+      "text_en": "Age 15 or above"
+    },
+    {
+      "text_ar": "عنوان وطني مسجل ومحدث",
+      "text_en": "Registered and updated national address"
+    },
+    {
+      "text_ar": "سداد المخالفات المرورية",
+      "text_en": "Traffic fines paid"
+    }
+  ],
+  "fees": [
+    {
+      "label_ar": "رسوم التجديد",
+      "amount": 100,
+      "unit_ar": "ر.س"
+    },
+    {
+      "label_ar": "التوصيل",
+      "amount": 39,
+      "unit_ar": "ر.س"
+    }
+  ],
+  "penalty_ar": "غرامة تأخير تجديد الهوية تصل إلى 100 ر.س",
+  "steps": [
+    {
+      "text_ar": "سجّل الدخول إلى أبشر أفراد",
+      "text_en": "Log in to Absher Individuals"
+    },
+    {
+      "text_ar": "اختر \"خدماتي\" ثم \"الأحوال المدنية\"",
+      "text_en": "Go to My Services → Civil Affairs"
+    },
+    {
+      "text_ar": "اختر \"تجديد بطاقة الهوية الوطنية\"",
+      "text_en": "Select Renew National ID Card"
+    },
+    {
+      "text_ar": "تأكد من صحة البيانات واضغط تأكيد",
+      "text_en": "Verify data and confirm"
+    },
+    {
+      "text_ar": "سدّد الرسوم واختر التوصيل",
+      "text_en": "Pay and choose delivery"
+    }
+  ],
+  "troubles": [
+    {
+      "question_ar": "هل يمكن التجديد قبل انتهاء الهوية؟",
+      "answer_ar": "نعم، يمكن التجديد قبل الانتهاء بـ 180 يوماً."
+    },
+    {
+      "question_ar": "الهوية الرقمية في توكلنا هل تغني عن البطاقة؟",
+      "answer_ar": "الهوية الرقمية معتمدة رسمياً ولكن يُنصح بالاحتفاظ بالبطاقة الفعلية."
+    }
+  ],
+  "related_slugs": [
+    "renew-saudi-passport",
+    "register-national-address"
+  ],
+  "last_updated": "2026-03-18"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "renew-driving-license",
+  "title_ar": "تجديد رخصة القيادة عبر أبشر",
+  "title_en": "Renew driving license via Absher",
+  "description_ar": "تمكّنك هذه الخدمة من تجديد رخصة القيادة للمواطنين والمقيمين إلكترونياً عبر منصة أبشر دون الحاجة لزيارة إدارة المرور.",
+  "portal": "أبشر أفراد",
+  "portal_url": "https://www.absher.sa",
+  "ministry_ar": "وزارة الداخلية",
+  "ministry_en": "Ministry of Interior",
+  "category_ar": "خدمات المرور",
+  "category_en": "Traffic Services",
+  "tags": [
+    { "text_ar": "أبشر أفراد", "type": "info" },
+    { "text_ar": "إلكترونية بالكامل", "type": "success" },
+    { "text_ar": "آخر تحديث: مارس 2026", "type": "warning" }
+  ],
+  "checks": [
+    { "text_ar": "الهوية الوطنية أو الإقامة سارية المفعول", "text_en": "Valid national ID or Iqama" },
+    { "text_ar": "سداد جميع المخالفات المرورية", "text_en": "All traffic fines paid" },
+    { "text_ar": "اجتياز الفحص الطبي (للمقيمين أو عند التجديد لأكثر من 10 سنوات)", "text_en": "Medical exam passed (for residents or 10+ year renewals)" },
+    { "text_ar": "تأمين مركبة ساري (مطلوب في بعض الحالات)", "text_en": "Valid vehicle insurance (required in some cases)" }
+  ],
+  "fees": [
+    { "label_ar": "تجديد 5 سنوات", "amount": 200, "unit_ar": "ر.س" },
+    { "label_ar": "تجديد 10 سنوات", "amount": 400, "unit_ar": "ر.س" },
+    { "label_ar": "توصيل الرخصة", "amount": 39, "unit_ar": "ر.س" }
+  ],
+  "penalty_ar": "غرامة تأخير التجديد تتراوح بين 100-150 ر.س، والقيادة برخصة منتهية مخالفة مرورية",
+  "steps": [
+    { "text_ar": "سجّل الدخول إلى منصة أبشر أفراد", "text_en": "Log in to Absher Individuals" },
+    { "text_ar": "اختر \"خدماتي\" ثم \"خدمات المرور\"", "text_en": "Go to My Services → Traffic Services" },
+    { "text_ar": "اختر \"تجديد رخصة القيادة\"", "text_en": "Select Renew Driving License" },
+    { "text_ar": "اختر مدة التجديد (5 أو 10 سنوات)", "text_en": "Choose renewal duration (5 or 10 years)" },
+    { "text_ar": "راجع البيانات واضغط \"تأكيد\"", "text_en": "Review details and confirm" },
+    { "text_ar": "سدّد الرسوم — يمكنك طلب التوصيل أو استلام الرخصة إلكترونياً عبر توكلنا", "text_en": "Pay fees — request delivery or access digitally via Tawakkalna" }
+  ],
+  "troubles": [
+    { "question_ar": "ظهرت رسالة \"يلزم فحص طبي\"", "answer_ar": "قم بزيارة أي مستوصف أو مستشفى معتمد واطلب فحص رخصة القيادة. النتيجة ترتبط تلقائياً بأبشر." },
+    { "question_ar": "هل يمكن التجديد والرخصة منتهية منذ سنوات؟", "answer_ar": "نعم، مع دفع غرامات التأخير. قد يُطلب فحص طبي إذا مضت فترة طويلة." },
+    { "question_ar": "هل يمكن الحصول على رخصة رقمية بدل الطباعة؟", "answer_ar": "نعم، رخصة القيادة متاحة رقمياً عبر تطبيق توكلنا وهي معتمدة رسمياً." }
+  ],
+  "related_slugs": ["pay-traffic-fines", "vehicle-registration-renewal"],
+  "last_updated": "2026-03-18"
+}

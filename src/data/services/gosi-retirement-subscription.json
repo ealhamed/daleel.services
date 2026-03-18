@@ -1,0 +1,75 @@
+{
+  "slug": "gosi-retirement-subscription",
+  "title_ar": "الاستعلام عن مدة الاشتراك في التأمينات",
+  "title_en": "Check GOSI subscription period",
+  "description_ar": "تتيح لك هذه الخدمة معرفة مدة اشتراكك في التأمينات الاجتماعية والتحقق من تسجيل جهة عملك لك بشكل صحيح.",
+  "portal": "التأمينات أون لاين",
+  "portal_url": "https://www.gosi.gov.sa",
+  "ministry_ar": "المؤسسة العامة للتأمينات الاجتماعية",
+  "ministry_en": "General Organization for Social Insurance (GOSI)",
+  "category_ar": "خدمات التأمينات",
+  "category_en": "Insurance Services",
+  "tags": [
+    {
+      "text_ar": "التأمينات أون لاين",
+      "type": "info"
+    },
+    {
+      "text_ar": "للموظفين",
+      "type": "success"
+    },
+    {
+      "text_ar": "آخر تحديث: مارس 2026",
+      "type": "warning"
+    }
+  ],
+  "checks": [
+    {
+      "text_ar": "حساب في التأمينات أون لاين أو تطبيق تأميناتي",
+      "text_en": "Account on GOSI Online or Taminaty app"
+    },
+    {
+      "text_ar": "رقم هوية أو إقامة ساري",
+      "text_en": "Valid national ID or Iqama"
+    }
+  ],
+  "fees": [
+    {
+      "label_ar": "الاستعلام",
+      "amount": 0,
+      "unit_ar": "مجاني"
+    }
+  ],
+  "steps": [
+    {
+      "text_ar": "ادخل إلى بوابة التأمينات أون لاين أو تطبيق تأميناتي",
+      "text_en": "Go to GOSI Online or Taminaty app"
+    },
+    {
+      "text_ar": "سجّل الدخول عبر النفاذ الوطني",
+      "text_en": "Log in via National SSO (Nafath)"
+    },
+    {
+      "text_ar": "اختر \"معلومات الاشتراك\" من القائمة",
+      "text_en": "Select Subscription Info from menu"
+    },
+    {
+      "text_ar": "ستظهر مدة الاشتراك، الراتب المسجل، وجهات العمل السابقة",
+      "text_en": "View subscription period, registered salary, and employment history"
+    }
+  ],
+  "troubles": [
+    {
+      "question_ar": "الراتب المسجل أقل من راتبي الفعلي",
+      "answer_ar": "تقدّم بشكوى عبر التأمينات ضد صاحب العمل. يمكنك أيضاً رفع بلاغ في منصة قوى."
+    },
+    {
+      "question_ar": "جهة عمل سابقة لم تسجّلني",
+      "answer_ar": "يمكنك تقديم طلب ضم مدة اشتراك سابقة عبر التأمينات مع إثبات العلاقة العمالية."
+    }
+  ],
+  "related_slugs": [
+    "gosi-register-employee"
+  ],
+  "last_updated": "2026-03-18"
+}

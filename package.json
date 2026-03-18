@@ -1,0 +1,26 @@
+{
+  "name": "daleel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "sync": "node sync-sheets.js",
+    "export-sheets": "node export-sheets.js",
+    "build": "next build && node generate-sitemap.js",
+    "build:full": "node sync-sheets.js && next build && node generate-sitemap.js",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^25.5.0",
+    "@types/react": "^19.2.14",
+    "csv-parse": "^6.2.0",
+    "next": "^14.2.35",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "typescript": "^5.9.3"
+  }
+}

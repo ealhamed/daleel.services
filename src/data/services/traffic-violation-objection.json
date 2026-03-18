@@ -1,0 +1,88 @@
+{
+  "slug": "traffic-violation-objection",
+  "title_ar": "الاعتراض على مخالفة مرورية عبر أبشر",
+  "title_en": "Object to traffic violation via Absher",
+  "description_ar": "تتيح هذه الخدمة الاعتراض على مخالفة مرورية مسجلة إذا كنت تعتقد أنها غير صحيحة، خلال 30 يوماً من تاريخ تسجيلها.",
+  "portal": "أبشر أفراد",
+  "portal_url": "https://www.absher.sa",
+  "ministry_ar": "وزارة الداخلية",
+  "ministry_en": "Ministry of Interior",
+  "category_ar": "خدمات المرور",
+  "category_en": "Traffic Services",
+  "tags": [
+    {
+      "text_ar": "أبشر أفراد",
+      "type": "info"
+    },
+    {
+      "text_ar": "خلال 30 يوم من المخالفة",
+      "type": "warning"
+    },
+    {
+      "text_ar": "آخر تحديث: مارس 2026",
+      "type": "warning"
+    }
+  ],
+  "checks": [
+    {
+      "text_ar": "حساب أبشر مفعّل",
+      "text_en": "Active Absher account"
+    },
+    {
+      "text_ar": "المخالفة مسجلة خلال آخر 30 يوماً",
+      "text_en": "Violation recorded within last 30 days"
+    },
+    {
+      "text_ar": "لم يتم سداد المخالفة بعد",
+      "text_en": "Violation not yet paid"
+    }
+  ],
+  "fees": [
+    {
+      "label_ar": "رسوم الاعتراض",
+      "amount": 0,
+      "unit_ar": "مجاني"
+    }
+  ],
+  "steps": [
+    {
+      "text_ar": "سجّل الدخول إلى أبشر أفراد",
+      "text_en": "Log in to Absher Individuals"
+    },
+    {
+      "text_ar": "اختر \"خدمات المرور\" ثم \"الاعتراض على المخالفات\"",
+      "text_en": "Go to Traffic Services → Object to Violations"
+    },
+    {
+      "text_ar": "اختر المخالفة المراد الاعتراض عليها",
+      "text_en": "Select the violation to object to"
+    },
+    {
+      "text_ar": "اكتب سبب الاعتراض بالتفصيل",
+      "text_en": "Write detailed objection reason"
+    },
+    {
+      "text_ar": "أرسل الطلب وانتظر الرد (عادة 5-15 يوم عمل)",
+      "text_en": "Submit and wait for response (usually 5-15 business days)"
+    }
+  ],
+  "troubles": [
+    {
+      "question_ar": "تجاوزت مهلة الـ 30 يوماً",
+      "answer_ar": "لا يمكن الاعتراض بعد 30 يوماً. يجب سداد المخالفة."
+    },
+    {
+      "question_ar": "هل الاعتراض يوقف المخالفة مؤقتاً؟",
+      "answer_ar": "نعم، لا يُطلب السداد أثناء فترة دراسة الاعتراض."
+    },
+    {
+      "question_ar": "تم رفض الاعتراض — ماذا أفعل؟",
+      "answer_ar": "يمكنك تقديم اعتراض ثانٍ عبر تطبيق \"كلنا أمن\" أو مراجعة إدارة المرور."
+    }
+  ],
+  "related_slugs": [
+    "pay-traffic-fines",
+    "renew-driving-license"
+  ],
+  "last_updated": "2026-03-18"
+}

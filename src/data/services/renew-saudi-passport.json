@@ -1,0 +1,97 @@
+{
+  "slug": "renew-saudi-passport",
+  "title_ar": "إصدار وتجديد جواز السفر السعودي عبر أبشر",
+  "title_en": "Issue or renew Saudi passport via Absher",
+  "description_ar": "تمكّنك هذه الخدمة من إصدار جواز سفر سعودي جديد أو تجديد جواز منتهي إلكترونياً عبر منصة أبشر، مع إمكانية توصيله لعنوانك الوطني.",
+  "portal": "أبشر أفراد",
+  "portal_url": "https://www.absher.sa",
+  "ministry_ar": "وزارة الداخلية",
+  "ministry_en": "Ministry of Interior",
+  "category_ar": "خدمات الجوازات",
+  "category_en": "Passport Services",
+  "tags": [
+    {
+      "text_ar": "أبشر أفراد",
+      "type": "info"
+    },
+    {
+      "text_ar": "للمواطنين فقط",
+      "type": "warning"
+    },
+    {
+      "text_ar": "آخر تحديث: مارس 2026",
+      "type": "warning"
+    }
+  ],
+  "checks": [
+    {
+      "text_ar": "الهوية الوطنية سارية المفعول",
+      "text_en": "Valid national ID"
+    },
+    {
+      "text_ar": "تسديد جميع المخالفات المرورية",
+      "text_en": "All traffic fines paid"
+    },
+    {
+      "text_ar": "عنوان وطني مسجل ومحدث في سبل",
+      "text_en": "Registered national address in Subol"
+    },
+    {
+      "text_ar": "صورة شخصية بخلفية بيضاء (للإصدار الجديد)",
+      "text_en": "White background photo (for new issuance)"
+    }
+  ],
+  "fees": [
+    {
+      "label_ar": "إصدار / تجديد",
+      "amount": 300,
+      "unit_ar": "ر.س"
+    },
+    {
+      "label_ar": "التوصيل",
+      "amount": 39,
+      "unit_ar": "ر.س"
+    }
+  ],
+  "steps": [
+    {
+      "text_ar": "سجّل الدخول إلى أبشر أفراد",
+      "text_en": "Log in to Absher Individuals"
+    },
+    {
+      "text_ar": "اختر \"خدماتي\" ثم \"الجوازات\" ثم \"إصدار/تجديد جواز سفر\"",
+      "text_en": "Go to My Services → Passports → Issue/Renew Passport"
+    },
+    {
+      "text_ar": "ارفع الصورة الشخصية (بخلفية بيضاء ومقاس 4×6)",
+      "text_en": "Upload photo (white background, 4×6 size)"
+    },
+    {
+      "text_ar": "اختر مدة الجواز وراجع البيانات",
+      "text_en": "Select passport duration and review details"
+    },
+    {
+      "text_ar": "سدّد الرسوم واختر التوصيل أو الاستلام",
+      "text_en": "Pay and choose delivery or pickup"
+    }
+  ],
+  "troubles": [
+    {
+      "question_ar": "الصورة مرفوضة",
+      "answer_ar": "تأكد من أنها بخلفية بيضاء، واضحة الملامح، بدون نظارات، ومقاس 4×6 سم."
+    },
+    {
+      "question_ar": "هل يمكن تجديد جواز طفل؟",
+      "answer_ar": "نعم، عبر حساب ولي الأمر في أبشر. يحتاج لصورة حديثة للطفل."
+    },
+    {
+      "question_ar": "كم يستغرق وصول الجواز؟",
+      "answer_ar": "عادة 3-5 أيام عمل عند اختيار التوصيل."
+    }
+  ],
+  "related_slugs": [
+    "renew-iqama",
+    "exit-reentry-visa"
+  ],
+  "last_updated": "2026-03-18"
+}

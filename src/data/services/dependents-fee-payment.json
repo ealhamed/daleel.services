@@ -1,0 +1,85 @@
+{
+  "slug": "dependents-fee-payment",
+  "title_ar": "سداد رسوم المرافقين والتابعين",
+  "title_en": "Pay dependent and companion fees",
+  "description_ar": "تُفرض رسوم شهرية على المرافقين والتابعين للمقيمين في المملكة. يمكن سدادها عبر أبشر أو القنوات البنكية.",
+  "portal": "أبشر أفراد / البنوك",
+  "portal_url": "https://www.absher.sa",
+  "ministry_ar": "وزارة الداخلية",
+  "ministry_en": "Ministry of Interior",
+  "category_ar": "خدمات الجوازات",
+  "category_en": "Passport Services",
+  "tags": [
+    {
+      "text_ar": "أبشر / سداد",
+      "type": "info"
+    },
+    {
+      "text_ar": "رسوم شهرية",
+      "type": "warning"
+    },
+    {
+      "text_ar": "آخر تحديث: مارس 2026",
+      "type": "warning"
+    }
+  ],
+  "checks": [
+    {
+      "text_ar": "إقامة المقيم سارية",
+      "text_en": "Valid Iqama"
+    },
+    {
+      "text_ar": "حساب بنكي مربوط بسداد",
+      "text_en": "Bank account linked to Sadad"
+    }
+  ],
+  "fees": [
+    {
+      "label_ar": "رسوم المرافق / التابع",
+      "amount": 400,
+      "unit_ar": "ر.س / شهر / شخص"
+    }
+  ],
+  "penalty_ar": "عدم السداد يمنع تجديد الإقامة وإصدار التأشيرات",
+  "steps": [
+    {
+      "text_ar": "ادخل إلى أبشر أو تطبيق البنك",
+      "text_en": "Go to Absher or banking app"
+    },
+    {
+      "text_ar": "اختر \"المدفوعات الحكومية\" أو \"سداد\"",
+      "text_en": "Select Government Payments or Sadad"
+    },
+    {
+      "text_ar": "اختر \"رسوم المرافقين\" وأدخل رقم الإقامة",
+      "text_en": "Select Dependent Fees and enter Iqama number"
+    },
+    {
+      "text_ar": "حدد عدد الأشهر المراد سدادها",
+      "text_en": "Select number of months to pay"
+    },
+    {
+      "text_ar": "أكمل عملية السداد",
+      "text_en": "Complete payment"
+    }
+  ],
+  "troubles": [
+    {
+      "question_ar": "من المعفى من رسوم المرافقين؟",
+      "answer_ar": "الزوجة الأولى والأبناء حتى سن 18 (أو 25 إذا كانوا طلاباً) معفيون في بعض الحالات. راجع التفاصيل عبر أبشر."
+    },
+    {
+      "question_ar": "هل يمكن سداد الرسوم مقدماً لسنة كاملة؟",
+      "answer_ar": "نعم، يمكن سداد حتى 12 شهراً مقدماً."
+    },
+    {
+      "question_ar": "المبلغ يبدو أكثر مما أتوقع",
+      "answer_ar": "الرسوم 400 ر.س × عدد المرافقين × عدد الأشهر. تأكد من عدد المرافقين المسجلين عبر أبشر."
+    }
+  ],
+  "related_slugs": [
+    "renew-iqama",
+    "exit-reentry-visa"
+  ],
+  "last_updated": "2026-03-18"
+}

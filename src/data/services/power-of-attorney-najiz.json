@@ -1,0 +1,87 @@
+{
+  "slug": "power-of-attorney-najiz",
+  "title_ar": "إصدار وكالة إلكترونية عبر ناجز",
+  "title_en": "Issue power of attorney via Najiz",
+  "description_ar": "تمكّنك هذه الخدمة من إصدار وكالة شرعية إلكترونية (عامة أو خاصة) عبر بوابة ناجز دون الحاجة لزيارة كتابة العدل.",
+  "portal": "بوابة ناجز",
+  "portal_url": "https://www.najiz.sa",
+  "ministry_ar": "وزارة العدل",
+  "ministry_en": "Ministry of Justice",
+  "category_ar": "خدمات عدلية",
+  "category_en": "Justice Services",
+  "tags": [
+    {
+      "text_ar": "بوابة ناجز",
+      "type": "info"
+    },
+    {
+      "text_ar": "إلكترونية بالكامل",
+      "type": "success"
+    },
+    {
+      "text_ar": "آخر تحديث: مارس 2026",
+      "type": "warning"
+    }
+  ],
+  "checks": [
+    {
+      "text_ar": "هوية وطنية سارية للموكّل والوكيل",
+      "text_en": "Valid national IDs for both principal and agent"
+    },
+    {
+      "text_ar": "كلا الطرفين لديهما حساب في أبشر ونفاذ",
+      "text_en": "Both parties have Absher and Nafath accounts"
+    }
+  ],
+  "fees": [
+    {
+      "label_ar": "الإصدار",
+      "amount": 0,
+      "unit_ar": "مجاني"
+    }
+  ],
+  "steps": [
+    {
+      "text_ar": "ادخل إلى بوابة ناجز وسجّل الدخول عبر النفاذ الوطني",
+      "text_en": "Go to Najiz and log in via National SSO"
+    },
+    {
+      "text_ar": "اختر \"الخدمات الإنهائية\" ثم \"إصدار وكالة\"",
+      "text_en": "Select Notarial Services → Issue Power of Attorney"
+    },
+    {
+      "text_ar": "حدد نوع الوكالة (عامة أو خاصة) والصلاحيات",
+      "text_en": "Choose type (general or specific) and authorities"
+    },
+    {
+      "text_ar": "أدخل بيانات الوكيل (رقم الهوية)",
+      "text_en": "Enter agent's ID number"
+    },
+    {
+      "text_ar": "الوكيل يقبل إلكترونياً عبر نفاذ",
+      "text_en": "Agent accepts electronically via Nafath"
+    },
+    {
+      "text_ar": "الوكالة تصدر موثقة إلكترونياً",
+      "text_en": "Power of attorney issues as authenticated digital document"
+    }
+  ],
+  "troubles": [
+    {
+      "question_ar": "هل يمكن إلغاء الوكالة لاحقاً؟",
+      "answer_ar": "نعم، يمكن إلغاؤها في أي وقت عبر ناجز."
+    },
+    {
+      "question_ar": "هل يمكن إصدار وكالة لشخص خارج المملكة؟",
+      "answer_ar": "يجب أن يقبل الوكيل إلكترونياً. إذا كان خارج المملكة، يمكنه القبول عبر تطبيق نفاذ."
+    },
+    {
+      "question_ar": "ما الفرق بين الوكالة العامة والخاصة؟",
+      "answer_ar": "العامة تمنح صلاحيات واسعة. الخاصة تقتصر على مهام محددة (مثل بيع عقار معين)."
+    }
+  ],
+  "related_slugs": [
+    "marriage-contract-najiz"
+  ],
+  "last_updated": "2026-03-18"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "issue-commercial-registration",
+  "title_ar": "إصدار سجل تجاري عبر المركز السعودي للأعمال",
+  "title_en": "Issue commercial registration via Saudi Business Center",
+  "description_ar": "تتيح لك هذه الخدمة إصدار سجل تجاري رئيسي أو فرعي لمنشأتك إلكترونياً عبر المركز السعودي للأعمال، وهي الخطوة الأولى لبدء أي نشاط تجاري في المملكة.",
+  "portal": "المركز السعودي للأعمال",
+  "portal_url": "https://business.sa",
+  "ministry_ar": "وزارة التجارة",
+  "ministry_en": "Ministry of Commerce",
+  "category_ar": "خدمات تجارية",
+  "category_en": "Business Services",
+  "tags": [
+    { "text_ar": "المركز السعودي للأعمال", "type": "info" },
+    { "text_ar": "إلكترونية بالكامل", "type": "success" },
+    { "text_ar": "آخر تحديث: مارس 2026", "type": "warning" }
+  ],
+  "checks": [
+    { "text_ar": "الهوية الوطنية سارية المفعول", "text_en": "Valid national ID" },
+    { "text_ar": "العمر 18 سنة فأكثر", "text_en": "Age 18 or above" },
+    { "text_ar": "عدم العمل في القطاع الحكومي (للسجل الرئيسي)", "text_en": "Not employed in government sector (for main CR)" },
+    { "text_ar": "وجود عنوان وطني مسجل في سبل", "text_en": "Registered national address in Subol" }
+  ],
+  "fees": [
+    { "label_ar": "سجل رئيسي", "amount": 200, "unit_ar": "ر.س / سنة" },
+    { "label_ar": "سجل فرعي", "amount": 100, "unit_ar": "ر.س / سنة" },
+    { "label_ar": "الغرفة التجارية", "amount": 300, "unit_ar": "ر.س / سنة تقريباً" }
+  ],
+  "penalty_ar": "عدم تجديد السجل خلال 30 يوماً من انتهائه يعرّض المنشأة لغرامة وشطب",
+  "steps": [
+    { "text_ar": "ادخل إلى موقع المركز السعودي للأعمال وسجّل الدخول عبر النفاذ الوطني", "text_en": "Go to business.sa and log in via National SSO" },
+    { "text_ar": "اختر \"إصدار سجل تجاري\" من القائمة", "text_en": "Select Issue Commercial Registration" },
+    { "text_ar": "حدد نوع السجل (رئيسي أو فرعي) واختر النشاط التجاري", "text_en": "Choose main or branch CR and select business activity" },
+    { "text_ar": "أدخل الاسم التجاري (سيتم التحقق من توفره تلقائياً)", "text_en": "Enter trade name (availability checked automatically)" },
+    { "text_ar": "حدد رأس المال ومدة السجل (1-5 سنوات)", "text_en": "Set capital and CR duration (1-5 years)" },
+    { "text_ar": "راجع الملخص وسدّد الرسوم عبر سداد", "text_en": "Review summary and pay via Sadad" },
+    { "text_ar": "السجل يصدر فورياً بعد السداد — يمكنك طباعته إلكترونياً", "text_en": "CR issues instantly after payment — print digitally" }
+  ],
+  "troubles": [
+    { "question_ar": "الاسم التجاري الذي أريده غير متاح", "answer_ar": "جرّب إضافة كلمة مميزة أو تعديل الصياغة. لا يمكن تكرار الأسماء التجارية المسجلة." },
+    { "question_ar": "هل يمكن لموظف حكومي إصدار سجل تجاري؟", "answer_ar": "لا يمكن إصدار سجل رئيسي، لكن يمكن أن يكون شريكاً في سجل فرعي بنسبة لا تتجاوز حداً معيناً." },
+    { "question_ar": "ما الفرق بين السجل الرئيسي والفرعي؟", "answer_ar": "الرئيسي هو السجل الأساسي للمنشأة. الفرعي يُصدر لفرع في مدينة أخرى أو لنشاط إضافي تحت نفس المنشأة." }
+  ],
+  "related_slugs": ["renew-commercial-registration", "issue-municipal-license"],
+  "last_updated": "2026-03-18"
+}

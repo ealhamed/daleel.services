@@ -1,0 +1,96 @@
+{
+  "slug": "vehicle-ownership-transfer",
+  "title_ar": "نقل ملكية مركبة عبر أبشر",
+  "title_en": "Transfer vehicle ownership via Absher",
+  "description_ar": "تمكّنك هذه الخدمة من نقل ملكية مركبة بين بائع ومشتري إلكترونياً عبر أبشر، دون الحاجة لزيارة إدارة المرور.",
+  "portal": "أبشر أفراد",
+  "portal_url": "https://www.absher.sa",
+  "ministry_ar": "وزارة الداخلية",
+  "ministry_en": "Ministry of Interior",
+  "category_ar": "خدمات المرور",
+  "category_en": "Traffic Services",
+  "tags": [
+    {
+      "text_ar": "أبشر أفراد",
+      "type": "info"
+    },
+    {
+      "text_ar": "موافقة الطرفين مطلوبة",
+      "type": "warning"
+    },
+    {
+      "text_ar": "آخر تحديث: مارس 2026",
+      "type": "warning"
+    }
+  ],
+  "checks": [
+    {
+      "text_ar": "استمارة المركبة سارية المفعول",
+      "text_en": "Valid vehicle registration (Istimara)"
+    },
+    {
+      "text_ar": "فحص دوري ساري",
+      "text_en": "Valid periodic inspection"
+    },
+    {
+      "text_ar": "تأمين مركبة ساري",
+      "text_en": "Valid vehicle insurance"
+    },
+    {
+      "text_ar": "عدم وجود مخالفات على المركبة أو البائع",
+      "text_en": "No violations on vehicle or seller"
+    },
+    {
+      "text_ar": "كلا الطرفين لديهما حساب أبشر مفعّل",
+      "text_en": "Both parties have active Absher accounts"
+    }
+  ],
+  "fees": [
+    {
+      "label_ar": "رسوم النقل",
+      "amount": 150,
+      "unit_ar": "ر.س"
+    }
+  ],
+  "steps": [
+    {
+      "text_ar": "يسجّل البائع الدخول إلى أبشر ويختار \"بيع مركبة\"",
+      "text_en": "Seller logs in to Absher and selects Sell Vehicle"
+    },
+    {
+      "text_ar": "يدخل رقم هوية المشتري ورقم لوحة المركبة",
+      "text_en": "Enter buyer's ID and vehicle plate number"
+    },
+    {
+      "text_ar": "يحدد سعر البيع ويرسل طلب النقل",
+      "text_en": "Set sale price and submit transfer request"
+    },
+    {
+      "text_ar": "يتلقى المشتري إشعاراً في أبشر للموافقة",
+      "text_en": "Buyer receives notification to approve in Absher"
+    },
+    {
+      "text_ar": "بعد موافقة المشتري وسداد الرسوم، تنتقل الملكية فوراً",
+      "text_en": "After buyer approves and pays, ownership transfers instantly"
+    }
+  ],
+  "troubles": [
+    {
+      "question_ar": "المركبة مرهونة للبنك — هل يمكن النقل؟",
+      "answer_ar": "لا، يجب فك الرهن أولاً من البنك ثم إجراء النقل."
+    },
+    {
+      "question_ar": "المشتري لم يقبل الطلب",
+      "answer_ar": "الطلب صالح لمدة 7 أيام. بعدها ينتهي ويحتاج لإعادة الإرسال."
+    },
+    {
+      "question_ar": "هل يمكن نقل الملكية لمقيم؟",
+      "answer_ar": "نعم، بشرط أن يكون لديه إقامة سارية وحساب أبشر مفعّل."
+    }
+  ],
+  "related_slugs": [
+    "vehicle-registration-renewal",
+    "renew-driving-license"
+  ],
+  "last_updated": "2026-03-18"
+}

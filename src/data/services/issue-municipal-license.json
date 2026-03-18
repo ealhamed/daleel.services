@@ -1,0 +1,89 @@
+{
+  "slug": "issue-municipal-license",
+  "title_ar": "إصدار رخصة بلدية (رخصة نشاط) عبر بلدي",
+  "title_en": "Issue municipal license via Balady",
+  "description_ar": "الرخصة البلدية مطلوبة لمزاولة أي نشاط تجاري في موقع فعلي. تتيح منصة بلدي إصدارها إلكترونياً.",
+  "portal": "منصة بلدي",
+  "portal_url": "https://balady.gov.sa",
+  "ministry_ar": "وزارة الشؤون البلدية والقروية والإسكان",
+  "ministry_en": "Ministry of Municipal, Rural Affairs and Housing",
+  "category_ar": "خدمات تجارية",
+  "category_en": "Business Services",
+  "tags": [
+    {
+      "text_ar": "منصة بلدي",
+      "type": "info"
+    },
+    {
+      "text_ar": "مطلوبة لكل موقع تجاري",
+      "type": "warning"
+    },
+    {
+      "text_ar": "آخر تحديث: مارس 2026",
+      "type": "warning"
+    }
+  ],
+  "checks": [
+    {
+      "text_ar": "سجل تجاري ساري المفعول",
+      "text_en": "Valid commercial registration"
+    },
+    {
+      "text_ar": "عقد إيجار إلكتروني موثق في إيجار",
+      "text_en": "Authenticated e-lease in Ejar platform"
+    },
+    {
+      "text_ar": "رخصة الدفاع المدني (إذا كان النشاط يتطلبها)",
+      "text_en": "Civil defense permit (if required for activity)"
+    },
+    {
+      "text_ar": "شهادة السلامة (إذا لزم)",
+      "text_en": "Safety certificate (if applicable)"
+    }
+  ],
+  "fees": [
+    {
+      "label_ar": "الرخصة البلدية",
+      "amount": 500,
+      "unit_ar": "ر.س - 3,000 ر.س حسب النشاط"
+    }
+  ],
+  "penalty_ar": "مزاولة نشاط بدون رخصة بلدية تعرّض المنشأة لغرامة وإغلاق",
+  "steps": [
+    {
+      "text_ar": "ادخل إلى منصة بلدي وسجّل الدخول عبر النفاذ الوطني",
+      "text_en": "Go to Balady and log in via National SSO"
+    },
+    {
+      "text_ar": "اختر \"إصدار رخصة\" وحدد نوع النشاط",
+      "text_en": "Select Issue License and choose activity type"
+    },
+    {
+      "text_ar": "أدخل بيانات الموقع ورقم عقد الإيجار",
+      "text_en": "Enter location details and lease contract number"
+    },
+    {
+      "text_ar": "ارفع المستندات المطلوبة",
+      "text_en": "Upload required documents"
+    },
+    {
+      "text_ar": "سدّد الرسوم وانتظر المراجعة (1-5 أيام عمل)",
+      "text_en": "Pay and wait for review (1-5 business days)"
+    }
+  ],
+  "troubles": [
+    {
+      "question_ar": "طلبي معلق منذ أيام",
+      "answer_ar": "تابع حالة الطلب عبر بلدي. قد يحتاج لتعديل معلومات أو مستندات إضافية."
+    },
+    {
+      "question_ar": "هل أحتاج رخصة بلدية لمتجر إلكتروني؟",
+      "answer_ar": "لا، المتاجر الإلكترونية بدون موقع فعلي تحتاج فقط لسجل تجاري وتوثيق في معروف."
+    }
+  ],
+  "related_slugs": [
+    "issue-commercial-registration",
+    "renew-commercial-registration"
+  ],
+  "last_updated": "2026-03-18"
+}

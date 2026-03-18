@@ -1,0 +1,85 @@
+{
+  "slug": "issue-birth-certificate",
+  "title_ar": "تسجيل مولود وإصدار شهادة ميلاد",
+  "title_en": "Register newborn and issue birth certificate",
+  "description_ar": "تتيح هذه الخدمة تسجيل المواليد الجدد وإصدار شهادة الميلاد إلكترونياً عبر أبشر خلال 15 يوماً من الولادة.",
+  "portal": "أبشر أفراد",
+  "portal_url": "https://www.absher.sa",
+  "ministry_ar": "وزارة الداخلية",
+  "ministry_en": "Ministry of Interior",
+  "category_ar": "خدمات الأحوال المدنية",
+  "category_en": "Civil Affairs",
+  "tags": [
+    {
+      "text_ar": "أبشر أفراد",
+      "type": "info"
+    },
+    {
+      "text_ar": "خلال 15 يوم من الولادة",
+      "type": "warning"
+    },
+    {
+      "text_ar": "آخر تحديث: مارس 2026",
+      "type": "warning"
+    }
+  ],
+  "checks": [
+    {
+      "text_ar": "تقرير ولادة من المستشفى",
+      "text_en": "Birth report from hospital"
+    },
+    {
+      "text_ar": "هوية الأب والأم سارية",
+      "text_en": "Both parents' IDs valid"
+    },
+    {
+      "text_ar": "عقد زواج موثق",
+      "text_en": "Authenticated marriage contract"
+    }
+  ],
+  "fees": [
+    {
+      "label_ar": "التسجيل",
+      "amount": 0,
+      "unit_ar": "مجاني"
+    }
+  ],
+  "penalty_ar": "التأخر عن 15 يوماً يتطلب مراجعة الأحوال المدنية شخصياً",
+  "steps": [
+    {
+      "text_ar": "سجّل الدخول إلى أبشر أفراد",
+      "text_en": "Log in to Absher Individuals"
+    },
+    {
+      "text_ar": "اختر \"خدماتي\" ثم \"الأحوال المدنية\" ثم \"تسجيل مولود\"",
+      "text_en": "Go to My Services → Civil Affairs → Register Newborn"
+    },
+    {
+      "text_ar": "أدخل بيانات المولود (الاسم، التاريخ، مكان الولادة)",
+      "text_en": "Enter newborn details (name, date, place of birth)"
+    },
+    {
+      "text_ar": "راجع البيانات واضغط تأكيد",
+      "text_en": "Review and confirm"
+    },
+    {
+      "text_ar": "شهادة الميلاد تصدر إلكترونياً",
+      "text_en": "Birth certificate issues digitally"
+    }
+  ],
+  "troubles": [
+    {
+      "question_ar": "تجاوزت مهلة الـ 15 يوماً",
+      "answer_ar": "يجب مراجعة مكتب الأحوال المدنية شخصياً مع جميع المستندات."
+    },
+    {
+      "question_ar": "هل يمكن تسجيل مولود لأم غير سعودية؟",
+      "answer_ar": "نعم، إذا كان الأب سعودياً يُسجل المولود سعودياً تلقائياً."
+    }
+  ],
+  "related_slugs": [
+    "renew-national-id",
+    "absher-account-registration"
+  ],
+  "last_updated": "2026-03-18"
+}

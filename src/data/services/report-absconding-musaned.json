@@ -1,0 +1,84 @@
+{
+  "slug": "report-absconding-musaned",
+  "title_ar": "تقديم بلاغ تغيب عمالة منزلية عبر مساند",
+  "title_en": "Report absconding domestic worker via Musaned",
+  "description_ar": "تتيح هذه الخدمة لصاحب العمل تقديم بلاغ تغيب على عامل منزلي ترك العمل بدون سبب مشروع.",
+  "portal": "منصة مساند",
+  "portal_url": "https://www.musaned.com.sa",
+  "ministry_ar": "وزارة الموارد البشرية والتنمية الاجتماعية",
+  "ministry_en": "Ministry of Human Resources and Social Development",
+  "category_ar": "خدمات العمالة المنزلية",
+  "category_en": "Domestic Worker Services",
+  "tags": [
+    {
+      "text_ar": "منصة مساند",
+      "type": "info"
+    },
+    {
+      "text_ar": "خلال 15 يوم من التغيب",
+      "type": "warning"
+    },
+    {
+      "text_ar": "آخر تحديث: مارس 2026",
+      "type": "warning"
+    }
+  ],
+  "checks": [
+    {
+      "text_ar": "مرور 15 يوماً على الأقل من تغيب العامل",
+      "text_en": "At least 15 days since worker's absence"
+    },
+    {
+      "text_ar": "إقامة العامل سارية المفعول",
+      "text_en": "Worker's Iqama is valid"
+    },
+    {
+      "text_ar": "لا يوجد شكوى مقدمة من العامل",
+      "text_en": "No complaint filed by the worker"
+    }
+  ],
+  "fees": [
+    {
+      "label_ar": "تقديم البلاغ",
+      "amount": 0,
+      "unit_ar": "مجاني"
+    }
+  ],
+  "steps": [
+    {
+      "text_ar": "سجّل الدخول إلى منصة مساند",
+      "text_en": "Log in to Musaned platform"
+    },
+    {
+      "text_ar": "اختر \"بلاغات\" ثم \"تقديم بلاغ تغيب\"",
+      "text_en": "Select Reports → File Absconding Report"
+    },
+    {
+      "text_ar": "اختر العامل المتغيب من القائمة",
+      "text_en": "Select the absent worker from the list"
+    },
+    {
+      "text_ar": "حدد تاريخ التغيب وأدخل التفاصيل",
+      "text_en": "Set absence date and enter details"
+    },
+    {
+      "text_ar": "أرسل البلاغ — يتم إشعار الجهات المختصة تلقائياً",
+      "text_en": "Submit — relevant authorities are notified automatically"
+    }
+  ],
+  "troubles": [
+    {
+      "question_ar": "العامل قدّم شكوى ضدي — هل يمكنني تقديم بلاغ؟",
+      "answer_ar": "لا، إذا كان هناك شكوى مقدمة من العامل، لا يمكن تقديم بلاغ تغيب حتى يتم البت في الشكوى."
+    },
+    {
+      "question_ar": "هل يمكن إلغاء بلاغ التغيب؟",
+      "answer_ar": "نعم، يمكن إلغاؤه عبر مساند إذا عاد العامل أو تم حل الخلاف."
+    }
+  ],
+  "related_slugs": [
+    "musaned-domestic-worker-visa",
+    "musaned-transfer-domestic-worker"
+  ],
+  "last_updated": "2026-03-18"
+}

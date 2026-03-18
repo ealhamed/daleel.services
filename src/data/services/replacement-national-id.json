@@ -1,0 +1,94 @@
+{
+  "slug": "replacement-national-id",
+  "title_ar": "إصدار بدل فاقد أو تالف للهوية الوطنية عبر أبشر",
+  "title_en": "Issue replacement national ID (lost or damaged) via Absher",
+  "description_ar": "تتيح لك هذه الخدمة إصدار بطاقة هوية وطنية بدل فاقد أو تالف إلكترونياً عبر أبشر، مع إمكانية توصيلها لعنوانك الوطني.",
+  "portal": "أبشر أفراد",
+  "portal_url": "https://www.absher.sa",
+  "ministry_ar": "وزارة الداخلية",
+  "ministry_en": "Ministry of Interior",
+  "category_ar": "خدمات الأحوال المدنية",
+  "category_en": "Civil Affairs",
+  "tags": [
+    {
+      "text_ar": "أبشر أفراد",
+      "type": "info"
+    },
+    {
+      "text_ar": "للمواطنين فقط",
+      "type": "warning"
+    },
+    {
+      "text_ar": "آخر تحديث: مارس 2026",
+      "type": "warning"
+    }
+  ],
+  "checks": [
+    {
+      "text_ar": "معرفة رقم الهوية الوطنية",
+      "text_en": "Know your national ID number"
+    },
+    {
+      "text_ar": "عنوان وطني مسجل ومحدث",
+      "text_en": "Registered and updated national address"
+    },
+    {
+      "text_ar": "حساب أبشر مفعّل",
+      "text_en": "Active Absher account"
+    }
+  ],
+  "fees": [
+    {
+      "label_ar": "بدل فاقد / تالف",
+      "amount": 100,
+      "unit_ar": "ر.س"
+    },
+    {
+      "label_ar": "التوصيل",
+      "amount": 39,
+      "unit_ar": "ر.س"
+    }
+  ],
+  "penalty_ar": "غرامة فقدان الهوية قد تصل إلى 100 ر.س في حال التكرار",
+  "steps": [
+    {
+      "text_ar": "سجّل الدخول إلى أبشر أفراد",
+      "text_en": "Log in to Absher Individuals"
+    },
+    {
+      "text_ar": "اختر \"خدماتي\" ثم \"الأحوال المدنية\"",
+      "text_en": "Go to My Services → Civil Affairs"
+    },
+    {
+      "text_ar": "اختر \"إصدار بدل فاقد\" أو \"بدل تالف\"",
+      "text_en": "Select Issue Replacement (Lost) or (Damaged)"
+    },
+    {
+      "text_ar": "أكّد البيانات واختر التوصيل أو الاستلام",
+      "text_en": "Confirm details and choose delivery or pickup"
+    },
+    {
+      "text_ar": "سدّد الرسوم — البطاقة تصل خلال 3-5 أيام عمل",
+      "text_en": "Pay fees — card arrives in 3-5 business days"
+    }
+  ],
+  "troubles": [
+    {
+      "question_ar": "فقدت هويتي خارج المملكة",
+      "answer_ar": "راجع أقرب سفارة أو قنصلية سعودية للحصول على وثيقة سفر مؤقتة، ثم أصدر بدل فاقد بعد العودة."
+    },
+    {
+      "question_ar": "هل أحتاج لتقديم بلاغ شرطة؟",
+      "answer_ar": "لا يُشترط حالياً، لكن يُنصح بتقديم بلاغ عبر تطبيق كلنا أمن لحمايتك من سوء الاستخدام."
+    },
+    {
+      "question_ar": "هل يمكن استخدام الهوية الرقمية في توكلنا مؤقتاً؟",
+      "answer_ar": "نعم، الهوية الرقمية في توكلنا معتمدة رسمياً ويمكن استخدامها حتى وصول البطاقة الجديدة."
+    }
+  ],
+  "related_slugs": [
+    "renew-national-id",
+    "absher-account-registration"
+  ],
+  "last_updated": "2026-03-18"
+}

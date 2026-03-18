@@ -1,0 +1,42 @@
+{
+  "slug": "gosi-register-employee",
+  "title_ar": "تسجيل موظف في التأمينات الاجتماعية عبر أعمال",
+  "title_en": "Register employee in GOSI via Amaal",
+  "description_ar": "تتيح هذه الخدمة لأصحاب المنشآت تسجيل موظفيهم الجدد (سعوديين ووافدين) في نظام التأمينات الاجتماعية إلكترونياً عبر بوابة أعمال.",
+  "portal": "التأمينات أعمال",
+  "portal_url": "https://www.gosi.gov.sa",
+  "ministry_ar": "المؤسسة العامة للتأمينات الاجتماعية",
+  "ministry_en": "General Organization for Social Insurance (GOSI)",
+  "category_ar": "خدمات التأمينات",
+  "category_en": "Social Insurance Services",
+  "tags": [
+    { "text_ar": "التأمينات أعمال", "type": "info" },
+    { "text_ar": "إلزامي لكل موظف", "type": "warning" },
+    { "text_ar": "آخر تحديث: مارس 2026", "type": "warning" }
+  ],
+  "checks": [
+    { "text_ar": "المنشأة مسجلة في التأمينات الاجتماعية", "text_en": "Establishment registered in GOSI" },
+    { "text_ar": "رقم هوية أو إقامة الموظف الجديد", "text_en": "New employee's national ID or Iqama number" },
+    { "text_ar": "بيانات العقد (تاريخ البدء، الراتب، المسمى الوظيفي)", "text_en": "Contract details (start date, salary, job title)" },
+    { "text_ar": "عقد العمل موثق في منصة قوى", "text_en": "Employment contract authenticated in Qiwa" }
+  ],
+  "fees": [
+    { "label_ar": "اشتراك سعودي", "amount": 21.5, "unit_ar": "% من الراتب شهرياً" },
+    { "label_ar": "اشتراك وافد", "amount": 2, "unit_ar": "% أخطار مهنية فقط" }
+  ],
+  "penalty_ar": "التأخر في التسجيل يعرّض المنشأة لغرامات تصل إلى 10,000 ر.س وقد يؤثر على نطاقات",
+  "steps": [
+    { "text_ar": "سجّل الدخول إلى بوابة أعمال في التأمينات الاجتماعية", "text_en": "Log in to GOSI Amaal portal" },
+    { "text_ar": "اختر \"إدارة المشتركين\" ثم \"تسجيل مشترك جديد\"", "text_en": "Go to Subscriber Management → Register New Subscriber" },
+    { "text_ar": "أدخل رقم الهوية أو الإقامة — ستظهر بيانات الموظف تلقائياً", "text_en": "Enter ID/Iqama number — employee data auto-populates" },
+    { "text_ar": "أكمل بيانات العقد: الراتب، المسمى، تاريخ الالتحاق", "text_en": "Complete contract details: salary, title, joining date" },
+    { "text_ar": "راجع وأكّد — التسجيل يُفعّل من تاريخ الالتحاق", "text_en": "Review and confirm — registration activates from joining date" }
+  ],
+  "troubles": [
+    { "question_ar": "الموظف مسجل في منشأة أخرى", "answer_ar": "يجب أن تُلغي المنشأة السابقة اشتراكه أولاً، أو يتم النقل تلقائياً عبر قوى عند نقل الخدمات." },
+    { "question_ar": "ما نسبة الاشتراك للموظف السعودي؟", "answer_ar": "المجموع 21.5%: يدفع صاحب العمل 11.75% والموظف 9.75% (تُخصم من راتبه)." },
+    { "question_ar": "هل يمكن التسجيل بأثر رجعي؟", "answer_ar": "نعم، لكن قد تُفرض غرامات على التأخير حسب عدد الأشهر." }
+  ],
+  "related_slugs": ["renew-work-permit", "transfer-sponsorship"],
+  "last_updated": "2026-03-18"
+}

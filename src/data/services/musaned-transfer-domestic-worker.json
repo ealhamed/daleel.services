@@ -1,0 +1,88 @@
+{
+  "slug": "musaned-transfer-domestic-worker",
+  "title_ar": "نقل خدمات عمالة منزلية عبر مساند",
+  "title_en": "Transfer domestic worker via Musaned",
+  "description_ar": "تتيح هذه الخدمة نقل خدمات عامل منزلي من كفيل إلى آخر إلكترونياً عبر منصة مساند.",
+  "portal": "منصة مساند",
+  "portal_url": "https://www.musaned.com.sa",
+  "ministry_ar": "وزارة الموارد البشرية والتنمية الاجتماعية",
+  "ministry_en": "Ministry of Human Resources and Social Development",
+  "category_ar": "خدمات العمالة المنزلية",
+  "category_en": "Domestic Worker Services",
+  "tags": [
+    {
+      "text_ar": "منصة مساند",
+      "type": "info"
+    },
+    {
+      "text_ar": "موافقة الطرفين مطلوبة",
+      "type": "warning"
+    },
+    {
+      "text_ar": "آخر تحديث: مارس 2026",
+      "type": "warning"
+    }
+  ],
+  "checks": [
+    {
+      "text_ar": "إقامة العامل سارية",
+      "text_en": "Worker's Iqama is valid"
+    },
+    {
+      "text_ar": "لا يوجد بلاغ تغيب مسجل على العامل",
+      "text_en": "No absconding report on worker"
+    },
+    {
+      "text_ar": "موافقة الكفيل الحالي",
+      "text_en": "Current sponsor's approval"
+    }
+  ],
+  "fees": [
+    {
+      "label_ar": "رسوم نقل الخدمات",
+      "amount": 2000,
+      "unit_ar": "ر.س"
+    }
+  ],
+  "steps": [
+    {
+      "text_ar": "يسجّل الكفيل الجديد الدخول إلى منصة مساند",
+      "text_en": "New sponsor logs in to Musaned"
+    },
+    {
+      "text_ar": "اختر \"نقل خدمات عمالة منزلية\"",
+      "text_en": "Select Transfer Domestic Worker"
+    },
+    {
+      "text_ar": "أدخل رقم إقامة العامل",
+      "text_en": "Enter worker's Iqama number"
+    },
+    {
+      "text_ar": "الكفيل الحالي يوافق إلكترونياً",
+      "text_en": "Current sponsor approves electronically"
+    },
+    {
+      "text_ar": "سدّد رسوم النقل",
+      "text_en": "Pay transfer fees"
+    },
+    {
+      "text_ar": "يتم النقل خلال أيام عمل قليلة",
+      "text_en": "Transfer completes within a few business days"
+    }
+  ],
+  "troubles": [
+    {
+      "question_ar": "الكفيل الحالي يرفض النقل",
+      "answer_ar": "في بعض الحالات يمكن النقل دون موافقته (مثل عدم دفع الراتب أو سوء المعاملة). قدّم شكوى عبر مساند."
+    },
+    {
+      "question_ar": "هل يمكن نقل عمالة منزلية عبر قوى؟",
+      "answer_ar": "لا، نقل العمالة المنزلية حصرياً عبر منصة مساند وليس قوى."
+    }
+  ],
+  "related_slugs": [
+    "musaned-domestic-worker-visa",
+    "renew-iqama"
+  ],
+  "last_updated": "2026-03-18"
+}

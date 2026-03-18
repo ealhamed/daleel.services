@@ -1,0 +1,96 @@
+{
+  "slug": "labor-complaint-qiwa",
+  "title_ar": "تقديم شكوى عمالية عبر قوى",
+  "title_en": "File labor complaint via Qiwa",
+  "description_ar": "تتيح هذه الخدمة للعاملين تقديم شكوى ضد صاحب العمل في حالات مثل: تأخر الرواتب، عدم توفير بيئة عمل آمنة، أو مخالفة شروط العقد.",
+  "portal": "منصة قوى",
+  "portal_url": "https://www.qiwa.sa",
+  "ministry_ar": "وزارة الموارد البشرية والتنمية الاجتماعية",
+  "ministry_en": "Ministry of Human Resources and Social Development",
+  "category_ar": "خدمات العمل",
+  "category_en": "Labor Services",
+  "tags": [
+    {
+      "text_ar": "منصة قوى",
+      "type": "info"
+    },
+    {
+      "text_ar": "للعاملين",
+      "type": "success"
+    },
+    {
+      "text_ar": "آخر تحديث: مارس 2026",
+      "type": "warning"
+    }
+  ],
+  "checks": [
+    {
+      "text_ar": "عقد عمل ساري (موثق أو غير موثق)",
+      "text_en": "Active employment contract (authenticated or not)"
+    },
+    {
+      "text_ar": "إقامة أو هوية سارية",
+      "text_en": "Valid Iqama or national ID"
+    },
+    {
+      "text_ar": "أدلة تدعم الشكوى (كشف حساب، رسائل، عقد)",
+      "text_en": "Evidence supporting complaint (bank statement, messages, contract)"
+    }
+  ],
+  "fees": [
+    {
+      "label_ar": "تقديم الشكوى",
+      "amount": 0,
+      "unit_ar": "مجاني"
+    }
+  ],
+  "steps": [
+    {
+      "text_ar": "ادخل إلى منصة قوى وسجّل الدخول عبر النفاذ الوطني",
+      "text_en": "Go to Qiwa and log in via National SSO"
+    },
+    {
+      "text_ar": "اختر \"الخدمات\" ثم \"تقديم شكوى عمالية\"",
+      "text_en": "Select Services → File Labor Complaint"
+    },
+    {
+      "text_ar": "اختر نوع الشكوى (تأخر رواتب، إنهاء تعسفي، إلخ)",
+      "text_en": "Choose complaint type (late salary, wrongful termination, etc.)"
+    },
+    {
+      "text_ar": "أدخل تفاصيل الشكوى وارفع المستندات الداعمة",
+      "text_en": "Enter complaint details and upload supporting documents"
+    },
+    {
+      "text_ar": "أرسل الشكوى — ستُحال أولاً للتسوية الودية (21 يوماً)",
+      "text_en": "Submit — complaint goes to amicable settlement first (21 days)"
+    },
+    {
+      "text_ar": "إذا لم تُحل، تُحال تلقائياً للمحكمة العمالية",
+      "text_en": "If not resolved, automatically referred to labor court"
+    }
+  ],
+  "troubles": [
+    {
+      "question_ar": "صاحب العمل لم يدفع راتبي منذ 3 أشهر",
+      "answer_ar": "هذا يعطيك حق نقل خدماتك دون موافقته وفق نظام حماية الأجور. قدّم الشكوى مع كشف حساب بنكي كإثبات."
+    },
+    {
+      "question_ar": "هل يمكن تقديم الشكوى وأنا خارج المملكة؟",
+      "answer_ar": "نعم، يمكنك التقديم عبر قوى إلكترونياً. لكن حضور جلسات التسوية قد يكون مطلوباً."
+    },
+    {
+      "question_ar": "كم تستغرق العملية كاملة؟",
+      "answer_ar": "التسوية الودية 21 يوماً. إذا أُحيلت للمحكمة، تأخذ 2-6 أشهر حسب تعقيد القضية."
+    },
+    {
+      "question_ar": "هل أحتاج محامي؟",
+      "answer_ar": "ليس إلزامياً في مرحلة التسوية الودية. لكن يُنصح به إذا أُحيلت للمحكمة العمالية."
+    }
+  ],
+  "related_slugs": [
+    "transfer-sponsorship",
+    "renew-work-permit"
+  ],
+  "last_updated": "2026-03-18"
+}

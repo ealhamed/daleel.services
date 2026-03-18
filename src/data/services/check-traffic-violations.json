@@ -1,0 +1,85 @@
+{
+  "slug": "check-traffic-violations",
+  "title_ar": "الاستعلام عن المخالفات المرورية برقم الهوية",
+  "title_en": "Check traffic violations by ID number",
+  "description_ar": "تتيح لك هذه الخدمة الاستعلام عن جميع المخالفات المرورية المسجلة عليك أو على مركباتك، مع تفاصيل كل مخالفة وحالة السداد.",
+  "portal": "أبشر أفراد / تطبيق المرور",
+  "portal_url": "https://www.absher.sa",
+  "ministry_ar": "وزارة الداخلية",
+  "ministry_en": "Ministry of Interior",
+  "category_ar": "خدمات المرور",
+  "category_en": "Traffic Services",
+  "tags": [
+    {
+      "text_ar": "أبشر / تطبيق المرور",
+      "type": "info"
+    },
+    {
+      "text_ar": "استعلام فوري",
+      "type": "success"
+    },
+    {
+      "text_ar": "آخر تحديث: مارس 2026",
+      "type": "warning"
+    }
+  ],
+  "checks": [
+    {
+      "text_ar": "حساب أبشر مفعّل أو تطبيق المرور",
+      "text_en": "Active Absher account or Traffic app"
+    },
+    {
+      "text_ar": "رقم الهوية أو الإقامة",
+      "text_en": "National ID or Iqama number"
+    }
+  ],
+  "fees": [
+    {
+      "label_ar": "الاستعلام",
+      "amount": 0,
+      "unit_ar": "مجاني"
+    }
+  ],
+  "steps": [
+    {
+      "text_ar": "سجّل الدخول إلى أبشر أفراد أو تطبيق المرور",
+      "text_en": "Log in to Absher or Traffic app"
+    },
+    {
+      "text_ar": "اختر \"خدمات المرور\" ثم \"الاستعلام عن المخالفات\"",
+      "text_en": "Go to Traffic Services → Check Violations"
+    },
+    {
+      "text_ar": "ستظهر قائمة بكل المخالفات مع التفاصيل",
+      "text_en": "All violations listed with details"
+    },
+    {
+      "text_ar": "يمكنك سداد أي مخالفة مباشرة من نفس الصفحة",
+      "text_en": "You can pay any violation directly from the same page"
+    }
+  ],
+  "troubles": [
+    {
+      "question_ar": "المخالفة لا تظهر في أبشر",
+      "answer_ar": "قد تحتاج 48-72 ساعة لتظهر بعد التسجيل. جرّب أيضاً تطبيق المرور أو منصة إيفاء."
+    },
+    {
+      "question_ar": "مخالفة مسجلة وأنا لم أكن السائق",
+      "answer_ar": "قدّم اعتراضاً خلال 30 يوماً عبر أبشر أو تطبيق كلنا أمن."
+    },
+    {
+      "question_ar": "هل هناك خصم على السداد المبكر؟",
+      "answer_ar": "نعم، بعض المخالفات عليها خصم 25% عند السداد خلال 30 يوماً من التسجيل."
+    },
+    {
+      "question_ar": "كيف أعرف إذا عندي مخالفات ساهر؟",
+      "answer_ar": "مخالفات ساهر تظهر ضمن المخالفات المرورية في أبشر. تصلك رسالة SMS عند تسجيل أي مخالفة جديدة."
+    }
+  ],
+  "related_slugs": [
+    "pay-traffic-fines",
+    "traffic-violation-objection",
+    "renew-driving-license"
+  ],
+  "last_updated": "2026-03-18"
+}

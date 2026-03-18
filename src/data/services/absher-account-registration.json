@@ -1,0 +1,92 @@
+{
+  "slug": "absher-account-registration",
+  "title_ar": "تسجيل وتفعيل حساب أبشر",
+  "title_en": "Register and activate Absher account",
+  "description_ar": "أبشر هي البوابة الإلكترونية لخدمات وزارة الداخلية. هذا الدليل يشرح كيفية إنشاء حساب جديد وتفعيله خطوة بخطوة.",
+  "portal": "أبشر",
+  "portal_url": "https://www.absher.sa",
+  "ministry_ar": "وزارة الداخلية",
+  "ministry_en": "Ministry of Interior",
+  "category_ar": "خدمات عامة",
+  "category_en": "General Services",
+  "tags": [
+    {
+      "text_ar": "أبشر",
+      "type": "info"
+    },
+    {
+      "text_ar": "مطلوب لكل الخدمات",
+      "type": "warning"
+    },
+    {
+      "text_ar": "آخر تحديث: مارس 2026",
+      "type": "warning"
+    }
+  ],
+  "checks": [
+    {
+      "text_ar": "هوية وطنية أو إقامة سارية",
+      "text_en": "Valid national ID or Iqama"
+    },
+    {
+      "text_ar": "رقم جوال سعودي مسجل باسمك",
+      "text_en": "Saudi mobile number registered in your name"
+    },
+    {
+      "text_ar": "بريد إلكتروني فعّال",
+      "text_en": "Active email address"
+    }
+  ],
+  "fees": [
+    {
+      "label_ar": "التسجيل",
+      "amount": 0,
+      "unit_ar": "مجاني"
+    }
+  ],
+  "steps": [
+    {
+      "text_ar": "ادخل إلى موقع أبشر أو حمّل التطبيق",
+      "text_en": "Go to Absher website or download the app"
+    },
+    {
+      "text_ar": "اضغط \"مستخدم جديد\" واختر نوع الحساب (أفراد أو أعمال)",
+      "text_en": "Click New User and choose account type"
+    },
+    {
+      "text_ar": "أدخل رقم الهوية أو الإقامة وتاريخ الميلاد",
+      "text_en": "Enter ID/Iqama number and date of birth"
+    },
+    {
+      "text_ar": "أنشئ اسم مستخدم وكلمة مرور قوية",
+      "text_en": "Create username and strong password"
+    },
+    {
+      "text_ar": "أدخل رمز التحقق المرسل لجوالك",
+      "text_en": "Enter OTP sent to your mobile"
+    },
+    {
+      "text_ar": "فعّل الحساب عبر تطبيق نفاذ أو زيارة أحد أجهزة الخدمة الذاتية",
+      "text_en": "Activate via Nafath app or self-service kiosk"
+    }
+  ],
+  "troubles": [
+    {
+      "question_ar": "لم يصلني رمز التحقق",
+      "answer_ar": "تأكد أن رقم الجوال مسجل باسمك لدى شركة الاتصالات. إذا كان الرقم مسجلاً باسم شخص آخر، لن يصل الرمز."
+    },
+    {
+      "question_ar": "ما الفرق بين أبشر أفراد وأبشر أعمال؟",
+      "answer_ar": "أبشر أفراد للخدمات الشخصية (جوازات، مرور، أحوال مدنية). أبشر أعمال لأصحاب المنشآت (إقامات العمالة، تأشيرات)."
+    },
+    {
+      "question_ar": "نسيت كلمة المرور",
+      "answer_ar": "اضغط \"نسيت كلمة المرور\" في صفحة الدخول وأعد تعيينها عبر رمز التحقق المرسل لجوالك."
+    }
+  ],
+  "related_slugs": [
+    "register-national-address",
+    "renew-iqama"
+  ],
+  "last_updated": "2026-03-18"
+}

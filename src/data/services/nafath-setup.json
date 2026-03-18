@@ -1,0 +1,92 @@
+{
+  "slug": "nafath-setup",
+  "title_ar": "تفعيل تطبيق نفاذ الوطني",
+  "title_en": "Set up Nafath national digital ID",
+  "description_ar": "نفاذ هو نظام الهوية الرقمية الوطني المطلوب لتسجيل الدخول إلى معظم المنصات الحكومية والبنكية. هذا الدليل يشرح التفعيل خطوة بخطوة.",
+  "portal": "تطبيق نفاذ",
+  "portal_url": "https://www.iam.gov.sa",
+  "ministry_ar": "هيئة الحكومة الرقمية",
+  "ministry_en": "Digital Government Authority",
+  "category_ar": "خدمات عامة",
+  "category_en": "General Services",
+  "tags": [
+    {
+      "text_ar": "تطبيق نفاذ",
+      "type": "info"
+    },
+    {
+      "text_ar": "مطلوب لكل المنصات",
+      "type": "warning"
+    },
+    {
+      "text_ar": "آخر تحديث: مارس 2026",
+      "type": "warning"
+    }
+  ],
+  "checks": [
+    {
+      "text_ar": "هوية وطنية أو إقامة سارية",
+      "text_en": "Valid national ID or Iqama"
+    },
+    {
+      "text_ar": "رقم جوال سعودي مسجل في أبشر",
+      "text_en": "Saudi mobile number registered in Absher"
+    },
+    {
+      "text_ar": "هاتف ذكي (iOS أو Android)",
+      "text_en": "Smartphone (iOS or Android)"
+    }
+  ],
+  "fees": [
+    {
+      "label_ar": "التفعيل",
+      "amount": 0,
+      "unit_ar": "مجاني"
+    }
+  ],
+  "steps": [
+    {
+      "text_ar": "حمّل تطبيق نفاذ من App Store أو Google Play",
+      "text_en": "Download Nafath app from App Store or Google Play"
+    },
+    {
+      "text_ar": "افتح التطبيق واختر \"تسجيل جديد\"",
+      "text_en": "Open app and select New Registration"
+    },
+    {
+      "text_ar": "أدخل رقم الهوية أو الإقامة",
+      "text_en": "Enter national ID or Iqama number"
+    },
+    {
+      "text_ar": "أدخل رمز التحقق المرسل لجوالك المسجل في أبشر",
+      "text_en": "Enter OTP sent to your Absher-registered mobile"
+    },
+    {
+      "text_ar": "أنشئ رقم سري للتطبيق (PIN)",
+      "text_en": "Create app PIN"
+    },
+    {
+      "text_ar": "فعّل البصمة أو التعرف على الوجه (اختياري)",
+      "text_en": "Enable fingerprint or Face ID (optional)"
+    }
+  ],
+  "troubles": [
+    {
+      "question_ar": "لم يصلني رمز التحقق",
+      "answer_ar": "تأكد أن رقم جوالك المسجل في أبشر هو نفسه الذي تستخدمه. إذا كان مختلفاً، حدّث الرقم في أبشر أولاً."
+    },
+    {
+      "question_ar": "كيف أستخدم نفاذ لتسجيل الدخول؟",
+      "answer_ar": "عند تسجيل الدخول لأي منصة حكومية، اختر \"الدخول عبر النفاذ الوطني\" → يصلك إشعار في تطبيق نفاذ → اضغط \"قبول\"."
+    },
+    {
+      "question_ar": "غيّرت جوالي — كيف أنقل نفاذ؟",
+      "answer_ar": "حمّل التطبيق على الجوال الجديد وأعد التسجيل. سيتم ربطه بالجهاز الجديد تلقائياً."
+    }
+  ],
+  "related_slugs": [
+    "absher-account-registration",
+    "register-national-address"
+  ],
+  "last_updated": "2026-03-18"
+}

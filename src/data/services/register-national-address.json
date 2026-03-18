@@ -1,0 +1,41 @@
+{
+  "slug": "register-national-address",
+  "title_ar": "تسجيل وتحديث العنوان الوطني عبر سبل",
+  "title_en": "Register or update national address via Subol",
+  "description_ar": "العنوان الوطني مطلوب لمعظم الخدمات الحكومية والبنكية. تتيح لك هذه الخدمة تسجيل عنوانك أو تحديثه عبر منصة سبل (البريد السعودي سابقاً).",
+  "portal": "منصة سبل",
+  "portal_url": "https://www.spl.com.sa",
+  "ministry_ar": "مؤسسة البريد السعودي (سبل)",
+  "ministry_en": "Saudi Post (SPL / Subol)",
+  "category_ar": "خدمات عامة",
+  "category_en": "General Services",
+  "tags": [
+    { "text_ar": "منصة سبل", "type": "info" },
+    { "text_ar": "مطلوب لمعظم الخدمات", "type": "warning" },
+    { "text_ar": "آخر تحديث: مارس 2026", "type": "warning" }
+  ],
+  "checks": [
+    { "text_ar": "الهوية الوطنية أو الإقامة سارية", "text_en": "Valid national ID or Iqama" },
+    { "text_ar": "معرفة الموقع الدقيق لسكنك على الخريطة", "text_en": "Know your exact location on the map" },
+    { "text_ar": "رقم جوال مسجل في أبشر", "text_en": "Phone number registered in Absher" }
+  ],
+  "fees": [
+    { "label_ar": "التسجيل", "amount": 0, "unit_ar": "مجاني" }
+  ],
+  "penalty_ar": null,
+  "steps": [
+    { "text_ar": "ادخل إلى موقع سبل (splonline.com.sa) أو التطبيق", "text_en": "Go to SPL website or app" },
+    { "text_ar": "سجّل الدخول عبر النفاذ الوطني الموحد", "text_en": "Log in via National SSO (Nafath)" },
+    { "text_ar": "اختر \"تسجيل عنوان جديد\" أو \"تحديث العنوان\"", "text_en": "Select Register New Address or Update Address" },
+    { "text_ar": "حدد موقعك على الخريطة بدقة", "text_en": "Pin your exact location on the map" },
+    { "text_ar": "أدخل تفاصيل العنوان (رقم المبنى، الشارع، الحي)", "text_en": "Enter address details (building, street, district)" },
+    { "text_ar": "اضغط \"حفظ\" — العنوان يُفعّل فوراً", "text_en": "Save — address activates immediately" }
+  ],
+  "troubles": [
+    { "question_ar": "الموقع على الخريطة غير دقيق", "answer_ar": "حرّك الدبوس يدوياً إلى الموقع الصحيح. يمكنك أيضاً إدخال الإحداثيات من خرائط قوقل." },
+    { "question_ar": "لا يظهر خيار التسجيل", "answer_ar": "قد يكون لديك عنوان مسجل مسبقاً. جرّب خيار \"تحديث\" بدلاً من \"تسجيل جديد\"." },
+    { "question_ar": "هل العنوان الوطني مطلوب للمقيمين؟", "answer_ar": "نعم، مطلوب لفتح حساب بنكي وللعديد من الخدمات الإلكترونية." }
+  ],
+  "related_slugs": ["issue-commercial-registration"],
+  "last_updated": "2026-03-18"
+}

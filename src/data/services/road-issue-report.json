@@ -1,0 +1,88 @@
+{
+  "slug": "road-issue-report",
+  "title_ar": "بلاغ عن مشكلة في الطريق عبر تطبيق بلاغ",
+  "title_en": "Report road issue via Balagh app",
+  "description_ar": "تتيح هذه الخدمة الإبلاغ عن مشاكل الطرق (حفر، إضاءة معطلة، لوحات مفقودة، حواجز تالفة) عبر تطبيق بلاغ التابع لوزارة النقل.",
+  "portal": "تطبيق بلاغ",
+  "portal_url": "https://www.mot.gov.sa",
+  "ministry_ar": "وزارة النقل والخدمات اللوجستية",
+  "ministry_en": "Ministry of Transport and Logistic Services",
+  "category_ar": "خدمات عامة",
+  "category_en": "General Services",
+  "tags": [
+    {
+      "text_ar": "تطبيق بلاغ",
+      "type": "info"
+    },
+    {
+      "text_ar": "مجاني للجميع",
+      "type": "success"
+    },
+    {
+      "text_ar": "آخر تحديث: مارس 2026",
+      "type": "warning"
+    }
+  ],
+  "checks": [
+    {
+      "text_ar": "هاتف ذكي مع تطبيق بلاغ",
+      "text_en": "Smartphone with Balagh app"
+    },
+    {
+      "text_ar": "تفعيل خدمة الموقع (GPS)",
+      "text_en": "Location services (GPS) enabled"
+    }
+  ],
+  "fees": [
+    {
+      "label_ar": "البلاغ",
+      "amount": 0,
+      "unit_ar": "مجاني"
+    }
+  ],
+  "steps": [
+    {
+      "text_ar": "حمّل تطبيق بلاغ من App Store أو Google Play",
+      "text_en": "Download Balagh app from App Store or Google Play"
+    },
+    {
+      "text_ar": "افتح التطبيق وسجّل الدخول (أو استخدم كضيف)",
+      "text_en": "Open app and log in (or use as guest)"
+    },
+    {
+      "text_ar": "اختر \"بلاغ جديد\" وحدد نوع المشكلة",
+      "text_en": "Select New Report and choose issue type"
+    },
+    {
+      "text_ar": "التقط صورة للمشكلة — الموقع يُحدد تلقائياً",
+      "text_en": "Take a photo — location is auto-detected"
+    },
+    {
+      "text_ar": "أضف وصفاً وأرسل البلاغ",
+      "text_en": "Add description and submit report"
+    },
+    {
+      "text_ar": "تابع حالة البلاغ عبر التطبيق",
+      "text_en": "Track report status via the app"
+    }
+  ],
+  "troubles": [
+    {
+      "question_ar": "البلاغ لم يُعالج منذ أسابيع",
+      "answer_ar": "يمكنك إعادة إرسال البلاغ أو تصعيده عبر منصة X/Twitter على حساب @SaudiMOTLS."
+    },
+    {
+      "question_ar": "المشكلة في طريق داخل المدينة وليس طريق سريع",
+      "answer_ar": "الطرق داخل المدن من اختصاص الأمانة/البلدية. استخدم تطبيق بلدي أو تواصل مع أمانة منطقتك."
+    },
+    {
+      "question_ar": "هل يمكن الإبلاغ عن حادث مروري؟",
+      "answer_ar": "لا، حوادث المرور تُبلغ عبر تطبيق كلنا أمن أو الاتصال بـ 993 (المرور)."
+    }
+  ],
+  "related_slugs": [
+    "absher-account-registration",
+    "tawakkalna-setup"
+  ],
+  "last_updated": "2026-03-18"
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "renew-health-insurance",
+  "title_ar": "تجديد التأمين الصحي عبر مجلس الضمان",
+  "title_en": "Renew health insurance via CCHI",
+  "description_ar": "التأمين الصحي إلزامي لجميع المقيمين وموظفي القطاع الخاص. يمكن التحقق من حالته وتجديده عبر مجلس الضمان الصحي.",
+  "portal": "مجلس الضمان الصحي",
+  "portal_url": "https://www.chi.gov.sa",
+  "ministry_ar": "مجلس الضمان الصحي التعاوني",
+  "ministry_en": "Council of Cooperative Health Insurance (CCHI)",
+  "category_ar": "خدمات صحية",
+  "category_en": "Health Services",
+  "tags": [
+    {
+      "text_ar": "مجلس الضمان الصحي",
+      "type": "info"
+    },
+    {
+      "text_ar": "إلزامي للمقيمين",
+      "type": "warning"
+    },
+    {
+      "text_ar": "آخر تحديث: مارس 2026",
+      "type": "warning"
+    }
+  ],
+  "checks": [
+    {
+      "text_ar": "إقامة أو هوية وطنية سارية",
+      "text_en": "Valid Iqama or national ID"
+    },
+    {
+      "text_ar": "معرفة شركة التأمين الحالية",
+      "text_en": "Know your current insurance company"
+    }
+  ],
+  "fees": [
+    {
+      "label_ar": "التأمين (يختلف حسب الفئة)",
+      "amount": 500,
+      "unit_ar": "ر.س - 2,000+ ر.س / سنة"
+    }
+  ],
+  "penalty_ar": "عدم وجود تأمين صحي ساري يمنع تجديد الإقامة",
+  "steps": [
+    {
+      "text_ar": "ادخل إلى موقع مجلس الضمان الصحي للتحقق من حالة تأمينك",
+      "text_en": "Go to CCHI website to check your insurance status"
+    },
+    {
+      "text_ar": "أدخل رقم الهوية أو الإقامة",
+      "text_en": "Enter national ID or Iqama number"
+    },
+    {
+      "text_ar": "إذا كان منتهياً، تواصل مع صاحب العمل لتجديده",
+      "text_en": "If expired, contact your employer to renew"
+    },
+    {
+      "text_ar": "صاحب العمل يجدد عبر شركة التأمين المعتمدة",
+      "text_en": "Employer renews through approved insurance company"
+    },
+    {
+      "text_ar": "تحقق من التفعيل عبر موقع الضمان بعد 24-48 ساعة",
+      "text_en": "Verify activation on CCHI site after 24-48 hours"
+    }
+  ],
+  "troubles": [
+    {
+      "question_ar": "كيف أعرف إذا تأميني ساري؟",
+      "answer_ar": "ادخل موقع مجلس الضمان الصحي → الاستعلام عن التأمين → أدخل رقم الهوية. أو عبر تطبيق \"صحتي\"."
+    },
+    {
+      "question_ar": "صاحب العمل لا يريد تجديد التأمين",
+      "answer_ar": "التأمين الصحي إلزامي. قدّم شكوى عبر منصة قوى أو مجلس الضمان الصحي."
+    }
+  ],
+  "related_slugs": [
+    "renew-iqama",
+    "renew-work-permit"
+  ],
+  "last_updated": "2026-03-18"
+}
