@@ -3,6 +3,7 @@
   "title_ar": "إصدار رخصة بلدية (رخصة نشاط) عبر بلدي",
   "title_en": "Issue municipal license via Balady",
   "description_ar": "الرخصة البلدية مطلوبة لمزاولة أي نشاط تجاري في موقع فعلي. تتيح منصة بلدي إصدارها إلكترونياً.",
+  "description_en": "A municipal license is required to operate any business at a physical location. The Balady platform allows electronic issuance.",
   "portal": "منصة بلدي",
   "portal_url": "https://balady.gov.sa",
   "ministry_ar": "وزارة الشؤون البلدية والقروية والإسكان",
@@ -92,6 +93,5 @@
   ],
   "last_updated": "########",
   "penalty_ar": "مزاولة نشاط بدون رخصة بلدية تعرّض المنشأة لغرامة وإغلاق",
-  "description_en": "A municipal license is required to operate any business at a physical location. The Balady platform allows electronic issuance.",
   "penalty_en": "Operating without a municipal license exposes the business to fines and closure"
 }

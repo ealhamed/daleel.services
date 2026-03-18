@@ -3,6 +3,7 @@
   "title_ar": "توثيق عقد زواج عبر ناجز",
   "title_en": "Authenticate marriage contract via Najiz",
   "description_ar": "تتيح هذه الخدمة توثيق عقد الزواج إلكترونياً عبر بوابة ناجز التابعة لوزارة العدل، دون الحاجة لزيارة المحكمة.",
+  "description_en": "This service allows electronic registration of marriage contracts via the Najiz portal of the Ministry of Justice, without the need to visit the court.",
   "portal": "بوابة ناجز",
   "portal_url": "https://www.najiz.sa",
   "ministry_ar": "وزارة العدل",
@@ -94,6 +95,5 @@
     "issue-birth-certificate",
     "renew-national-id"
   ],
-  "last_updated": "########",
-  "description_en": "This service allows electronic registration of marriage contracts via the Najiz portal of the Ministry of Justice, without the need to visit the court."
+  "last_updated": "########"
 }

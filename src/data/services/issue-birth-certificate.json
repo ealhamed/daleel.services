@@ -3,6 +3,7 @@
   "title_ar": "تسجيل مولود وإصدار شهادة ميلاد",
   "title_en": "Register newborn and issue birth certificate",
   "description_ar": "تتيح هذه الخدمة تسجيل المواليد الجدد وإصدار شهادة الميلاد إلكترونياً عبر أبشر خلال 15 يوماً من الولادة.",
+  "description_en": "This service allows you to register newborns and issue a birth certificate electronically via Absher within 15 days of birth.",
   "portal": "أبشر أفراد",
   "portal_url": "https://www.absher.sa",
   "ministry_ar": "وزارة الداخلية",
@@ -88,6 +89,5 @@
   ],
   "last_updated": "########",
   "penalty_ar": "التأخر عن 15 يوماً يتطلب مراجعة الأحوال المدنية شخصياً",
-  "description_en": "This service allows you to register newborns and issue a birth certificate electronically via Absher within 15 days of birth.",
   "penalty_en": "Delay beyond 15 days requires an in-person visit to Civil Affairs"
 }

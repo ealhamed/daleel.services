@@ -3,6 +3,7 @@
   "title_ar": "بلاغ عن مشكلة في الطريق عبر تطبيق بلاغ",
   "title_en": "Report road issue via Balagh app",
   "description_ar": "تتيح هذه الخدمة الإبلاغ عن مشاكل الطرق (حفر، إضاءة معطلة، لوحات مفقودة، حواجز تالفة) عبر تطبيق بلاغ التابع لوزارة النقل.",
+  "description_en": "This service allows you to report road problems (potholes, broken lights, missing signs, damaged barriers) via the Balagh app of the Ministry of Transport.",
   "portal": "تطبيق بلاغ",
   "portal_url": "https://www.mot.gov.sa",
   "ministry_ar": "وزارة النقل والخدمات اللوجستية",
@@ -92,6 +93,5 @@
     "absher-account-registration",
     "tawakkalna-setup"
   ],
-  "last_updated": "########",
-  "description_en": "This service allows you to report road problems (potholes, broken lights, missing signs, damaged barriers) via the Balagh app of the Ministry of Transport."
+  "last_updated": "########"
 }

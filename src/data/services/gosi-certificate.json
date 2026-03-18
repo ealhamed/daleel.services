@@ -3,6 +3,7 @@
   "title_ar": "إصدار شهادة التأمينات الاجتماعية",
   "title_en": "Issue GOSI subscription certificate",
   "description_ar": "شهادة التأمينات مطلوبة في كثير من المعاملات الحكومية والبنكية. يمكن إصدارها إلكترونياً عبر بوابة التأمينات أون لاين.",
+  "description_en": "The GOSI certificate is required for many government and banking transactions. It can be issued electronically via the GOSI Online portal.",
   "portal": "التأمينات أون لاين",
   "portal_url": "https://www.gosi.gov.sa",
   "ministry_ar": "المؤسسة العامة للتأمينات الاجتماعية",
@@ -78,6 +79,5 @@
     "gosi-register-employee",
     "gosi-retirement-subscription"
   ],
-  "last_updated": "########",
-  "description_en": "The GOSI certificate is required for many government and banking transactions. It can be issued electronically via the GOSI Online portal."
+  "last_updated": "########"
 }

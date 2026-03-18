@@ -1,0 +1,101 @@
+{
+  "slug": "sakani-housing-support",
+  "title_ar": "التقديم على دعم سكني عبر سكني",
+  "title_en": "Apply for housing support via Sakani",
+  "description_ar": "برنامج سكني يوفر حلولاً سكنية متنوعة للمواطنين السعوديين تشمل: أراضي مجانية، وحدات سكنية جاهزة، وتمويل عقاري مدعوم.",
+  "description_en": "The Sakani program provides various housing solutions for Saudi citizens including: free land, ready housing units, and subsidized real estate financing.",
+  "portal": "منصة سكني",
+  "portal_url": "https://sakani.sa",
+  "ministry_ar": "وزارة الشؤون البلدية والقروية والإسكان",
+  "ministry_en": "Ministry of Municipal, Rural Affairs and Housing",
+  "category_ar": "خدمات الإسكان",
+  "category_en": "Housing Services",
+  "tags": [
+    {
+      "text_ar": "للمواطنين السعوديين فقط",
+      "type": "info"
+    },
+    {
+      "text_ar": "دعم حكومي",
+      "type": "success"
+    }
+  ],
+  "checks": [
+    {
+      "text_ar": "مواطن سعودي",
+      "text_en": "Saudi citizen"
+    },
+    {
+      "text_ar": "عمر 25 سنة فأكثر (أو متزوج)",
+      "text_en": "Age 25+ (or married)"
+    },
+    {
+      "text_ar": "لا يملك مسكن مناسب",
+      "text_en": "Does not own suitable housing"
+    },
+    {
+      "text_ar": "مسجل في قوائم وزارة الإسكان",
+      "text_en": "Registered in Ministry of Housing lists"
+    }
+  ],
+  "fees": [
+    {
+      "label_ar": "التسجيل",
+      "label_en": "Registration",
+      "amount": 0,
+      "unit_ar": "مجاني",
+      "unit_en": "Free"
+    }
+  ],
+  "steps": [
+    {
+      "text_ar": "ادخل منصة سكني sakani.sa",
+      "text_en": "Go to Sakani platform at sakani.sa"
+    },
+    {
+      "text_ar": "سجّل الدخول عبر النفاذ الوطني",
+      "text_en": "Log in via National Access (Nafath)"
+    },
+    {
+      "text_ar": "أكمل بيانات الأهلية (الدخل، الحالة الاجتماعية، عدد الأفراد)",
+      "text_en": "Complete eligibility data (income, marital status, family size)"
+    },
+    {
+      "text_ar": "استعرض الخيارات المتاحة: أرض مجانية، وحدة سكنية، أو تمويل مدعوم",
+      "text_en": "Browse available options: free land, housing unit, or subsidized financing"
+    },
+    {
+      "text_ar": "قدّم طلبك واختر المنتج المناسب",
+      "text_en": "Submit your application and choose the suitable product"
+    },
+    {
+      "text_ar": "تابع حالة الطلب عبر المنصة",
+      "text_en": "Track application status via the platform"
+    }
+  ],
+  "troubles": [
+    {
+      "question_ar": "ظهرت رسالة \"غير مؤهل\"",
+      "question_en": "\"Not eligible\" message appeared",
+      "answer_ar": "الأسباب الشائعة: امتلاك عقار سابق، عدم استيفاء شرط العمر، أو الدخل أعلى من الحد. راجع شروط الأهلية في المنصة.",
+      "answer_en": "Common reasons: previous property ownership, age requirement not met, or income above the limit. Review eligibility criteria on the platform."
+    },
+    {
+      "question_ar": "كم تستغرق الموافقة؟",
+      "question_en": "How long does approval take?",
+      "answer_ar": "تختلف حسب المنتج: الأراضي قد تصدر خلال أسابيع، والتمويل المدعوم يحتاج 1-3 أشهر.",
+      "answer_en": "Varies by product: land may be issued within weeks, subsidized financing takes 1-3 months."
+    },
+    {
+      "question_ar": "هل يمكن للمطلقة أو الأرملة التقديم؟",
+      "question_en": "Can a divorced or widowed woman apply?",
+      "answer_ar": "نعم، المرأة المطلقة أو الأرملة التي لديها أبناء مؤهلة للتقديم.",
+      "answer_en": "Yes, a divorced or widowed woman with children is eligible to apply."
+    }
+  ],
+  "related_slugs": [
+    "ejar-rental-contract",
+    "register-national-address"
+  ],
+  "last_updated": "2026-03-18"
+}

@@ -3,6 +3,7 @@
   "title_ar": "نقل خدمات عامل (نقل كفالة) عبر قوى",
   "title_en": "Transfer worker sponsorship via Qiwa",
   "description_ar": "تتيح هذه الخدمة لأصحاب العمل نقل خدمات عامل من منشأة إلى أخرى إلكترونياً عبر منصة قوى، وذلك وفق ضوابط نظام العمل المحدّثة.",
+  "description_en": "This service allows employers to transfer worker services from one establishment to another electronically via the Qiwa platform, according to updated labor regulations.",
   "portal": "منصة قوى",
   "portal_url": "https://www.qiwa.sa",
   "ministry_ar": "وزارة الموارد البشرية والتنمية الاجتماعية",
@@ -116,6 +117,5 @@
     "renew-work-permit",
     "final-exit-visa"
   ],
-  "last_updated": "########",
-  "description_en": "This service allows employers to transfer worker services from one establishment to another electronically via the Qiwa platform, according to updated labor regulations."
+  "last_updated": "########"
 }

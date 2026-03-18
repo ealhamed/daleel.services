@@ -3,6 +3,7 @@
   "title_ar": "التسجيل وتفعيل تطبيق توكلنا خدمات",
   "title_en": "Set up Tawakkalna Services app",
   "description_ar": "توكلنا هو التطبيق الحكومي الشامل الذي يوفر أكثر من 600 خدمة حكومية، بما في ذلك الهوية الرقمية ورخصة القيادة الرقمية وتصاريح الحج والعمرة.",
+  "description_en": "Tawakkalna is the comprehensive government app offering over 600 government services, including digital ID, digital driving license, and Hajj/Umrah permits.",
   "portal": "تطبيق توكلنا",
   "portal_url": "https://ta.sdaia.gov.sa",
   "ministry_ar": "الهيئة السعودية للبيانات والذكاء الاصطناعي",
@@ -98,6 +99,5 @@
     "nafath-setup",
     "absher-account-registration"
   ],
-  "last_updated": "########",
-  "description_en": "Tawakkalna is the comprehensive government app offering over 600 government services, including digital ID, digital driving license, and Hajj/Umrah permits."
+  "last_updated": "########"
 }

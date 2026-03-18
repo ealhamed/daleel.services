@@ -3,6 +3,7 @@
   "title_ar": "تجديد استمارة المركبة عبر أبشر",
   "title_en": "Renew vehicle registration (Istimara) via Absher",
   "description_ar": "تتيح لك هذه الخدمة تجديد رخصة سير المركبة (الاستمارة) إلكترونياً عبر منصة أبشر، بشرط اجتياز الفحص الدوري وتوفر تأمين ساري.",
+  "description_en": "This service allows you to renew your vehicle registration (Istimara) electronically via Absher, provided you have a valid periodic inspection and active insurance.",
   "portal": "أبشر أفراد",
   "portal_url": "https://www.absher.sa",
   "ministry_ar": "وزارة الداخلية",
@@ -122,6 +123,5 @@
   ],
   "last_updated": "########",
   "penalty_ar": "غرامة التأخير في التجديد تتراوح بين 100-150 ر.س، والقيادة باستمارة منتهية مخالفة مرورية",
-  "description_en": "This service allows you to renew your vehicle registration (Istimara) electronically via Absher, provided you have a valid periodic inspection and active insurance.",
   "penalty_en": "Late renewal fine ranges from SAR 100-150, and driving with an expired registration is a traffic violation"
 }

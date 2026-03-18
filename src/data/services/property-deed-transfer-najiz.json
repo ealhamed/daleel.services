@@ -3,6 +3,7 @@
   "title_ar": "نقل ملكية عقار (إفراغ) عبر ناجز",
   "title_en": "Transfer property ownership via Najiz",
   "description_ar": "تتيح هذه الخدمة نقل ملكية عقار من البائع إلى المشتري إلكترونياً عبر بوابة ناجز، دون الحاجة لزيارة كتابة العدل.",
+  "description_en": "This service allows the transfer of property ownership from seller to buyer electronically via the Najiz portal, without visiting a notary office.",
   "portal": "بوابة ناجز",
   "portal_url": "https://www.najiz.sa",
   "ministry_ar": "وزارة العدل",
@@ -103,6 +104,5 @@
     "power-of-attorney-najiz",
     "ejar-rental-contract"
   ],
-  "last_updated": "########",
-  "description_en": "This service allows the transfer of property ownership from seller to buyer electronically via the Najiz portal, without visiting a notary office."
+  "last_updated": "########"
 }

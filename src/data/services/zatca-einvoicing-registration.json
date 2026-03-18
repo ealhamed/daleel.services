@@ -3,6 +3,7 @@
   "title_ar": "التسجيل في الفوترة الإلكترونية (فاتورة) عبر هيئة الزكاة",
   "title_en": "Register for e-invoicing (Fatoorah) via ZATCA",
   "description_ar": "الفوترة الإلكترونية إلزامية لجميع المنشآت المسجلة في ضريبة القيمة المضافة. يجب ربط أنظمة الفوترة مع منصة فاتورة التابعة لهيئة الزكاة.",
+  "description_en": "Electronic invoicing is mandatory for all establishments registered for VAT. Invoicing systems must be linked with the ZATCA Fatoora platform.",
   "portal": "هيئة الزكاة والضريبة والجمارك",
   "portal_url": "https://zatca.gov.sa",
   "ministry_ar": "هيئة الزكاة والضريبة والجمارك",
@@ -94,6 +95,5 @@
   ],
   "last_updated": "########",
   "penalty_ar": "غرامات عدم الامتثال تتراوح بين 5,000 و 50,000 ر.س",
-  "description_en": "Electronic invoicing is mandatory for all establishments registered for VAT. Invoicing systems must be linked with the ZATCA Fatoora platform.",
   "penalty_en": "Non-compliance fines range from SAR 5,000 to SAR 50,000"
 }

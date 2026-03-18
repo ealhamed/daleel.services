@@ -3,6 +3,7 @@
   "title_ar": "تفعيل تطبيق نفاذ الوطني",
   "title_en": "Set up Nafath national digital ID",
   "description_ar": "نفاذ هو نظام الهوية الرقمية الوطني المطلوب لتسجيل الدخول إلى معظم المنصات الحكومية والبنكية. هذا الدليل يشرح التفعيل خطوة بخطوة.",
+  "description_en": "Nafath is the national digital identity system required to log in to most government and banking platforms. This guide explains activation step by step.",
   "portal": "تطبيق نفاذ",
   "portal_url": "https://www.iam.gov.sa",
   "ministry_ar": "هيئة الحكومة الرقمية",
@@ -96,6 +97,5 @@
     "absher-account-registration",
     "register-national-address"
   ],
-  "last_updated": "########",
-  "description_en": "Nafath is the national digital identity system required to log in to most government and banking platforms. This guide explains activation step by step."
+  "last_updated": "########"
 }

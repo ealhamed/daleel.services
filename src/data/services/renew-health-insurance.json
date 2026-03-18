@@ -3,6 +3,7 @@
   "title_ar": "تجديد التأمين الصحي عبر مجلس الضمان",
   "title_en": "Renew health insurance via CCHI",
   "description_ar": "التأمين الصحي إلزامي لجميع المقيمين وموظفي القطاع الخاص. يمكن التحقق من حالته وتجديده عبر مجلس الضمان الصحي.",
+  "description_en": "Health insurance is mandatory for all residents and private sector employees. You can check its status and renew it via the Council of Health Insurance.",
   "portal": "مجلس الضمان الصحي",
   "portal_url": "https://www.chi.gov.sa",
   "ministry_ar": "مجلس الضمان الصحي التعاوني",
@@ -84,6 +85,5 @@
   ],
   "last_updated": "########",
   "penalty_ar": "عدم وجود تأمين صحي ساري يمنع تجديد الإقامة",
-  "description_en": "Health insurance is mandatory for all residents and private sector employees. You can check its status and renew it via the Council of Health Insurance.",
   "penalty_en": "Not having valid health insurance prevents Iqama renewal"
 }

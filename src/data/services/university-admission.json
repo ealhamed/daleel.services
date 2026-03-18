@@ -1,0 +1,86 @@
+{
+  "slug": "university-admission",
+  "title_ar": "التقديم على الجامعات عبر بوابة القبول الموحد",
+  "title_en": "Apply to universities via unified admission portal",
+  "description_ar": "تتيح بوابات القبول الموحد التقديم على الجامعات والكليات الحكومية إلكترونياً. لكل منطقة بوابة خاصة (الرياض، مكة، الشرقية...).",
+  "description_en": "Unified admission portals allow electronic applications to government universities and colleges. Each region has its own portal (Riyadh, Makkah, Eastern...).",
+  "portal": "بوابات القبول الموحد",
+  "portal_url": "https://rgu.moe.gov.sa",
+  "ministry_ar": "وزارة التعليم",
+  "ministry_en": "Ministry of Education",
+  "category_ar": "خدمات تعليمية",
+  "category_en": "Education Services",
+  "tags": [
+    {
+      "text_ar": "فترة تقديم محدودة",
+      "type": "warning"
+    }
+  ],
+  "checks": [
+    {
+      "text_ar": "شهادة ثانوية عامة",
+      "text_en": "High school diploma"
+    },
+    {
+      "text_ar": "نتيجة اختبار القدرات (قياس)",
+      "text_en": "Qiyas aptitude test result"
+    },
+    {
+      "text_ar": "نتيجة اختبار التحصيلي (للتخصصات العلمية)",
+      "text_en": "Achievement test result (for science majors)"
+    },
+    {
+      "text_ar": "حساب نفاذ مفعّل",
+      "text_en": "Activated Nafath account"
+    }
+  ],
+  "fees": [
+    {
+      "label_ar": "التقديم",
+      "label_en": "Application",
+      "amount": 0,
+      "unit_ar": "مجاني",
+      "unit_en": "Free"
+    }
+  ],
+  "steps": [
+    {
+      "text_ar": "ادخل بوابة القبول الموحد لمنطقتك",
+      "text_en": "Go to the unified admission portal for your region"
+    },
+    {
+      "text_ar": "سجّل الدخول عبر النفاذ الوطني",
+      "text_en": "Log in via National Access (Nafath)"
+    },
+    {
+      "text_ar": "اختر حتى 20 رغبة (جامعات وتخصصات) مرتبة حسب الأولوية",
+      "text_en": "Select up to 20 preferences (universities and majors) in order of priority"
+    },
+    {
+      "text_ar": "تأكد من البيانات وأرسل الطلب قبل انتهاء المهلة",
+      "text_en": "Verify the data and submit before the deadline"
+    },
+    {
+      "text_ar": "تابع نتائج القبول عبر البوابة",
+      "text_en": "Track admission results via the portal"
+    }
+  ],
+  "troubles": [
+    {
+      "question_ar": "فاتني موعد التقديم",
+      "question_en": "I missed the application deadline",
+      "answer_ar": "بعض الجامعات تفتح فترة تقديم متأخرة. تابع حساباتها الرسمية.",
+      "answer_en": "Some universities open a late application period. Follow their official accounts."
+    },
+    {
+      "question_ar": "لم أُقبل في أي رغبة",
+      "question_en": "I was not accepted in any preference",
+      "answer_ar": "انتظر مراحل القبول التالية (قد تكون 3-4 مراحل). أو قدّم على الجامعات الخاصة.",
+      "answer_en": "Wait for the next admission rounds (there may be 3-4 rounds). Or apply to private universities."
+    }
+  ],
+  "related_slugs": [
+    "school-enrollment"
+  ],
+  "last_updated": "2026-03-18"
+}

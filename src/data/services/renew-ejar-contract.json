@@ -3,6 +3,7 @@
   "title_ar": "تجديد عقد إيجار إلكتروني عبر إيجار",
   "title_en": "Renew rental contract via Ejar",
   "description_ar": "تتيح هذه الخدمة تجديد عقد الإيجار السكني أو التجاري الموثق إلكترونياً قبل انتهائه عبر منصة إيجار.",
+  "description_en": "This service allows renewal of a registered residential or commercial rental contract electronically before it expires via the Ejar platform.",
   "portal": "منصة إيجار",
   "portal_url": "https://www.ejar.sa",
   "ministry_ar": "وزارة الشؤون البلدية والقروية والإسكان",
@@ -99,6 +100,5 @@
     "ejar-rental-contract",
     "register-national-address"
   ],
-  "last_updated": "########",
-  "description_en": "This service allows renewal of a registered residential or commercial rental contract electronically before it expires via the Ejar platform."
+  "last_updated": "########"
 }

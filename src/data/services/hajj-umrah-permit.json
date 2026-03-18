@@ -3,6 +3,7 @@
   "title_ar": "إصدار تصريح حج أو عمرة عبر نسك",
   "title_en": "Issue Hajj or Umrah permit via Nusuk",
   "description_ar": "تتيح منصة نسك للمواطنين والمقيمين إصدار تصاريح الحج والعمرة وحجز الخدمات المرتبطة بها إلكترونياً.",
+  "description_en": "The Nusuk platform allows citizens and residents to issue Hajj and Umrah permits and book related services electronically.",
   "portal": "منصة نسك",
   "portal_url": "https://www.nusuk.sa",
   "ministry_ar": "وزارة الحج والعمرة",
@@ -86,6 +87,5 @@
     "nafath-setup",
     "absher-account-registration"
   ],
-  "last_updated": "########",
-  "description_en": "The Nusuk platform allows citizens and residents to issue Hajj and Umrah permits and book related services electronically."
+  "last_updated": "########"
 }

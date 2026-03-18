@@ -3,6 +3,7 @@
   "title_ar": "تسجيل وتحديث العنوان الوطني عبر سبل",
   "title_en": "Register or update national address via Subol",
   "description_ar": "العنوان الوطني مطلوب لمعظم الخدمات الحكومية والبنكية. تتيح لك هذه الخدمة تسجيل عنوانك أو تحديثه عبر منصة سبل (البريد السعودي سابقاً).",
+  "description_en": "A national address is required for most government and banking services. This service allows you to register or update your address via the Subol platform (formerly Saudi Post).",
   "portal": "منصة سبل",
   "portal_url": "https://www.spl.com.sa",
   "ministry_ar": "مؤسسة البريد السعودي (سبل)",
@@ -95,6 +96,5 @@
   "related_slugs": [
     "issue-commercial-registration"
   ],
-  "last_updated": "########",
-  "description_en": "A national address is required for most government and banking services. This service allows you to register or update your address via the Subol platform (formerly Saudi Post)."
+  "last_updated": "########"
 }

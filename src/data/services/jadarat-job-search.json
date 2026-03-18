@@ -3,6 +3,7 @@
   "title_ar": "البحث عن وظيفة عبر منصة جدارات",
   "title_en": "Search for jobs via Jadarat platform",
   "description_ar": "جدارات هي المنصة الوطنية للتوظيف التي تربط الباحثين عن عمل بفرص القطاعين العام والخاص، وتحل محل منصتي طاقات وجدارة.",
+  "description_en": "Jadarat is the national employment platform connecting job seekers with public and private sector opportunities, replacing the former Taqat and Jadara platforms.",
   "portal": "منصة جدارات",
   "portal_url": "https://www.jadarat.sa",
   "ministry_ar": "وزارة الموارد البشرية والتنمية الاجتماعية",
@@ -82,6 +83,5 @@
     "gosi-retirement-subscription",
     "renew-national-id"
   ],
-  "last_updated": "########",
-  "description_en": "Jadarat is the national employment platform connecting job seekers with public and private sector opportunities, replacing the former Taqat and Jadara platforms."
+  "last_updated": "########"
 }

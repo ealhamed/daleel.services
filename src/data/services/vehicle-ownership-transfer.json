@@ -3,6 +3,7 @@
   "title_ar": "نقل ملكية مركبة عبر أبشر",
   "title_en": "Transfer vehicle ownership via Absher",
   "description_ar": "تمكّنك هذه الخدمة من نقل ملكية مركبة بين بائع ومشتري إلكترونياً عبر أبشر، دون الحاجة لزيارة إدارة المرور.",
+  "description_en": "This service enables vehicle ownership transfer between seller and buyer electronically via Absher, without visiting the Traffic Department.",
   "portal": "أبشر أفراد",
   "portal_url": "https://www.absher.sa",
   "ministry_ar": "وزارة الداخلية",
@@ -100,6 +101,5 @@
     "vehicle-registration-renewal",
     "renew-driving-license"
   ],
-  "last_updated": "########",
-  "description_en": "This service enables vehicle ownership transfer between seller and buyer electronically via Absher, without visiting the Traffic Department."
+  "last_updated": "########"
 }

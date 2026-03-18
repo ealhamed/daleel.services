@@ -1,0 +1,83 @@
+{
+  "slug": "foreign-degree-equivalency",
+  "title_ar": "معادلة الشهادات الأجنبية",
+  "title_en": "Foreign degree equivalency",
+  "description_ar": "تتيح هذه الخدمة معادلة الشهادات الجامعية الصادرة من خارج المملكة لاعتمادها في التوظيف والدراسات العليا عبر وزارة التعليم.",
+  "description_en": "This service allows the equivalency of university degrees issued from outside the Kingdom for use in employment and postgraduate studies via the Ministry of Education.",
+  "portal": "وزارة التعليم",
+  "portal_url": "https://rue.moe.gov.sa",
+  "ministry_ar": "وزارة التعليم",
+  "ministry_en": "Ministry of Education",
+  "category_ar": "خدمات تعليمية",
+  "category_en": "Education Services",
+  "tags": [
+    {
+      "text_ar": "مطلوبة للتوظيف الحكومي",
+      "type": "warning"
+    }
+  ],
+  "checks": [
+    {
+      "text_ar": "شهادة جامعية من خارج المملكة",
+      "text_en": "University degree from outside the Kingdom"
+    },
+    {
+      "text_ar": "كشف درجات مصدق",
+      "text_en": "Certified transcript"
+    },
+    {
+      "text_ar": "تصديق الشهادة من الملحقية الثقافية (إن وُجدت)",
+      "text_en": "Degree attestation from the Cultural Mission (if applicable)"
+    }
+  ],
+  "fees": [
+    {
+      "label_ar": "رسوم المعادلة",
+      "label_en": "Equivalency fee",
+      "amount": 0,
+      "unit_ar": "مجاني",
+      "unit_en": "Free"
+    }
+  ],
+  "steps": [
+    {
+      "text_ar": "ادخل بوابة معادلة الشهادات rue.moe.gov.sa",
+      "text_en": "Go to the degree equivalency portal at rue.moe.gov.sa"
+    },
+    {
+      "text_ar": "سجّل الدخول عبر النفاذ الوطني",
+      "text_en": "Log in via National Access (Nafath)"
+    },
+    {
+      "text_ar": "ارفع نسخة من الشهادة وكشف الدرجات",
+      "text_en": "Upload a copy of the degree and transcript"
+    },
+    {
+      "text_ar": "ارفع التصديقات المطلوبة",
+      "text_en": "Upload required attestations"
+    },
+    {
+      "text_ar": "تابع حالة الطلب — تستغرق العملية 1-3 أشهر",
+      "text_en": "Track the application — the process takes 1-3 months"
+    }
+  ],
+  "troubles": [
+    {
+      "question_ar": "الجامعة غير معترف بها",
+      "question_en": "The university is not recognized",
+      "answer_ar": "تحقق من قائمة الجامعات المعترف بها في موقع الوزارة قبل التقديم.",
+      "answer_en": "Check the list of recognized universities on the Ministry website before applying."
+    },
+    {
+      "question_ar": "كم تستغرق العملية؟",
+      "question_en": "How long does the process take?",
+      "answer_ar": "عادة 1-3 أشهر. قد تطول إذا احتاجت الوزارة لمراسلة الجامعة الأصلية.",
+      "answer_en": "Usually 1-3 months. It may take longer if the Ministry needs to contact the original university."
+    }
+  ],
+  "related_slugs": [
+    "university-admission",
+    "jadarat-job-search"
+  ],
+  "last_updated": "2026-03-18"
+}

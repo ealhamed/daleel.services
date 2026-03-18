@@ -3,6 +3,7 @@
   "title_ar": "الاعتراض على مخالفة مرورية عبر أبشر",
   "title_en": "Object to traffic violation via Absher",
   "description_ar": "تتيح هذه الخدمة الاعتراض على مخالفة مرورية مسجلة إذا كنت تعتقد أنها غير صحيحة، خلال 30 يوماً من تاريخ تسجيلها.",
+  "description_en": "This service allows you to object to a registered traffic violation if you believe it is incorrect, within 30 days of its registration date.",
   "portal": "أبشر أفراد",
   "portal_url": "https://www.absher.sa",
   "ministry_ar": "وزارة الداخلية",
@@ -92,6 +93,5 @@
     "pay-traffic-fines",
     "renew-driving-license"
   ],
-  "last_updated": "########",
-  "description_en": "This service allows you to object to a registered traffic violation if you believe it is incorrect, within 30 days of its registration date."
+  "last_updated": "########"
 }

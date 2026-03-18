@@ -3,6 +3,7 @@
   "title_ar": "سداد رسوم المرافقين والتابعين",
   "title_en": "Pay dependent and companion fees",
   "description_ar": "تُفرض رسوم شهرية على المرافقين والتابعين للمقيمين في المملكة. يمكن سدادها عبر أبشر أو القنوات البنكية.",
+  "description_en": "Monthly fees are imposed on dependents and companions of residents in the Kingdom. They can be paid via Absher or banking channels.",
   "portal": "أبشر أفراد / البنوك",
   "portal_url": "https://www.absher.sa",
   "ministry_ar": "وزارة الداخلية",
@@ -90,6 +91,5 @@
   ],
   "last_updated": "########",
   "penalty_ar": "عدم السداد يمنع تجديد الإقامة وإصدار التأشيرات",
-  "description_en": "Monthly fees are imposed on dependents and companions of residents in the Kingdom. They can be paid via Absher or banking channels.",
   "penalty_en": "Non-payment prevents Iqama renewal and visa issuance"
 }

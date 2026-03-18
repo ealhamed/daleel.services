@@ -3,6 +3,7 @@
   "title_ar": "توثيق عقد إيجار إلكتروني عبر إيجار",
   "title_en": "Register rental contract via Ejar",
   "description_ar": "يجب توثيق جميع عقود الإيجار السكنية والتجارية إلكترونياً عبر منصة إيجار. العقد الموثق مطلوب لإصدار رخص البلدية وفتح حسابات الخدمات.",
+  "description_en": "All residential and commercial rental contracts must be registered electronically via the Ejar platform. A registered contract is required for municipal licenses and utility account setup.",
   "portal": "منصة إيجار",
   "portal_url": "https://www.ejar.sa",
   "ministry_ar": "وزارة الشؤون البلدية والقروية والإسكان",
@@ -101,6 +102,5 @@
   ],
   "last_updated": "########",
   "penalty_ar": "عقود الإيجار غير الموثقة لا تُقبل في المحاكم ولا تُستخدم لإصدار التراخيص",
-  "description_en": "All residential and commercial rental contracts must be registered electronically via the Ejar platform. A registered contract is required for municipal licenses and utility account setup.",
   "penalty_en": "Unregistered rental contracts are not accepted in courts and cannot be used for license issuance"
 }

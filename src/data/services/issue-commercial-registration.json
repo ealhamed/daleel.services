@@ -3,6 +3,7 @@
   "title_ar": "إصدار سجل تجاري عبر المركز السعودي للأعمال",
   "title_en": "Issue commercial registration via Saudi Business Center",
   "description_ar": "تتيح لك هذه الخدمة إصدار سجل تجاري رئيسي أو فرعي لمنشأتك إلكترونياً عبر المركز السعودي للأعمال، وهي الخطوة الأولى لبدء أي نشاط تجاري في المملكة.",
+  "description_en": "This service allows you to issue a main or branch commercial registration for your business electronically via the Saudi Business Center — the first step to starting any business in the Kingdom.",
   "portal": "المركز السعودي للأعمال",
   "portal_url": "https://business.sa",
   "ministry_ar": "وزارة التجارة",
@@ -120,6 +121,5 @@
   ],
   "last_updated": "########",
   "penalty_ar": "عدم تجديد السجل خلال 30 يوماً من انتهائه يعرّض المنشأة لغرامة وشطب",
-  "description_en": "This service allows you to issue a main or branch commercial registration for your business electronically via the Saudi Business Center — the first step to starting any business in the Kingdom.",
   "penalty_en": "Failure to renew within 30 days of expiry exposes the business to fines and deregistration"
 }

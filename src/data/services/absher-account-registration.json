@@ -3,6 +3,7 @@
   "title_ar": "تسجيل وتفعيل حساب أبشر",
   "title_en": "Register and activate Absher account",
   "description_ar": "أبشر هي البوابة الإلكترونية لخدمات وزارة الداخلية. هذا الدليل يشرح كيفية إنشاء حساب جديد وتفعيله خطوة بخطوة.",
+  "description_en": "Absher is the official portal for Ministry of Interior services. This guide explains how to create and activate a new account step by step.",
   "portal": "أبشر",
   "portal_url": "https://www.absher.sa",
   "ministry_ar": "وزارة الداخلية",
@@ -96,6 +97,5 @@
     "register-national-address",
     "renew-iqama"
   ],
-  "last_updated": "########",
-  "description_en": "Absher is the official portal for Ministry of Interior services. This guide explains how to create and activate a new account step by step."
+  "last_updated": "########"
 }

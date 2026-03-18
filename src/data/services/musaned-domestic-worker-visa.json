@@ -3,6 +3,7 @@
   "title_ar": "استقدام عمالة منزلية عبر مساند",
   "title_en": "Recruit domestic worker via Musaned",
   "description_ar": "تتيح منصة مساند لأصحاب العمل استقدام العمالة المنزلية (سائقين، خادمات، مربيات، طباخين) من خارج المملكة بشكل إلكتروني.",
+  "description_en": "The Musaned platform allows employers to recruit domestic workers (drivers, maids, nannies, cooks) from outside the Kingdom electronically.",
   "portal": "منصة مساند",
   "portal_url": "https://www.musaned.com.sa",
   "ministry_ar": "وزارة الموارد البشرية والتنمية الاجتماعية",
@@ -107,6 +108,5 @@
     "renew-iqama",
     "transfer-sponsorship"
   ],
-  "last_updated": "########",
-  "description_en": "The Musaned platform allows employers to recruit domestic workers (drivers, maids, nannies, cooks) from outside the Kingdom electronically."
+  "last_updated": "########"
 }

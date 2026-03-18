@@ -3,6 +3,7 @@
   "title_ar": "تسجيل طالب في المدارس الحكومية عبر نظام نور",
   "title_en": "Enroll student in public school via Noor",
   "description_ar": "تتيح هذه الخدمة لولي الأمر تسجيل أبنائه في المدارس الحكومية (ابتدائي، متوسط، ثانوي) عبر نظام نور الإلكتروني.",
+  "description_en": "This service allows parents to enroll their children in public schools (elementary, middle, high school) via the Noor electronic system.",
   "portal": "نظام نور",
   "portal_url": "https://noor.moe.gov.sa",
   "ministry_ar": "وزارة التعليم",
@@ -96,6 +97,5 @@
     "absher-account-registration",
     "nafath-setup"
   ],
-  "last_updated": "########",
-  "description_en": "This service allows parents to enroll their children in public schools (elementary, middle, high school) via the Noor electronic system."
+  "last_updated": "########"
 }

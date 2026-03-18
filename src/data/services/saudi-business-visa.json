@@ -3,6 +3,7 @@
   "title_ar": "إصدار تأشيرة عمل (استقدام) عبر قوى",
   "title_en": "Issue work visa via Qiwa",
   "description_ar": "تتيح هذه الخدمة لأصحاب المنشآت إصدار تأشيرة عمل لاستقدام عمالة من خارج المملكة عبر منصة قوى.",
+  "description_en": "This service allows business owners to issue a work visa to recruit workers from outside the Kingdom via the Qiwa platform.",
   "portal": "منصة قوى",
   "portal_url": "https://www.qiwa.sa",
   "ministry_ar": "وزارة الموارد البشرية والتنمية الاجتماعية",
@@ -97,6 +98,5 @@
     "renew-work-permit",
     "transfer-sponsorship"
   ],
-  "last_updated": "########",
-  "description_en": "This service allows business owners to issue a work visa to recruit workers from outside the Kingdom via the Qiwa platform."
+  "last_updated": "########"
 }

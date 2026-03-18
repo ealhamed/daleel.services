@@ -3,6 +3,7 @@
   "title_ar": "إصدار بطاقة العائلة (كرت العائلة) عبر أبشر",
   "title_en": "Issue family card via Absher",
   "description_ar": "بطاقة العائلة وثيقة رسمية تثبت أفراد الأسرة وعلاقتهم. مطلوبة في كثير من المعاملات الحكومية والتعليمية والصحية.",
+  "description_en": "The family card is an official document that certifies family members and their relationships. It is required for many government, educational, and health transactions.",
   "portal": "أبشر أفراد",
   "portal_url": "https://www.absher.sa",
   "ministry_ar": "وزارة الداخلية",
@@ -93,6 +94,5 @@
     "marriage-contract-najiz",
     "renew-national-id"
   ],
-  "last_updated": "########",
-  "description_en": "The family card is an official document that certifies family members and their relationships. It is required for many government, educational, and health transactions."
+  "last_updated": "########"
 }

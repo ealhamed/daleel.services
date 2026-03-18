@@ -3,6 +3,7 @@
   "title_ar": "تجديد رخصة القيادة عبر أبشر",
   "title_en": "Renew driving license via Absher",
   "description_ar": "تمكّنك هذه الخدمة من تجديد رخصة القيادة للمواطنين والمقيمين إلكترونياً عبر منصة أبشر دون الحاجة لزيارة إدارة المرور.",
+  "description_en": "This service enables citizens and residents to renew their driving license electronically via Absher without visiting the Traffic Department.",
   "portal": "أبشر أفراد",
   "portal_url": "https://www.absher.sa",
   "ministry_ar": "وزارة الداخلية",
@@ -116,6 +117,5 @@
   ],
   "last_updated": "########",
   "penalty_ar": "غرامة تأخير التجديد تتراوح بين 100-150 ر.س، والقيادة برخصة منتهية مخالفة مرورية",
-  "description_en": "This service enables citizens and residents to renew their driving license electronically via Absher without visiting the Traffic Department.",
   "penalty_en": "Late renewal fine ranges from SAR 100-150, and driving with an expired license is a traffic violation"
 }

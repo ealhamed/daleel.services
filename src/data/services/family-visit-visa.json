@@ -3,6 +3,7 @@
   "title_ar": "إصدار تأشيرة زيارة عائلية عبر وزارة الخارجية",
   "title_en": "Issue family visit visa via MOFA",
   "description_ar": "تتيح لك هذه الخدمة تقديم طلب تأشيرة زيارة عائلية لاستقدام أفراد عائلتك من خارج المملكة لزيارة مؤقتة.",
+  "description_en": "This service allows you to apply for a family visit visa to bring your family members from outside the Kingdom for a temporary visit.",
   "portal": "منصة التأشيرات الإلكترونية",
   "portal_url": "https://visa.mofa.gov.sa",
   "ministry_ar": "وزارة الخارجية",
@@ -109,6 +110,5 @@
   ],
   "last_updated": "########",
   "penalty_ar": "عدم مغادرة الزائر قبل انتهاء التأشيرة يعرّض الكفيل لغرامة ومنع من إصدار تأشيرات مستقبلية",
-  "description_en": "This service allows you to apply for a family visit visa to bring your family members from outside the Kingdom for a temporary visit.",
   "penalty_en": "If the visitor does not leave before the visa expires, the sponsor faces a fine and a ban on future visa issuance"
 }

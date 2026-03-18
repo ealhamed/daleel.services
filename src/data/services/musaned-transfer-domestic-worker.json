@@ -3,6 +3,7 @@
   "title_ar": "نقل خدمات عمالة منزلية عبر مساند",
   "title_en": "Transfer domestic worker via Musaned",
   "description_ar": "تتيح هذه الخدمة نقل خدمات عامل منزلي من كفيل إلى آخر إلكترونياً عبر منصة مساند.",
+  "description_en": "This service allows the transfer of domestic worker services from one sponsor to another electronically via the Musaned platform.",
   "portal": "منصة مساند",
   "portal_url": "https://www.musaned.com.sa",
   "ministry_ar": "وزارة الموارد البشرية والتنمية الاجتماعية",
@@ -90,6 +91,5 @@
     "musaned-domestic-worker-visa",
     "renew-iqama"
   ],
-  "last_updated": "########",
-  "description_en": "This service allows the transfer of domestic worker services from one sponsor to another electronically via the Musaned platform."
+  "last_updated": "########"
 }

@@ -1,0 +1,97 @@
+{
+  "slug": "extend-visit-visa",
+  "title_ar": "تمديد تأشيرة الزيارة عبر أبشر",
+  "title_en": "Extend visit visa via Absher",
+  "description_ar": "تتيح هذه الخدمة للكفيل تمديد تأشيرة الزيارة العائلية أو الشخصية إلكترونياً عبر أبشر قبل انتهاء صلاحيتها.",
+  "description_en": "This service allows the sponsor to extend a family or personal visit visa electronically via Absher before it expires.",
+  "portal": "أبشر أفراد",
+  "portal_url": "https://www.absher.sa",
+  "ministry_ar": "وزارة الداخلية",
+  "ministry_en": "Ministry of Interior",
+  "category_ar": "خدمات التأشيرات",
+  "category_en": "Visa Services",
+  "tags": [
+    {
+      "text_ar": "يجب التمديد قبل الانتهاء",
+      "type": "warning"
+    }
+  ],
+  "checks": [
+    {
+      "text_ar": "حساب أبشر مفعّل للكفيل",
+      "text_en": "Activated Absher account for the sponsor"
+    },
+    {
+      "text_ar": "تأشيرة الزيارة سارية المفعول",
+      "text_en": "Visit visa is still valid"
+    },
+    {
+      "text_ar": "جواز سفر الزائر ساري",
+      "text_en": "Visitor passport is valid"
+    },
+    {
+      "text_ar": "سداد رسوم التمديد",
+      "text_en": "Extension fees paid"
+    }
+  ],
+  "fees": [
+    {
+      "label_ar": "تمديد زيارة عائلية",
+      "label_en": "Family visit extension",
+      "amount": 100,
+      "unit_ar": "ر.س / شهر",
+      "unit_en": "SAR/month"
+    }
+  ],
+  "steps": [
+    {
+      "text_ar": "ادخل أبشر أفراد → خدمات التأشيرات",
+      "text_en": "Go to Absher Individuals → Visa Services"
+    },
+    {
+      "text_ar": "اختر \"تمديد تأشيرة زيارة\"",
+      "text_en": "Select \"Extend Visit Visa\""
+    },
+    {
+      "text_ar": "حدد الزائر المطلوب تمديد تأشيرته",
+      "text_en": "Select the visitor whose visa needs extension"
+    },
+    {
+      "text_ar": "اختر مدة التمديد (شهر أو أكثر)",
+      "text_en": "Choose the extension period (one month or more)"
+    },
+    {
+      "text_ar": "سدد الرسوم عبر سداد",
+      "text_en": "Pay the fees via SADAD"
+    },
+    {
+      "text_ar": "يتم تمديد التأشيرة فوراً بعد السداد",
+      "text_en": "The visa is extended immediately after payment"
+    }
+  ],
+  "troubles": [
+    {
+      "question_ar": "التأشيرة انتهت — هل يمكن التمديد؟",
+      "question_en": "The visa has expired — can it still be extended?",
+      "answer_ar": "لا، يجب التمديد قبل انتهاء صلاحية التأشيرة. بعد الانتهاء قد تُفرض غرامات وترحيل.",
+      "answer_en": "No, the extension must be done before the visa expires. After expiry, fines and deportation may apply."
+    },
+    {
+      "question_ar": "كم مرة يمكن تمديد الزيارة؟",
+      "question_en": "How many times can the visit be extended?",
+      "answer_ar": "يمكن التمديد حتى 6 أشهر كحد أقصى من تاريخ الدخول.",
+      "answer_en": "The visit can be extended up to a maximum of 6 months from the entry date."
+    },
+    {
+      "question_ar": "هل يمكن تمديد تأشيرة السياحة؟",
+      "question_en": "Can a tourist visa be extended?",
+      "answer_ar": "لا، تأشيرة السياحة الإلكترونية لا تُمدد. يجب المغادرة قبل انتهاء الـ 90 يوماً.",
+      "answer_en": "No, the electronic tourist visa cannot be extended. You must leave before the 90 days expire."
+    }
+  ],
+  "related_slugs": [
+    "family-visit-visa",
+    "convert-visit-to-iqama"
+  ],
+  "last_updated": "2026-03-18"
+}

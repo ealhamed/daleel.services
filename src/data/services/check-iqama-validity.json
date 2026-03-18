@@ -3,6 +3,7 @@
   "title_ar": "الاستعلام عن صلاحية الإقامة عبر أبشر",
   "title_en": "Check Iqama validity via Absher",
   "description_ar": "تتيح لك هذه الخدمة التحقق من تاريخ انتهاء إقامتك أو إقامة أحد مكفوليك إلكترونياً عبر أبشر، لتجنب الغرامات والتأخير.",
+  "description_en": "This service allows you to check the expiry date of your Iqama or your dependents' Iqama online via Absher, to avoid fines and delays.",
   "portal": "أبشر أفراد",
   "portal_url": "https://www.absher.sa",
   "ministry_ar": "وزارة الداخلية",
@@ -91,6 +92,5 @@
     "dependents-fee-payment",
     "exit-reentry-visa"
   ],
-  "last_updated": "########",
-  "description_en": "This service allows you to check the expiry date of your Iqama or your dependents' Iqama online via Absher, to avoid fines and delays."
+  "last_updated": "########"
 }

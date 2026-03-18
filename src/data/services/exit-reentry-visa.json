@@ -3,6 +3,7 @@
   "title_ar": "إصدار تأشيرة خروج وعودة عبر أبشر",
   "title_en": "Issue exit/re-entry visa via Absher",
   "description_ar": "تتيح لك هذه الخدمة إصدار تأشيرة خروج وعودة لأحد المكفولين أو العمالة المنزلية إلكترونياً، مما يمكّنهم من السفر خارج المملكة والعودة خلال فترة محددة.",
+  "description_en": "This service allows you to issue an exit-reentry visa for a sponsored person or domestic worker electronically, enabling them to travel outside the Kingdom and return within a specified period.",
   "portal": "أبشر أفراد",
   "portal_url": "https://www.absher.sa",
   "ministry_ar": "وزارة الداخلية",
@@ -110,6 +111,5 @@
   ],
   "last_updated": "########",
   "penalty_ar": "عدم العودة خلال مدة التأشيرة قد يؤدي لإلغاء الإقامة",
-  "description_en": "This service allows you to issue an exit-reentry visa for a sponsored person or domestic worker electronically, enabling them to travel outside the Kingdom and return within a specified period.",
   "penalty_en": "Failure to return within the visa period may result in Iqama cancellation"
 }

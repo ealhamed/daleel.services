@@ -3,6 +3,7 @@
   "title_ar": "تجديد السجل التجاري عبر المركز السعودي للأعمال",
   "title_en": "Renew commercial registration via Saudi Business Center",
   "description_ar": "تتيح لك هذه الخدمة تجديد السجل التجاري لمنشأتك إلكترونياً قبل انتهائه لتجنب الغرامات والشطب.",
+  "description_en": "This service allows you to renew your commercial registration electronically before it expires to avoid fines and deregistration.",
   "portal": "المركز السعودي للأعمال",
   "portal_url": "https://business.sa",
   "ministry_ar": "وزارة التجارة",
@@ -95,6 +96,5 @@
   ],
   "last_updated": "########",
   "penalty_ar": "عدم التجديد خلال 30 يوماً من الانتهاء يعرّض المنشأة لغرامة تصل إلى 10,000 ر.س وقد يؤدي للشطب",
-  "description_en": "This service allows you to renew your commercial registration electronically before it expires to avoid fines and deregistration.",
   "penalty_en": "Failure to renew within 30 days of expiry exposes the business to fines up to SAR 10,000 and possible deregistration"
 }

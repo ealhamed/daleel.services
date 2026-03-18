@@ -1,0 +1,93 @@
+{
+  "slug": "sehhaty-appointment",
+  "title_ar": "حجز موعد عبر تطبيق صحتي",
+  "title_en": "Book appointment via Sehhaty app",
+  "description_ar": "تطبيق صحتي هو المنصة الصحية الرسمية في المملكة. يتيح حجز مواعيد في المراكز الصحية والمستشفيات الحكومية، والاطلاع على السجل الصحي والتطعيمات.",
+  "description_en": "Sehhaty is the official health platform in Saudi Arabia. It allows booking appointments at health centers and government hospitals, and viewing health records and vaccinations.",
+  "portal": "تطبيق صحتي",
+  "portal_url": "https://www.moh.gov.sa/en/eServices/Pages/Sehhaty.aspx",
+  "ministry_ar": "وزارة الصحة",
+  "ministry_en": "Ministry of Health",
+  "category_ar": "خدمات صحية",
+  "category_en": "Health Services",
+  "tags": [
+    {
+      "text_ar": "تطبيق جوال",
+      "type": "info"
+    }
+  ],
+  "checks": [
+    {
+      "text_ar": "تطبيق صحتي مثبت على الجوال",
+      "text_en": "Sehhaty app installed on your phone"
+    },
+    {
+      "text_ar": "حساب نفاذ مفعّل",
+      "text_en": "Activated Nafath account"
+    },
+    {
+      "text_ar": "رقم هوية وطنية أو إقامة",
+      "text_en": "National ID or Iqama number"
+    }
+  ],
+  "fees": [
+    {
+      "label_ar": "الخدمة",
+      "label_en": "Service",
+      "amount": 0,
+      "unit_ar": "مجاني",
+      "unit_en": "Free"
+    }
+  ],
+  "steps": [
+    {
+      "text_ar": "حمّل تطبيق صحتي من متجر التطبيقات",
+      "text_en": "Download the Sehhaty app from the app store"
+    },
+    {
+      "text_ar": "سجّل الدخول عبر النفاذ الوطني",
+      "text_en": "Log in via National Access (Nafath)"
+    },
+    {
+      "text_ar": "اختر \"حجز موعد\" من القائمة الرئيسية",
+      "text_en": "Select \"Book Appointment\" from the main menu"
+    },
+    {
+      "text_ar": "حدد المركز الصحي أو المستشفى والتخصص",
+      "text_en": "Choose the health center or hospital and specialty"
+    },
+    {
+      "text_ar": "اختر التاريخ والوقت المناسب",
+      "text_en": "Select a suitable date and time"
+    },
+    {
+      "text_ar": "أكّد الحجز واحتفظ برقم الموعد",
+      "text_en": "Confirm the booking and save the appointment number"
+    }
+  ],
+  "troubles": [
+    {
+      "question_ar": "لا تظهر مواعيد متاحة",
+      "question_en": "No available appointments are showing",
+      "answer_ar": "جرّب مراكز صحية أخرى قريبة أو حاول في أوقات مختلفة. المواعيد تُحدث يومياً.",
+      "answer_en": "Try other nearby health centers or check at different times. Appointments are updated daily."
+    },
+    {
+      "question_ar": "هل يمكن حجز موعد لأفراد العائلة؟",
+      "question_en": "Can I book for family members?",
+      "answer_ar": "نعم، يمكنك إضافة أفراد العائلة (الزوجة والأبناء) في التطبيق وحجز مواعيد لهم.",
+      "answer_en": "Yes, you can add family members (spouse and children) in the app and book appointments for them."
+    },
+    {
+      "question_ar": "كيف ألغي الموعد؟",
+      "question_en": "How do I cancel an appointment?",
+      "answer_ar": "من قائمة \"مواعيدي\" في التطبيق، اختر الموعد واضغط \"إلغاء\".",
+      "answer_en": "From the \"My Appointments\" section in the app, select the appointment and tap \"Cancel\"."
+    }
+  ],
+  "related_slugs": [
+    "renew-health-insurance",
+    "nafath-setup"
+  ],
+  "last_updated": "2026-03-18"
+}

@@ -3,6 +3,7 @@
   "title_ar": "إصدار وتجديد رخصة عمل عبر قوى",
   "title_en": "Issue or renew work permit via Qiwa",
   "description_ar": "تتيح هذه الخدمة لأصحاب المنشآت إصدار أو تجديد رخص العمل للعمالة الوافدة إلكترونياً عبر منصة قوى، وهي مطلوبة لتجديد الإقامة.",
+  "description_en": "This service allows business owners to issue or renew work permits for foreign workers electronically via the Qiwa platform. Work permits are required for Iqama renewal.",
   "portal": "منصة قوى",
   "portal_url": "https://www.qiwa.sa",
   "ministry_ar": "وزارة الموارد البشرية والتنمية الاجتماعية",
@@ -109,6 +110,5 @@
   ],
   "last_updated": "########",
   "penalty_ar": "رخصة العمل المنتهية تمنع تجديد الإقامة وقد تؤثر على نطاقات المنشأة",
-  "description_en": "This service allows business owners to issue or renew work permits for foreign workers electronically via the Qiwa platform. Work permits are required for Iqama renewal.",
   "penalty_en": "An expired work permit prevents Iqama renewal and may affect the establishment's Nitaqat rating"
 }

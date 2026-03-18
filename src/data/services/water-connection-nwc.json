@@ -1,0 +1,83 @@
+{
+  "slug": "water-connection-nwc",
+  "title_ar": "طلب إيصال مياه عبر شركة المياه الوطنية",
+  "title_en": "Request water connection via NWC",
+  "description_ar": "تتيح هذه الخدمة طلب إيصال خدمة المياه لعقار جديد أو نقل الحساب إلكترونياً عبر شركة المياه الوطنية.",
+  "description_en": "This service allows you to request water connection for a new property or transfer an account electronically via the National Water Company.",
+  "portal": "شركة المياه الوطنية (NWC)",
+  "portal_url": "https://www.nwc.com.sa",
+  "ministry_ar": "شركة المياه الوطنية",
+  "ministry_en": "National Water Company (NWC)",
+  "category_ar": "خدمات الإسكان",
+  "category_en": "Housing Services",
+  "tags": [
+    {
+      "text_ar": "خدمة إلكترونية",
+      "type": "info"
+    }
+  ],
+  "checks": [
+    {
+      "text_ar": "صك ملكية أو عقد إيجار موثق",
+      "text_en": "Property deed or registered rental contract"
+    },
+    {
+      "text_ar": "هوية وطنية أو إقامة سارية",
+      "text_en": "Valid national ID or Iqama"
+    }
+  ],
+  "fees": [
+    {
+      "label_ar": "رسوم الإيصال",
+      "label_en": "Connection fee",
+      "amount": 0,
+      "unit_ar": "تختلف حسب المنطقة",
+      "unit_en": "Varies by area"
+    }
+  ],
+  "steps": [
+    {
+      "text_ar": "ادخل موقع أو تطبيق شركة المياه الوطنية",
+      "text_en": "Go to the NWC website or app"
+    },
+    {
+      "text_ar": "سجّل الدخول أو أنشئ حساباً",
+      "text_en": "Log in or create an account"
+    },
+    {
+      "text_ar": "اختر \"طلب إيصال جديد\"",
+      "text_en": "Select \"New Connection Request\""
+    },
+    {
+      "text_ar": "أدخل بيانات العقار وارفع المستندات المطلوبة",
+      "text_en": "Enter property details and upload required documents"
+    },
+    {
+      "text_ar": "سدد الرسوم المطلوبة",
+      "text_en": "Pay the required fees"
+    },
+    {
+      "text_ar": "تابع حالة الطلب عبر التطبيق",
+      "text_en": "Track application status via the app"
+    }
+  ],
+  "troubles": [
+    {
+      "question_ar": "الفاتورة مرتفعة جداً",
+      "question_en": "The bill is very high",
+      "answer_ar": "قدّم اعتراضاً عبر التطبيق أو اتصل بـ 920001744. قد يكون هناك تسريب يحتاج لإصلاح.",
+      "answer_en": "Submit an objection via the app or call 920001744. There may be a leak that needs repair."
+    },
+    {
+      "question_ar": "كيف أنقل حساب المياه باسمي؟",
+      "question_en": "How do I transfer the water account to my name?",
+      "answer_ar": "عبر التطبيق اختر \"نقل ملكية\" مع تقديم عقد الإيجار أو صك الملكية.",
+      "answer_en": "Via the app, select \"Transfer Ownership\" with a rental contract or property deed."
+    }
+  ],
+  "related_slugs": [
+    "electricity-connection-sec",
+    "ejar-rental-contract"
+  ],
+  "last_updated": "2026-03-18"
+}

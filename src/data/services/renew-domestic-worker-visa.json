@@ -1,0 +1,83 @@
+{
+  "slug": "renew-domestic-worker-visa",
+  "title_ar": "تجديد تأشيرة العمالة المنزلية",
+  "title_en": "Renew domestic worker visa",
+  "description_ar": "تتيح هذه الخدمة لصاحب العمل تجديد تأشيرة العمالة المنزلية (خادمة، سائق، مربية) إلكترونياً عبر منصة مساند أو أبشر.",
+  "description_en": "This service allows employers to renew a domestic worker visa (maid, driver, nanny) electronically via Musaned or Absher.",
+  "portal": "مساند / أبشر",
+  "portal_url": "https://www.musaned.com.sa",
+  "ministry_ar": "وزارة الموارد البشرية",
+  "ministry_en": "Ministry of Human Resources",
+  "category_ar": "خدمات التأشيرات",
+  "category_en": "Visa Services",
+  "tags": [
+    {
+      "text_ar": "عمالة منزلية",
+      "type": "info"
+    }
+  ],
+  "checks": [
+    {
+      "text_ar": "حساب أبشر أو مساند مفعّل",
+      "text_en": "Activated Absher or Musaned account"
+    },
+    {
+      "text_ar": "جواز سفر العامل ساري",
+      "text_en": "Worker passport is valid"
+    },
+    {
+      "text_ar": "لا توجد بلاغات تغيب",
+      "text_en": "No absconding reports"
+    }
+  ],
+  "fees": [
+    {
+      "label_ar": "رسوم التجديد",
+      "label_en": "Renewal fee",
+      "amount": 600,
+      "unit_ar": "ر.س / سنة",
+      "unit_en": "SAR/year"
+    }
+  ],
+  "steps": [
+    {
+      "text_ar": "ادخل أبشر أفراد أو منصة مساند",
+      "text_en": "Go to Absher Individuals or Musaned platform"
+    },
+    {
+      "text_ar": "اختر \"تجديد تأشيرة عمالة منزلية\"",
+      "text_en": "Select \"Renew domestic worker visa\""
+    },
+    {
+      "text_ar": "حدد العامل المطلوب تجديد تأشيرته",
+      "text_en": "Select the worker whose visa needs renewal"
+    },
+    {
+      "text_ar": "سدد الرسوم عبر سداد",
+      "text_en": "Pay the fees via SADAD"
+    },
+    {
+      "text_ar": "يتم التجديد فوراً بعد السداد",
+      "text_en": "Renewal is processed immediately after payment"
+    }
+  ],
+  "troubles": [
+    {
+      "question_ar": "ظهرت رسالة \"لا يمكن التجديد\"",
+      "question_en": "\"Cannot renew\" message appeared",
+      "answer_ar": "تأكد من عدم وجود بلاغ تغيب أو مخالفات على العامل. تحقق أيضاً من سريان جواز السفر.",
+      "answer_en": "Ensure there are no absconding reports or violations against the worker. Also verify the passport is valid."
+    },
+    {
+      "question_ar": "هل يمكن التجديد بعد انتهاء التأشيرة؟",
+      "question_en": "Can I renew after the visa expires?",
+      "answer_ar": "نعم، لكن قد تُفرض غرامات تأخير. يُنصح بالتجديد قبل الانتهاء.",
+      "answer_en": "Yes, but late fees may apply. It is recommended to renew before expiry."
+    }
+  ],
+  "related_slugs": [
+    "musaned-domestic-worker-visa",
+    "renew-iqama"
+  ],
+  "last_updated": "2026-03-18"
+}

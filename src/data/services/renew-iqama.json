@@ -3,6 +3,7 @@
   "title_ar": "تجديد هوية مقيم عبر أبشر",
   "title_en": "Renew resident identity (Iqama) via Absher",
   "description_ar": "تمكّنك هذه الخدمة من تجديد هوية مقيم (إقامة) لأحد أفراد أسرتك أو العمالة المنزلية إلكترونياً عبر منصة أبشر، دون الحاجة لزيارة الجوازات.",
+  "description_en": "This service enables you to renew a resident identity (Iqama) for your family members or domestic workers electronically via Absher, without visiting the Passport office.",
   "portal": "أبشر أفراد / أعمال",
   "portal_url": "https://www.absher.sa",
   "ministry_ar": "وزارة الداخلية",
@@ -127,6 +128,5 @@
   ],
   "last_updated": "########",
   "penalty_ar": "غرامة التأخير: 500 ر.س للمرة الأولى — 1,000 ر.س للتكرار — الإبعاد للمرة الثالثة",
-  "description_en": "This service enables you to renew a resident identity (Iqama) for your family members or domestic workers electronically via Absher, without visiting the Passport office.",
   "penalty_en": "Late renewal fine: SAR 500 first time — SAR 1,000 repeat — deportation third time"
 }

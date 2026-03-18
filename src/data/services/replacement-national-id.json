@@ -3,6 +3,7 @@
   "title_ar": "إصدار بدل فاقد أو تالف للهوية الوطنية عبر أبشر",
   "title_en": "Issue replacement national ID (lost or damaged) via Absher",
   "description_ar": "تتيح لك هذه الخدمة إصدار بطاقة هوية وطنية بدل فاقد أو تالف إلكترونياً عبر أبشر، مع إمكانية توصيلها لعنوانك الوطني.",
+  "description_en": "This service allows you to issue a replacement national ID card (lost or damaged) electronically via Absher, with delivery to your national address.",
   "portal": "أبشر أفراد",
   "portal_url": "https://www.absher.sa",
   "ministry_ar": "وزارة الداخلية",
@@ -101,6 +102,5 @@
   ],
   "last_updated": "########",
   "penalty_ar": "غرامة فقدان الهوية قد تصل إلى 100 ر.س في حال التكرار",
-  "description_en": "This service allows you to issue a replacement national ID card (lost or damaged) electronically via Absher, with delivery to your national address.",
   "penalty_en": "The fine for losing an ID card can reach SAR 100 for repeat cases"
 }

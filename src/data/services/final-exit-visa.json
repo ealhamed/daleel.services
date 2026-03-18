@@ -3,6 +3,7 @@
   "title_ar": "إصدار تأشيرة خروج نهائي عبر أبشر",
   "title_en": "Issue final exit visa via Absher",
   "description_ar": "تمكّن هذه الخدمة صاحب العمل من إصدار تأشيرة خروج نهائي لأحد العاملين لديه، وذلك لمغادرة المملكة بشكل نهائي بعد انتهاء العلاقة العمالية.",
+  "description_en": "This service enables employers to issue a final exit visa for an employee to leave the Kingdom permanently after the employment relationship ends.",
   "portal": "أبشر أعمال",
   "portal_url": "https://www.absher.sa",
   "ministry_ar": "وزارة الداخلية",
@@ -101,6 +102,5 @@
     "exit-reentry-visa",
     "transfer-sponsorship"
   ],
-  "last_updated": "########",
-  "description_en": "This service enables employers to issue a final exit visa for an employee to leave the Kingdom permanently after the employment relationship ends."
+  "last_updated": "########"
 }

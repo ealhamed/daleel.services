@@ -3,6 +3,7 @@
   "title_ar": "الاستعلام عن مدة الاشتراك في التأمينات",
   "title_en": "Check GOSI subscription period",
   "description_ar": "تتيح لك هذه الخدمة معرفة مدة اشتراكك في التأمينات الاجتماعية والتحقق من تسجيل جهة عملك لك بشكل صحيح.",
+  "description_en": "This service allows you to check your social insurance subscription period and verify that your employer has registered you correctly.",
   "portal": "التأمينات أون لاين",
   "portal_url": "https://www.gosi.gov.sa",
   "ministry_ar": "المؤسسة العامة للتأمينات الاجتماعية",
@@ -77,6 +78,5 @@
   "related_slugs": [
     "gosi-register-employee"
   ],
-  "last_updated": "########",
-  "description_en": "This service allows you to check your social insurance subscription period and verify that your employer has registered you correctly."
+  "last_updated": "########"
 }

@@ -3,6 +3,7 @@
   "title_ar": "تحويل تأشيرة زيارة إلى إقامة",
   "title_en": "Convert visit visa to Iqama (residence permit)",
   "description_ar": "في بعض الحالات يمكن تحويل تأشيرة الزيارة إلى إقامة عمل أو إقامة مرافق دون الحاجة لمغادرة المملكة والعودة.",
+  "description_en": "In some cases, a visit visa can be converted to a work residence or dependent residence without leaving the Kingdom and returning.",
   "portal": "أبشر أعمال / قوى",
   "portal_url": "https://www.absher.sa",
   "ministry_ar": "وزارة الداخلية / وزارة الموارد البشرية",
@@ -110,6 +111,5 @@
     "family-visit-visa",
     "exit-reentry-visa"
   ],
-  "last_updated": "########",
-  "description_en": "In some cases, a visit visa can be converted to a work residence or dependent residence without leaving the Kingdom and returning."
+  "last_updated": "########"
 }

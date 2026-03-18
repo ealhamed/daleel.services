@@ -3,6 +3,7 @@
   "title_ar": "تقديم شكوى عمالية عبر قوى",
   "title_en": "File labor complaint via Qiwa",
   "description_ar": "تتيح هذه الخدمة للعاملين تقديم شكوى ضد صاحب العمل في حالات مثل: تأخر الرواتب، عدم توفير بيئة عمل آمنة، أو مخالفة شروط العقد.",
+  "description_en": "This service allows workers to file a complaint against their employer in cases such as: delayed salary, unsafe work environment, or contract violations.",
   "portal": "منصة قوى",
   "portal_url": "https://www.qiwa.sa",
   "ministry_ar": "وزارة الموارد البشرية والتنمية الاجتماعية",
@@ -102,6 +103,5 @@
     "transfer-sponsorship",
     "renew-work-permit"
   ],
-  "last_updated": "########",
-  "description_en": "This service allows workers to file a complaint against their employer in cases such as: delayed salary, unsafe work environment, or contract violations."
+  "last_updated": "########"
 }

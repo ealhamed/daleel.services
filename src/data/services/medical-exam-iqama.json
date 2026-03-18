@@ -1,0 +1,82 @@
+{
+  "slug": "medical-exam-iqama",
+  "title_ar": "الفحص الطبي للإقامة ورخصة القيادة",
+  "title_en": "Medical exam for Iqama and driving license",
+  "description_ar": "الفحص الطبي مطلوب لإصدار أو تجديد الإقامة ولإصدار أو تجديد رخصة القيادة. يتم في المستشفيات والمستوصفات المعتمدة وتُرسل النتائج إلكترونياً.",
+  "description_en": "A medical exam is required for Iqama issuance/renewal and driving license issuance/renewal. It is done at approved hospitals and clinics, and results are sent electronically.",
+  "portal": "المستشفيات والمستوصفات المعتمدة",
+  "portal_url": "https://www.moh.gov.sa",
+  "ministry_ar": "وزارة الصحة",
+  "ministry_en": "Ministry of Health",
+  "category_ar": "خدمات صحية",
+  "category_en": "Health Services",
+  "tags": [
+    {
+      "text_ar": "مطلوب لتجديد الإقامة والرخصة",
+      "type": "warning"
+    }
+  ],
+  "checks": [
+    {
+      "text_ar": "هوية وطنية أو إقامة سارية",
+      "text_en": "Valid national ID or Iqama"
+    },
+    {
+      "text_ar": "صورة شخصية حديثة",
+      "text_en": "Recent passport photo"
+    }
+  ],
+  "fees": [
+    {
+      "label_ar": "فحص رخصة القيادة",
+      "label_en": "Driving license medical exam",
+      "amount": 150,
+      "unit_ar": "ر.س تقريباً",
+      "unit_en": "SAR approx."
+    },
+    {
+      "label_ar": "فحص الإقامة (عمالة)",
+      "label_en": "Iqama medical exam (workers)",
+      "amount": 300,
+      "unit_ar": "ر.س تقريباً",
+      "unit_en": "SAR approx."
+    }
+  ],
+  "steps": [
+    {
+      "text_ar": "توجّه لأي مستشفى أو مستوصف معتمد",
+      "text_en": "Visit any approved hospital or clinic"
+    },
+    {
+      "text_ar": "اطلب فحص طبي (حدد نوعه: إقامة أو رخصة)",
+      "text_en": "Request a medical exam (specify: Iqama or driving license)"
+    },
+    {
+      "text_ar": "يشمل الفحص: النظر، فصيلة الدم، والأمراض المعدية",
+      "text_en": "The exam includes: vision, blood type, and infectious diseases"
+    },
+    {
+      "text_ar": "النتائج تُرسل إلكترونياً لأبشر خلال 24-48 ساعة",
+      "text_en": "Results are sent electronically to Absher within 24-48 hours"
+    }
+  ],
+  "troubles": [
+    {
+      "question_ar": "النتيجة لم تظهر في أبشر",
+      "question_en": "The result does not appear in Absher",
+      "answer_ar": "انتظر 48 ساعة. إذا لم تظهر، راجع المستوصف للتأكد من إرسالها إلكترونياً.",
+      "answer_en": "Wait 48 hours. If it does not appear, contact the clinic to confirm it was sent electronically."
+    },
+    {
+      "question_ar": "الفحص الطبي مرفوض — ماذا أفعل؟",
+      "question_en": "The medical exam was rejected — what should I do?",
+      "answer_ar": "قد يكون بسبب مشكلة صحية. راجع الطبيب للتفاصيل والعلاج المطلوب ثم أعد الفحص.",
+      "answer_en": "It may be due to a health issue. Consult the doctor for details and required treatment, then retake the exam."
+    }
+  ],
+  "related_slugs": [
+    "renew-iqama",
+    "renew-driving-license"
+  ],
+  "last_updated": "2026-03-18"
+}

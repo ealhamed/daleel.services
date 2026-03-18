@@ -1,0 +1,97 @@
+{
+  "slug": "saudi-tourist-evisa",
+  "title_ar": "إصدار تأشيرة سياحية إلكترونية (eVisa)",
+  "title_en": "Apply for Saudi tourist eVisa",
+  "description_ar": "تتيح تأشيرة السياحة الإلكترونية لمواطني أكثر من 60 دولة زيارة المملكة لأغراض السياحة والعمرة والفعاليات، وتصدر خلال دقائق عبر الإنترنت.",
+  "description_en": "The electronic tourist visa allows citizens of 60+ countries to visit Saudi Arabia for tourism, Umrah, and events. It is issued within minutes online.",
+  "portal": "منصة Visit Saudi",
+  "portal_url": "https://visa.visitsaudi.com",
+  "ministry_ar": "وزارة السياحة / وزارة الخارجية",
+  "ministry_en": "Ministry of Tourism / MOFA",
+  "category_ar": "خدمات التأشيرات",
+  "category_en": "Visa Services",
+  "tags": [
+    {
+      "text_ar": "متاحة لـ 60+ جنسية",
+      "type": "info"
+    }
+  ],
+  "checks": [
+    {
+      "text_ar": "جواز سفر ساري لمدة 6 أشهر على الأقل",
+      "text_en": "Passport valid for at least 6 months"
+    },
+    {
+      "text_ar": "صورة شخصية رقمية",
+      "text_en": "Digital passport photo"
+    },
+    {
+      "text_ar": "بطاقة ائتمانية أو مدى للدفع",
+      "text_en": "Credit or debit card for payment"
+    },
+    {
+      "text_ar": "تأمين صحي (يُضاف تلقائياً مع التأشيرة)",
+      "text_en": "Health insurance (included automatically with visa)"
+    }
+  ],
+  "fees": [
+    {
+      "label_ar": "تأشيرة سياحية (سنة - متعددة)",
+      "label_en": "Tourist visa (1 year - multiple entry)",
+      "amount": 535,
+      "unit_ar": "ر.س شامل التأمين",
+      "unit_en": "SAR including insurance"
+    }
+  ],
+  "steps": [
+    {
+      "text_ar": "ادخل موقع visa.visitsaudi.com",
+      "text_en": "Go to visa.visitsaudi.com"
+    },
+    {
+      "text_ar": "اختر جنسيتك وتأكد من الأهلية",
+      "text_en": "Select your nationality and confirm eligibility"
+    },
+    {
+      "text_ar": "أدخل بيانات جواز السفر والمعلومات الشخصية",
+      "text_en": "Enter passport details and personal information"
+    },
+    {
+      "text_ar": "ارفع الصورة الشخصية",
+      "text_en": "Upload your passport photo"
+    },
+    {
+      "text_ar": "ادفع الرسوم عبر البطاقة الائتمانية",
+      "text_en": "Pay the fee via credit card"
+    },
+    {
+      "text_ar": "استلم التأشيرة عبر البريد الإلكتروني خلال دقائق",
+      "text_en": "Receive the visa via email within minutes"
+    }
+  ],
+  "troubles": [
+    {
+      "question_ar": "جنسيتي غير موجودة في القائمة",
+      "question_en": "My nationality is not on the list",
+      "answer_ar": "ليست كل الجنسيات مؤهلة للتأشيرة الإلكترونية. يمكنك التقديم عبر السفارة أو القنصلية السعودية في بلدك.",
+      "answer_en": "Not all nationalities are eligible for the eVisa. You can apply through the Saudi embassy or consulate in your country."
+    },
+    {
+      "question_ar": "كم مدة الإقامة المسموحة؟",
+      "question_en": "How long can I stay?",
+      "answer_ar": "حتى 90 يوماً في كل زيارة، بحد أقصى 180 يوماً في السنة. التأشيرة صالحة لسنة كاملة ومتعددة الدخول.",
+      "answer_en": "Up to 90 days per visit, maximum 180 days per year. The visa is valid for one full year with multiple entries."
+    },
+    {
+      "question_ar": "هل يمكنني أداء العمرة بتأشيرة سياحية؟",
+      "question_en": "Can I perform Umrah with a tourist visa?",
+      "answer_ar": "نعم، تأشيرة السياحة تتيح أداء العمرة. لكن الحج يتطلب تصريحاً خاصاً.",
+      "answer_en": "Yes, the tourist visa allows Umrah. However, Hajj requires a special permit."
+    }
+  ],
+  "related_slugs": [
+    "family-visit-visa",
+    "hajj-umrah-permit"
+  ],
+  "last_updated": "2026-03-18"
+}

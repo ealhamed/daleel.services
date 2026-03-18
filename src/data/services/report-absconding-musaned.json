@@ -3,6 +3,7 @@
   "title_ar": "تقديم بلاغ تغيب عمالة منزلية عبر مساند",
   "title_en": "Report absconding domestic worker via Musaned",
   "description_ar": "تتيح هذه الخدمة لصاحب العمل تقديم بلاغ تغيب على عامل منزلي ترك العمل بدون سبب مشروع.",
+  "description_en": "This service allows employers to file an absconding report against a domestic worker who left work without a legitimate reason.",
   "portal": "منصة مساند",
   "portal_url": "https://www.musaned.com.sa",
   "ministry_ar": "وزارة الموارد البشرية والتنمية الاجتماعية",
@@ -86,6 +87,5 @@
     "musaned-domestic-worker-visa",
     "musaned-transfer-domestic-worker"
   ],
-  "last_updated": "########",
-  "description_en": "This service allows employers to file an absconding report against a domestic worker who left work without a legitimate reason."
+  "last_updated": "########"
 }

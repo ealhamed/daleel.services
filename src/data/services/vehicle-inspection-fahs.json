@@ -3,6 +3,7 @@
   "title_ar": "إجراء الفحص الدوري للمركبة (فحص)",
   "title_en": "Vehicle periodic inspection (Fahs)",
   "description_ar": "الفحص الدوري إلزامي لجميع المركبات في المملكة ومطلوب لتجديد استمارة السيارة. يتم في محطات الفحص المعتمدة.",
+  "description_en": "Periodic vehicle inspection is mandatory for all vehicles in the Kingdom and required for vehicle registration renewal. It is done at approved inspection stations.",
   "portal": "محطات الفحص الدوري",
   "portal_url": "https://www.mvpi.com.sa",
   "ministry_ar": "الهيئة السعودية للمواصفات والمقاييس",
@@ -111,6 +112,5 @@
   ],
   "last_updated": "########",
   "penalty_ar": "القيادة بدون فحص دوري ساري مخالفة مرورية وتمنع تجديد الاستمارة",
-  "description_en": "Periodic vehicle inspection is mandatory for all vehicles in the Kingdom and required for vehicle registration renewal. It is done at approved inspection stations.",
   "penalty_en": "Driving without a valid periodic inspection is a traffic violation and prevents vehicle registration renewal"
 }

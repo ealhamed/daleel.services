@@ -1,0 +1,83 @@
+{
+  "slug": "maroof-ecommerce",
+  "title_ar": "توثيق متجر إلكتروني عبر معروف",
+  "title_en": "Certify online store via Maroof",
+  "description_ar": "منصة معروف تتيح لأصحاب المتاجر الإلكترونية توثيق أعمالهم وبناء ثقة مع العملاء. التوثيق مطلوب للإعلان في بعض المنصات.",
+  "description_en": "The Maroof platform allows online store owners to certify their businesses and build customer trust. Certification is required for advertising on some platforms.",
+  "portal": "منصة معروف",
+  "portal_url": "https://maroof.sa",
+  "ministry_ar": "وزارة التجارة",
+  "ministry_en": "Ministry of Commerce",
+  "category_ar": "خدمات مالية",
+  "category_en": "Financial Services",
+  "tags": [
+    {
+      "text_ar": "مطلوب للإعلانات الإلكترونية",
+      "type": "warning"
+    }
+  ],
+  "checks": [
+    {
+      "text_ar": "سجل تجاري أو وثيقة عمل حر",
+      "text_en": "Commercial registration or freelance permit"
+    },
+    {
+      "text_ar": "حساب نفاذ مفعّل",
+      "text_en": "Activated Nafath account"
+    },
+    {
+      "text_ar": "رابط المتجر الإلكتروني أو حساب التواصل الاجتماعي",
+      "text_en": "Online store URL or social media account"
+    }
+  ],
+  "fees": [
+    {
+      "label_ar": "التوثيق",
+      "label_en": "Certification",
+      "amount": 0,
+      "unit_ar": "مجاني",
+      "unit_en": "Free"
+    }
+  ],
+  "steps": [
+    {
+      "text_ar": "ادخل منصة معروف maroof.sa",
+      "text_en": "Go to maroof.sa"
+    },
+    {
+      "text_ar": "سجّل الدخول عبر النفاذ الوطني",
+      "text_en": "Log in via National Access (Nafath)"
+    },
+    {
+      "text_ar": "اختر \"إضافة منشأة\" وأدخل بيانات السجل التجاري",
+      "text_en": "Select \"Add Business\" and enter commercial registration details"
+    },
+    {
+      "text_ar": "أضف رابط متجرك الإلكتروني",
+      "text_en": "Add your online store link"
+    },
+    {
+      "text_ar": "يتم التوثيق خلال 1-3 أيام عمل",
+      "text_en": "Certification is completed within 1-3 business days"
+    }
+  ],
+  "troubles": [
+    {
+      "question_ar": "هل يمكن التوثيق بدون سجل تجاري؟",
+      "question_en": "Can I certify without a commercial registration?",
+      "answer_ar": "نعم، يمكن التوثيق بوثيقة العمل الحر.",
+      "answer_en": "Yes, you can certify with a freelance work permit."
+    },
+    {
+      "question_ar": "ما فائدة التوثيق؟",
+      "question_en": "What is the benefit of certification?",
+      "answer_ar": "يبني ثقة العملاء، مطلوب للإعلان في سناب شات وبعض المنصات، ويحمي حقوقك القانونية.",
+      "answer_en": "It builds customer trust, is required for Snapchat ads and some platforms, and protects your legal rights."
+    }
+  ],
+  "related_slugs": [
+    "issue-commercial-registration",
+    "freelance-permit"
+  ],
+  "last_updated": "2026-03-18"
+}

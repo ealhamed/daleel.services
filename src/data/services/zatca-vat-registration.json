@@ -3,6 +3,7 @@
   "title_ar": "التسجيل في ضريبة القيمة المضافة عبر هيئة الزكاة",
   "title_en": "Register for VAT via ZATCA",
   "description_ar": "يجب على كل منشأة تتجاوز إيراداتها السنوية 375,000 ر.س التسجيل في ضريبة القيمة المضافة (15%) لدى هيئة الزكاة والضريبة والجمارك.",
+  "description_en": "Every establishment with annual revenue exceeding SAR 375,000 must register for Value Added Tax (15%) with the Zakat, Tax and Customs Authority (ZATCA).",
   "portal": "هيئة الزكاة والضريبة والجمارك",
   "portal_url": "https://zatca.gov.sa",
   "ministry_ar": "هيئة الزكاة والضريبة والجمارك",
@@ -102,6 +103,5 @@
   ],
   "last_updated": "########",
   "penalty_ar": "عدم التسجيل مع تجاوز الحد يعرّض المنشأة لغرامة تصل إلى 10,000 ر.س",
-  "description_en": "Every establishment with annual revenue exceeding SAR 375,000 must register for Value Added Tax (15%) with the Zakat, Tax and Customs Authority (ZATCA).",
   "penalty_en": "Failure to register while exceeding the threshold exposes the establishment to fines up to SAR 10,000"
 }

@@ -3,6 +3,7 @@
   "title_ar": "تجديد الهوية الوطنية عبر أبشر",
   "title_en": "Renew national ID (Hawiyya) via Absher",
   "description_ar": "تتيح لك هذه الخدمة تجديد بطاقة الهوية الوطنية السعودية إلكترونياً عبر منصة أبشر، وتوصيلها لعنوانك الوطني.",
+  "description_en": "This service allows you to renew your Saudi national ID card electronically via Absher, with delivery to your national address.",
   "portal": "أبشر أفراد",
   "portal_url": "https://www.absher.sa",
   "ministry_ar": "وزارة الداخلية",
@@ -95,6 +96,5 @@
   ],
   "last_updated": "########",
   "penalty_ar": "غرامة تأخير تجديد الهوية تصل إلى 100 ر.س",
-  "description_en": "This service allows you to renew your Saudi national ID card electronically via Absher, with delivery to your national address.",
   "penalty_en": "Late ID renewal fine up to SAR 100"
 }

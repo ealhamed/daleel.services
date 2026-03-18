@@ -1,0 +1,87 @@
+{
+  "slug": "electricity-connection-sec",
+  "title_ar": "طلب إيصال كهرباء عبر الشركة السعودية للكهرباء",
+  "title_en": "Request electricity connection via SEC",
+  "description_ar": "تتيح هذه الخدمة طلب إيصال التيار الكهربائي لعقار جديد أو نقل الحساب إلكترونياً عبر تطبيق أو موقع الشركة السعودية للكهرباء.",
+  "description_en": "This service allows you to request electricity connection for a new property or transfer an account electronically via the Saudi Electricity Company app or website.",
+  "portal": "الشركة السعودية للكهرباء (SEC)",
+  "portal_url": "https://www.se.com.sa",
+  "ministry_ar": "الشركة السعودية للكهرباء",
+  "ministry_en": "Saudi Electricity Company (SEC)",
+  "category_ar": "خدمات الإسكان",
+  "category_en": "Housing Services",
+  "tags": [
+    {
+      "text_ar": "خدمة إلكترونية",
+      "type": "info"
+    }
+  ],
+  "checks": [
+    {
+      "text_ar": "صك ملكية أو عقد إيجار موثق",
+      "text_en": "Property deed or registered rental contract"
+    },
+    {
+      "text_ar": "هوية وطنية أو إقامة سارية",
+      "text_en": "Valid national ID or Iqama"
+    },
+    {
+      "text_ar": "رخصة بناء أو شهادة إتمام بناء",
+      "text_en": "Building permit or completion certificate"
+    }
+  ],
+  "fees": [
+    {
+      "label_ar": "رسوم الإيصال (تختلف حسب الحمل)",
+      "label_en": "Connection fee (varies by load)",
+      "amount": 0,
+      "unit_ar": "تختلف حسب الحمل الكهربائي",
+      "unit_en": "Varies by electrical load"
+    }
+  ],
+  "steps": [
+    {
+      "text_ar": "ادخل موقع أو تطبيق الشركة السعودية للكهرباء",
+      "text_en": "Go to the SEC website or app"
+    },
+    {
+      "text_ar": "سجّل الدخول أو أنشئ حساباً",
+      "text_en": "Log in or create an account"
+    },
+    {
+      "text_ar": "اختر \"إيصال خدمة جديدة\"",
+      "text_en": "Select \"New Service Connection\""
+    },
+    {
+      "text_ar": "أدخل بيانات العقار وارفع المستندات",
+      "text_en": "Enter property details and upload documents"
+    },
+    {
+      "text_ar": "سدد رسوم الإيصال",
+      "text_en": "Pay the connection fee"
+    },
+    {
+      "text_ar": "تابع الطلب — يتم الإيصال خلال 5-10 أيام عمل",
+      "text_en": "Track the request — connection is done within 5-10 business days"
+    }
+  ],
+  "troubles": [
+    {
+      "question_ar": "كم تستغرق عملية الإيصال؟",
+      "question_en": "How long does the connection take?",
+      "answer_ar": "عادة 5-10 أيام عمل بعد سداد الرسوم واستكمال المتطلبات.",
+      "answer_en": "Usually 5-10 business days after paying fees and completing requirements."
+    },
+    {
+      "question_ar": "كيف أنقل حساب الكهرباء باسمي؟",
+      "question_en": "How do I transfer the electricity account to my name?",
+      "answer_ar": "عبر تطبيق SEC اختر \"نقل ملكية حساب\" مع تقديم عقد الإيجار أو صك الملكية.",
+      "answer_en": "Via the SEC app, select \"Transfer Account Ownership\" with a rental contract or property deed."
+    }
+  ],
+  "related_slugs": [
+    "ejar-rental-contract",
+    "sakani-housing-support"
+  ],
+  "last_updated": "2026-03-18"
+}

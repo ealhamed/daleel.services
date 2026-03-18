@@ -3,6 +3,7 @@
   "title_ar": "طلب تقرير سمة الائتماني",
   "title_en": "Request SIMAH credit report",
   "description_ar": "تقرير سمة يوضح سجلك الائتماني لدى البنوك وشركات التمويل. مطلوب عند التقديم على قرض أو بطاقة ائتمانية أو تمويل عقاري.",
+  "description_en": "The SIMAH report shows your credit history with banks and finance companies. It is required when applying for loans, credit cards, or real estate financing.",
   "portal": "سمة الائتمانية",
   "portal_url": "https://www.simah.com",
   "ministry_ar": "الشركة السعودية للمعلومات الائتمانية (سمة)",
@@ -97,6 +98,5 @@
     "absher-account-registration",
     "nafath-setup"
   ],
-  "last_updated": "########",
-  "description_en": "The SIMAH report shows your credit history with banks and finance companies. It is required when applying for loans, credit cards, or real estate financing."
+  "last_updated": "########"
 }

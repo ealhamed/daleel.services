@@ -3,6 +3,7 @@
   "title_ar": "الاستعلام عن المخالفات المرورية برقم الهوية",
   "title_en": "Check traffic violations by ID number",
   "description_ar": "تتيح لك هذه الخدمة الاستعلام عن جميع المخالفات المرورية المسجلة عليك أو على مركباتك، مع تفاصيل كل مخالفة وحالة السداد.",
+  "description_en": "This service allows you to check all traffic violations registered against you or your vehicles, with details of each violation and payment status.",
   "portal": "أبشر أفراد / تطبيق المرور",
   "portal_url": "https://www.absher.sa",
   "ministry_ar": "وزارة الداخلية",
@@ -91,6 +92,5 @@
     "traffic-violation-objection",
     "renew-driving-license"
   ],
-  "last_updated": "########",
-  "description_en": "This service allows you to check all traffic violations registered against you or your vehicles, with details of each violation and payment status."
+  "last_updated": "########"
 }

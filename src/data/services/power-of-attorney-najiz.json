@@ -3,6 +3,7 @@
   "title_ar": "إصدار وكالة إلكترونية عبر ناجز",
   "title_en": "Issue power of attorney via Najiz",
   "description_ar": "تمكّنك هذه الخدمة من إصدار وكالة شرعية إلكترونية (عامة أو خاصة) عبر بوابة ناجز دون الحاجة لزيارة كتابة العدل.",
+  "description_en": "This service enables you to issue an electronic power of attorney (general or specific) via the Najiz portal without visiting a notary office.",
   "portal": "بوابة ناجز",
   "portal_url": "https://www.najiz.sa",
   "ministry_ar": "وزارة العدل",
@@ -91,6 +92,5 @@
   "related_slugs": [
     "marriage-contract-najiz"
   ],
-  "last_updated": "########",
-  "description_en": "This service enables you to issue an electronic power of attorney (general or specific) via the Najiz portal without visiting a notary office."
+  "last_updated": "########"
 }

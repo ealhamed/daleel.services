@@ -1,0 +1,93 @@
+{
+  "slug": "open-bank-account-resident",
+  "title_ar": "فتح حساب بنكي للمقيمين",
+  "title_en": "Open a bank account for residents",
+  "description_ar": "يمكن للمقيمين في المملكة فتح حساب بنكي لدى البنوك السعودية بشرط توفر إقامة سارية وعنوان وطني مسجل. بعض البنوك تتيح الفتح إلكترونياً.",
+  "description_en": "Residents in Saudi Arabia can open a bank account at Saudi banks with a valid Iqama and registered national address. Some banks allow online account opening.",
+  "portal": "البنوك السعودية",
+  "portal_url": "https://www.sama.gov.sa",
+  "ministry_ar": "البنك المركزي السعودي (ساما)",
+  "ministry_en": "Saudi Central Bank (SAMA)",
+  "category_ar": "خدمات مالية",
+  "category_en": "Financial Services",
+  "tags": [
+    {
+      "text_ar": "بعض البنوك تفتح إلكترونياً",
+      "type": "info"
+    }
+  ],
+  "checks": [
+    {
+      "text_ar": "إقامة سارية المفعول",
+      "text_en": "Valid Iqama"
+    },
+    {
+      "text_ar": "عنوان وطني مسجل في سبل",
+      "text_en": "National address registered in Subol"
+    },
+    {
+      "text_ar": "رقم جوال سعودي مسجل باسمك",
+      "text_en": "Saudi mobile number registered in your name"
+    },
+    {
+      "text_ar": "خطاب تعريف من جهة العمل (بعض البنوك)",
+      "text_en": "Employment letter (some banks)"
+    }
+  ],
+  "fees": [
+    {
+      "label_ar": "فتح الحساب",
+      "label_en": "Account opening",
+      "amount": 0,
+      "unit_ar": "مجاني",
+      "unit_en": "Free"
+    }
+  ],
+  "steps": [
+    {
+      "text_ar": "اختر البنك المناسب (الراجحي، الأهلي، الرياض، إنماء...)",
+      "text_en": "Choose your preferred bank (Al Rajhi, SNB, Riyad Bank, Alinma...)"
+    },
+    {
+      "text_ar": "حمّل تطبيق البنك أو زر أقرب فرع",
+      "text_en": "Download the bank app or visit the nearest branch"
+    },
+    {
+      "text_ar": "قدّم المستندات المطلوبة (إقامة، جوال، عنوان وطني)",
+      "text_en": "Submit required documents (Iqama, mobile, national address)"
+    },
+    {
+      "text_ar": "فعّل الحساب عبر نفاذ أو بزيارة الفرع",
+      "text_en": "Activate the account via Nafath or by visiting the branch"
+    },
+    {
+      "text_ar": "استلم بطاقة الصراف والخدمات الإلكترونية",
+      "text_en": "Receive your ATM card and online banking access"
+    }
+  ],
+  "troubles": [
+    {
+      "question_ar": "البنك رفض فتح حساب — ماذا أفعل؟",
+      "question_en": "The bank refused to open an account — what should I do?",
+      "answer_ar": "الأسباب الشائعة: إقامة قاربت على الانتهاء، عدم وجود عنوان وطني، أو عدم وجود خطاب تعريف. صحّح السبب وجرّب بنكاً آخر.",
+      "answer_en": "Common reasons: Iqama near expiry, no national address, or no employment letter. Fix the issue and try another bank."
+    },
+    {
+      "question_ar": "هل يمكن فتح حساب بتأشيرة زيارة؟",
+      "question_en": "Can I open an account with a visit visa?",
+      "answer_ar": "لا، فتح الحساب يتطلب إقامة سارية. أصحاب تأشيرات الزيارة يمكنهم استخدام خدمات التحويل فقط.",
+      "answer_en": "No, account opening requires a valid Iqama. Visit visa holders can only use money transfer services."
+    },
+    {
+      "question_ar": "أي بنك الأفضل للمقيمين؟",
+      "question_en": "Which bank is best for residents?",
+      "answer_ar": "يعتمد على احتياجاتك. الراجحي والأهلي الأكثر انتشاراً. بنك الرياض وإنماء لديهم خدمات إلكترونية متقدمة.",
+      "answer_en": "Depends on your needs. Al Rajhi and SNB are the most widespread. Riyad Bank and Alinma have advanced digital services."
+    }
+  ],
+  "related_slugs": [
+    "register-national-address",
+    "simah-credit-report"
+  ],
+  "last_updated": "2026-03-18"
+}

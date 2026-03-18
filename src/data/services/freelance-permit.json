@@ -1,0 +1,93 @@
+{
+  "slug": "freelance-permit",
+  "title_ar": "إصدار وثيقة العمل الحر",
+  "title_en": "Issue freelance work permit",
+  "description_ar": "وثيقة العمل الحر تتيح للمواطنين السعوديين ممارسة أعمال حرة بشكل رسمي دون الحاجة لسجل تجاري. تشمل أكثر من 140 نشاطاً في مختلف المجالات.",
+  "description_en": "The freelance work permit allows Saudi citizens to practice freelance work officially without a commercial registration. It covers over 140 activities across various fields.",
+  "portal": "منصة العمل الحر",
+  "portal_url": "https://freelance.sa",
+  "ministry_ar": "وزارة الموارد البشرية",
+  "ministry_en": "Ministry of Human Resources",
+  "category_ar": "خدمات مالية",
+  "category_en": "Financial Services",
+  "tags": [
+    {
+      "text_ar": "للمواطنين السعوديين فقط",
+      "type": "info"
+    },
+    {
+      "text_ar": "بديل عن السجل التجاري",
+      "type": "success"
+    }
+  ],
+  "checks": [
+    {
+      "text_ar": "مواطن سعودي عمره 18 سنة فأكثر",
+      "text_en": "Saudi citizen aged 18+"
+    },
+    {
+      "text_ar": "حساب نفاذ مفعّل",
+      "text_en": "Activated Nafath account"
+    },
+    {
+      "text_ar": "حساب بنكي سعودي",
+      "text_en": "Saudi bank account"
+    }
+  ],
+  "fees": [
+    {
+      "label_ar": "إصدار الوثيقة",
+      "label_en": "Permit issuance",
+      "amount": 0,
+      "unit_ar": "مجاني",
+      "unit_en": "Free"
+    }
+  ],
+  "steps": [
+    {
+      "text_ar": "ادخل منصة العمل الحر freelance.sa",
+      "text_en": "Go to freelance.sa"
+    },
+    {
+      "text_ar": "سجّل الدخول عبر النفاذ الوطني",
+      "text_en": "Log in via National Access (Nafath)"
+    },
+    {
+      "text_ar": "اختر النشاط المناسب من القائمة (140+ نشاط)",
+      "text_en": "Choose the suitable activity from the list (140+ activities)"
+    },
+    {
+      "text_ar": "أكمل البيانات المطلوبة",
+      "text_en": "Complete the required information"
+    },
+    {
+      "text_ar": "تصدر الوثيقة فوراً وتكون سارية لسنة",
+      "text_en": "The permit is issued immediately and is valid for one year"
+    }
+  ],
+  "troubles": [
+    {
+      "question_ar": "هل وثيقة العمل الحر تغني عن السجل التجاري؟",
+      "question_en": "Does the freelance permit replace a commercial registration?",
+      "answer_ar": "نعم لمعظم الأعمال الفردية. لكن إذا كان لديك موظفون أو محل تجاري، تحتاج سجل تجاري.",
+      "answer_en": "Yes, for most individual work. But if you have employees or a physical shop, you need a commercial registration."
+    },
+    {
+      "question_ar": "هل أحتاج لفتح حساب تجاري في البنك؟",
+      "question_en": "Do I need to open a business bank account?",
+      "answer_ar": "لا، يمكنك استقبال المدفوعات في حسابك الشخصي. لكن يُنصح بفصل الحساب الشخصي عن المهني.",
+      "answer_en": "No, you can receive payments in your personal account. But it is recommended to separate personal and professional accounts."
+    },
+    {
+      "question_ar": "هل عليّ تسجيل في الضريبة؟",
+      "question_en": "Do I need to register for VAT?",
+      "answer_ar": "فقط إذا تجاوزت إيراداتك 375,000 ر.س سنوياً. أقل من ذلك التسجيل اختياري.",
+      "answer_en": "Only if your revenue exceeds SAR 375,000 annually. Below that, registration is optional."
+    }
+  ],
+  "related_slugs": [
+    "issue-commercial-registration",
+    "zatca-vat-registration"
+  ],
+  "last_updated": "2026-03-18"
+}

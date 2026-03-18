@@ -3,6 +3,7 @@
   "title_ar": "التقديم على إعانة ساند (التعطل عن العمل)",
   "title_en": "Apply for SANED unemployment benefit",
   "description_ar": "نظام ساند يوفر تعويضاً شهرياً للمواطنين السعوديين الذين فقدوا وظائفهم لأسباب خارجة عن إرادتهم، لمدة تصل إلى 12 شهراً.",
+  "description_en": "The SANED system provides monthly compensation for Saudi citizens who lost their jobs for reasons beyond their control, for up to 12 months.",
   "portal": "التأمينات أون لاين",
   "portal_url": "https://www.gosi.gov.sa",
   "ministry_ar": "المؤسسة العامة للتأمينات الاجتماعية",
@@ -113,6 +114,5 @@
     "gosi-certificate",
     "jadarat-job-search"
   ],
-  "last_updated": "########",
-  "description_en": "The SANED system provides monthly compensation for Saudi citizens who lost their jobs for reasons beyond their control, for up to 12 months."
+  "last_updated": "########"
 }

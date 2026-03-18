@@ -3,6 +3,7 @@
   "title_ar": "الاستعلام عن المخالفات المرورية وسدادها",
   "title_en": "Check and pay traffic fines",
   "description_ar": "تتيح لك هذه الخدمة الاستعلام عن المخالفات المرورية المسجلة عليك أو على مركباتك وسدادها إلكترونياً عبر أبشر أو تطبيقات البنوك.",
+  "description_en": "This service allows you to check traffic violations registered against you or your vehicles and pay them electronically via Absher or banking apps.",
   "portal": "أبشر أفراد",
   "portal_url": "https://www.absher.sa",
   "ministry_ar": "وزارة الداخلية",
@@ -94,6 +95,5 @@
   ],
   "last_updated": "########",
   "penalty_ar": "المخالفات غير المسددة تمنع تجديد الإقامة ورخصة القيادة والاستمارة",
-  "description_en": "This service allows you to check traffic violations registered against you or your vehicles and pay them electronically via Absher or banking apps.",
   "penalty_en": "Unpaid violations prevent Iqama renewal, driving license renewal, and vehicle registration renewal"
 }
