@@ -10,34 +10,94 @@
   "category_ar": "خدمات الجوازات",
   "category_en": "Passport Services",
   "tags": [
-    { "text_ar": "أبشر أفراد", "type": "info" },
-    { "text_ar": "إلكترونية بالكامل", "type": "success" },
-    { "text_ar": "آخر تحديث: مارس 2026", "type": "warning" }
+    {
+      "text_ar": "أبشر أفراد",
+      "type": "info"
+    },
+    {
+      "text_ar": "إلكترونية بالكامل",
+      "type": "success"
+    },
+    {
+      "text_ar": "آخر تحديث: مارس 2026",
+      "type": "warning"
+    }
   ],
   "checks": [
-    { "text_ar": "هوية المقيم (الإقامة) سارية المفعول", "text_en": "Valid Iqama (resident ID)" },
-    { "text_ar": "جواز السفر ساري لمدة لا تقل عن 6 أشهر", "text_en": "Passport valid for at least 6 months" },
-    { "text_ar": "عدم وجود مخالفات مرورية أو بلاغات", "text_en": "No traffic violations or reports" },
-    { "text_ar": "تأمين طبي ساري المفعول", "text_en": "Active medical insurance" }
+    {
+      "text_ar": "هوية المقيم (الإقامة) سارية المفعول",
+      "text_en": "Valid Iqama (resident ID)"
+    },
+    {
+      "text_ar": "جواز السفر ساري لمدة لا تقل عن 6 أشهر",
+      "text_en": "Passport valid for at least 6 months"
+    },
+    {
+      "text_ar": "عدم وجود مخالفات مرورية أو بلاغات",
+      "text_en": "No traffic violations or reports"
+    },
+    {
+      "text_ar": "تأمين طبي ساري المفعول",
+      "text_en": "Active medical insurance"
+    }
   ],
   "fees": [
-    { "label_ar": "مفردة (سفرة واحدة)", "amount": 200, "unit_ar": "ر.س" },
-    { "label_ar": "متعددة (عدة سفرات)", "amount": 500, "unit_ar": "ر.س" }
+    {
+      "label_ar": "مفردة (سفرة واحدة)",
+      "amount": 200,
+      "unit_ar": "ر.س"
+    },
+    {
+      "label_ar": "متعددة (عدة سفرات)",
+      "amount": 500,
+      "unit_ar": "ر.س"
+    }
   ],
-  "penalty_ar": "عدم العودة خلال مدة التأشيرة قد يؤدي لإلغاء الإقامة",
   "steps": [
-    { "text_ar": "سجّل الدخول إلى منصة أبشر أفراد", "text_en": "Log in to Absher Individuals" },
-    { "text_ar": "اختر \"خدماتي\" ثم \"الجوازات\"", "text_en": "Go to My Services → Passports" },
-    { "text_ar": "اختر \"تأشيرات\" ثم \"إصدار تأشيرة خروج وعودة\"", "text_en": "Select Visas → Issue Exit/Re-entry Visa" },
-    { "text_ar": "اختر المقيم واختر نوع التأشيرة (مفردة أو متعددة)", "text_en": "Select resident and visa type (single or multiple)" },
-    { "text_ar": "حدد مدة التأشيرة وتاريخ المغادرة المتوقع", "text_en": "Set visa duration and expected departure date" },
-    { "text_ar": "راجع البيانات واضغط \"تأكيد\"", "text_en": "Review and confirm" }
+    {
+      "text_ar": "سجّل الدخول إلى منصة أبشر أفراد",
+      "text_en": "Log in to Absher Individuals"
+    },
+    {
+      "text_ar": "اختر \"خدماتي\" ثم \"الجوازات\"",
+      "text_en": "Go to My Services → Passports"
+    },
+    {
+      "text_ar": "اختر \"تأشيرات\" ثم \"إصدار تأشيرة خروج وعودة\"",
+      "text_en": "Select Visas → Issue Exit/Re-entry Visa"
+    },
+    {
+      "text_ar": "اختر المقيم واختر نوع التأشيرة (مفردة أو متعددة)",
+      "text_en": "Select resident and visa type (single or multiple)"
+    },
+    {
+      "text_ar": "حدد مدة التأشيرة وتاريخ المغادرة المتوقع",
+      "text_en": "Set visa duration and expected departure date"
+    },
+    {
+      "text_ar": "راجع البيانات واضغط \"تأكيد\"",
+      "text_en": "Review and confirm"
+    }
   ],
   "troubles": [
-    { "question_ar": "ظهرت رسالة \"لا يمكن إصدار التأشيرة\"", "answer_ar": "تأكد من سريان الإقامة وعدم وجود مخالفات أو بلاغ تغيب مسجل على المقيم." },
-    { "question_ar": "هل يمكن تمديد التأشيرة بعد السفر؟", "answer_ar": "نعم، يمكن تمديدها عبر أبشر قبل انتهاء صلاحيتها، بشرط أن يكون المقيم خارج المملكة." },
-    { "question_ar": "ماذا يحدث إذا لم يعد المقيم خلال المدة؟", "answer_ar": "تنتهي صلاحية الإقامة وقد يتعرض لمنع من الدخول. يجب إصدار تأشيرة عودة من السفارة." }
+    {
+      "question_ar": "ظهرت رسالة \"لا يمكن إصدار التأشيرة\"",
+      "answer_ar": "تأكد من سريان الإقامة وعدم وجود مخالفات أو بلاغ تغيب مسجل على المقيم."
+    },
+    {
+      "question_ar": "هل يمكن تمديد التأشيرة بعد السفر؟",
+      "answer_ar": "نعم، يمكن تمديدها عبر أبشر قبل انتهاء صلاحيتها، بشرط أن يكون المقيم خارج المملكة."
+    },
+    {
+      "question_ar": "ماذا يحدث إذا لم يعد المقيم خلال المدة؟",
+      "answer_ar": "تنتهي صلاحية الإقامة وقد يتعرض لمنع من الدخول. يجب إصدار تأشيرة عودة من السفارة."
+    }
   ],
-  "related_slugs": ["renew-iqama", "final-exit-visa", "renew-passport-expat"],
-  "last_updated": "2026-03-18"
+  "related_slugs": [
+    "renew-iqama",
+    "final-exit-visa",
+    "renew-passport-expat"
+  ],
+  "last_updated": "########",
+  "penalty_ar": "عدم العودة خلال مدة التأشيرة قد يؤدي لإلغاء الإقامة"
 }

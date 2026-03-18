@@ -10,36 +10,101 @@
   "category_ar": "خدمات العمل",
   "category_en": "Labor Services",
   "tags": [
-    { "text_ar": "منصة قوى", "type": "info" },
-    { "text_ar": "موافقة الطرفين مطلوبة", "type": "warning" },
-    { "text_ar": "آخر تحديث: مارس 2026", "type": "warning" }
+    {
+      "text_ar": "منصة قوى",
+      "type": "info"
+    },
+    {
+      "text_ar": "موافقة الطرفين مطلوبة",
+      "type": "warning"
+    },
+    {
+      "text_ar": "آخر تحديث: مارس 2026",
+      "type": "warning"
+    }
   ],
   "checks": [
-    { "text_ar": "المنشأة المستقبلة لديها رخصة عمل سارية", "text_en": "Receiving establishment has valid work license" },
-    { "text_ar": "نسبة السعودة (نطاقات) في النطاق الأخضر أو أعلى", "text_en": "Nitaqat (Saudization) in green zone or above" },
-    { "text_ar": "عدم وجود مخالفات على المنشأة المستقبلة", "text_en": "No violations on receiving establishment" },
-    { "text_ar": "موافقة العامل وصاحب العمل الحالي (في الحالات المطلوبة)", "text_en": "Consent from worker and current employer (when required)" },
-    { "text_ar": "مضى 12 شهراً على أول دخول للعامل (أو انطبقت حالات الإعفاء)", "text_en": "12 months since worker's first entry (or exemption applies)" }
+    {
+      "text_ar": "المنشأة المستقبلة لديها رخصة عمل سارية",
+      "text_en": "Receiving establishment has valid work license"
+    },
+    {
+      "text_ar": "نسبة السعودة (نطاقات) في النطاق الأخضر أو أعلى",
+      "text_en": "Nitaqat (Saudization) in green zone or above"
+    },
+    {
+      "text_ar": "عدم وجود مخالفات على المنشأة المستقبلة",
+      "text_en": "No violations on receiving establishment"
+    },
+    {
+      "text_ar": "موافقة العامل وصاحب العمل الحالي (في الحالات المطلوبة)",
+      "text_en": "Consent from worker and current employer (when required)"
+    },
+    {
+      "text_ar": "مضى 12 شهراً على أول دخول للعامل (أو انطبقت حالات الإعفاء)",
+      "text_en": "12 months since worker's first entry (or exemption applies)"
+    }
   ],
   "fees": [
-    { "label_ar": "رسوم نقل الخدمات", "amount": 2000, "unit_ar": "ر.س" },
-    { "label_ar": "رخصة عمل جديدة", "amount": 100, "unit_ar": "ر.س / سنة" }
+    {
+      "label_ar": "رسوم نقل الخدمات",
+      "amount": 2000,
+      "unit_ar": "ر.س"
+    },
+    {
+      "label_ar": "رخصة عمل جديدة",
+      "amount": 100,
+      "unit_ar": "ر.س / سنة"
+    }
   ],
-  "penalty_ar": null,
   "steps": [
-    { "text_ar": "سجّل الدخول إلى منصة قوى بحساب المنشأة المستقبلة", "text_en": "Log in to Qiwa with the receiving establishment account" },
-    { "text_ar": "اختر \"خدمات نقل الخدمات\" من القائمة الرئيسية", "text_en": "Select Transfer Services from the main menu" },
-    { "text_ar": "أدخل رقم إقامة العامل المراد نقله", "text_en": "Enter the worker's Iqama number" },
-    { "text_ar": "راجع بيانات العامل وتفاصيل النقل", "text_en": "Review worker details and transfer info" },
-    { "text_ar": "أرسل طلب النقل — يحتاج لموافقة صاحب العمل الحالي خلال 14 يوماً", "text_en": "Submit request — current employer has 14 days to approve" },
-    { "text_ar": "بعد الموافقة، سدّد رسوم النقل ورخصة العمل", "text_en": "After approval, pay transfer and work permit fees" },
-    { "text_ar": "جدّد إقامة العامل عبر أبشر إن لزم الأمر", "text_en": "Renew worker's Iqama via Absher if needed" }
+    {
+      "text_ar": "سجّل الدخول إلى منصة قوى بحساب المنشأة المستقبلة",
+      "text_en": "Log in to Qiwa with the receiving establishment account"
+    },
+    {
+      "text_ar": "اختر \"خدمات نقل الخدمات\" من القائمة الرئيسية",
+      "text_en": "Select Transfer Services from the main menu"
+    },
+    {
+      "text_ar": "أدخل رقم إقامة العامل المراد نقله",
+      "text_en": "Enter the worker's Iqama number"
+    },
+    {
+      "text_ar": "راجع بيانات العامل وتفاصيل النقل",
+      "text_en": "Review worker details and transfer info"
+    },
+    {
+      "text_ar": "أرسل طلب النقل — يحتاج لموافقة صاحب العمل الحالي خلال 14 يوماً",
+      "text_en": "Submit request — current employer has 14 days to approve"
+    },
+    {
+      "text_ar": "بعد الموافقة، سدّد رسوم النقل ورخصة العمل",
+      "text_en": "After approval, pay transfer and work permit fees"
+    },
+    {
+      "text_ar": "جدّد إقامة العامل عبر أبشر إن لزم الأمر",
+      "text_en": "Renew worker's Iqama via Absher if needed"
+    }
   ],
   "troubles": [
-    { "question_ar": "صاحب العمل الحالي رفض النقل", "answer_ar": "في بعض الحالات يمكن النقل دون موافقته — مثل: عدم دفع الرواتب لـ 3 أشهر، انتهاء العقد، أو وجود بلاغ كيدي. راجع منصة قوى للتفاصيل." },
-    { "question_ar": "هل يمكن نقل خدمات عامل منزلي؟", "answer_ar": "نقل العمالة المنزلية يتم عبر منصة مساند، وليس قوى." },
-    { "question_ar": "كم المدة حتى يتم النقل فعلياً؟", "answer_ar": "بعد موافقة الطرفين وسداد الرسوم، يتم النقل خلال 1-3 أيام عمل." }
+    {
+      "question_ar": "صاحب العمل الحالي رفض النقل",
+      "answer_ar": "في بعض الحالات يمكن النقل دون موافقته — مثل: عدم دفع الرواتب لـ 3 أشهر، انتهاء العقد، أو وجود بلاغ كيدي. راجع منصة قوى للتفاصيل."
+    },
+    {
+      "question_ar": "هل يمكن نقل خدمات عامل منزلي؟",
+      "answer_ar": "نقل العمالة المنزلية يتم عبر منصة مساند، وليس قوى."
+    },
+    {
+      "question_ar": "كم المدة حتى يتم النقل فعلياً؟",
+      "answer_ar": "بعد موافقة الطرفين وسداد الرسوم، يتم النقل خلال 1-3 أيام عمل."
+    }
   ],
-  "related_slugs": ["renew-iqama", "renew-work-permit", "final-exit-visa"],
-  "last_updated": "2026-03-18"
+  "related_slugs": [
+    "renew-iqama",
+    "renew-work-permit",
+    "final-exit-visa"
+  ],
+  "last_updated": "########"
 }

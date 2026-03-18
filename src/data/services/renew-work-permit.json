@@ -10,34 +10,93 @@
   "category_ar": "خدمات العمل",
   "category_en": "Labor Services",
   "tags": [
-    { "text_ar": "منصة قوى", "type": "info" },
-    { "text_ar": "مطلوبة لتجديد الإقامة", "type": "warning" },
-    { "text_ar": "آخر تحديث: مارس 2026", "type": "warning" }
+    {
+      "text_ar": "منصة قوى",
+      "type": "info"
+    },
+    {
+      "text_ar": "مطلوبة لتجديد الإقامة",
+      "type": "warning"
+    },
+    {
+      "text_ar": "آخر تحديث: مارس 2026",
+      "type": "warning"
+    }
   ],
   "checks": [
-    { "text_ar": "المنشأة في نطاق أخضر أو أعلى (نطاقات)", "text_en": "Establishment in green Nitaqat or above" },
-    { "text_ar": "لا توجد مخالفات عمالية على المنشأة", "text_en": "No labor violations on establishment" },
-    { "text_ar": "سداد المقابل المالي عبر سداد", "text_en": "Financial compensation paid via Sadad" },
-    { "text_ar": "رقم الإقامة ساري المفعول", "text_en": "Valid Iqama number" }
+    {
+      "text_ar": "المنشأة في نطاق أخضر أو أعلى (نطاقات)",
+      "text_en": "Establishment in green Nitaqat or above"
+    },
+    {
+      "text_ar": "لا توجد مخالفات عمالية على المنشأة",
+      "text_en": "No labor violations on establishment"
+    },
+    {
+      "text_ar": "سداد المقابل المالي عبر سداد",
+      "text_en": "Financial compensation paid via Sadad"
+    },
+    {
+      "text_ar": "رقم الإقامة ساري المفعول",
+      "text_en": "Valid Iqama number"
+    }
   ],
   "fees": [
-    { "label_ar": "رسوم رخصة العمل", "amount": 100, "unit_ar": "ر.س / سنة" },
-    { "label_ar": "المقابل المالي", "amount": 400, "unit_ar": "ر.س / شهر" }
+    {
+      "label_ar": "رسوم رخصة العمل",
+      "amount": 100,
+      "unit_ar": "ر.س / سنة"
+    },
+    {
+      "label_ar": "المقابل المالي",
+      "amount": 400,
+      "unit_ar": "ر.س / شهر"
+    }
   ],
-  "penalty_ar": "رخصة العمل المنتهية تمنع تجديد الإقامة وقد تؤثر على نطاقات المنشأة",
   "steps": [
-    { "text_ar": "سجّل الدخول إلى منصة قوى", "text_en": "Log in to Qiwa platform" },
-    { "text_ar": "اختر \"رخص العمل\" من القائمة الرئيسية", "text_en": "Select Work Permits from main menu" },
-    { "text_ar": "اختر \"إصدار\" أو \"تجديد\" رخصة عمل", "text_en": "Choose Issue or Renew work permit" },
-    { "text_ar": "اختر العامل وحدد المدة (سنة أو أقل)", "text_en": "Select worker and duration" },
-    { "text_ar": "راجع الرسوم والمقابل المالي ثم اضغط \"تأكيد\"", "text_en": "Review fees and confirm" },
-    { "text_ar": "سدّد المبلغ عبر سداد — الرخصة تصدر تلقائياً بعد السداد", "text_en": "Pay via Sadad — permit issues automatically after payment" }
+    {
+      "text_ar": "سجّل الدخول إلى منصة قوى",
+      "text_en": "Log in to Qiwa platform"
+    },
+    {
+      "text_ar": "اختر \"رخص العمل\" من القائمة الرئيسية",
+      "text_en": "Select Work Permits from main menu"
+    },
+    {
+      "text_ar": "اختر \"إصدار\" أو \"تجديد\" رخصة عمل",
+      "text_en": "Choose Issue or Renew work permit"
+    },
+    {
+      "text_ar": "اختر العامل وحدد المدة (سنة أو أقل)",
+      "text_en": "Select worker and duration"
+    },
+    {
+      "text_ar": "راجع الرسوم والمقابل المالي ثم اضغط \"تأكيد\"",
+      "text_en": "Review fees and confirm"
+    },
+    {
+      "text_ar": "سدّد المبلغ عبر سداد — الرخصة تصدر تلقائياً بعد السداد",
+      "text_en": "Pay via Sadad — permit issues automatically after payment"
+    }
   ],
   "troubles": [
-    { "question_ar": "ظهرت رسالة \"المنشأة غير مؤهلة\"", "answer_ar": "المنشأة في النطاق الأحمر أو عليها مخالفات. راجع لوحة نطاقات في قوى وصحّح الوضع أولاً." },
-    { "question_ar": "ما الفرق بين رسوم رخصة العمل والمقابل المالي؟", "answer_ar": "رخصة العمل 100 ر.س/سنة رسم حكومي. المقابل المالي 400 ر.س/شهر (4,800/سنة) يُدفع عن كل عامل وافد." },
-    { "question_ar": "هل يمكن إصدار رخصة لأقل من سنة؟", "answer_ar": "نعم، يمكن إصدارها لمدة 3 أو 6 أشهر بحسب الحاجة، مع تناسب الرسوم." }
+    {
+      "question_ar": "ظهرت رسالة \"المنشأة غير مؤهلة\"",
+      "answer_ar": "المنشأة في النطاق الأحمر أو عليها مخالفات. راجع لوحة نطاقات في قوى وصحّح الوضع أولاً."
+    },
+    {
+      "question_ar": "ما الفرق بين رسوم رخصة العمل والمقابل المالي؟",
+      "answer_ar": "رخصة العمل 100 ر.س/سنة رسم حكومي. المقابل المالي 400 ر.س/شهر (4,800/سنة) يُدفع عن كل عامل وافد."
+    },
+    {
+      "question_ar": "هل يمكن إصدار رخصة لأقل من سنة؟",
+      "answer_ar": "نعم، يمكن إصدارها لمدة 3 أو 6 أشهر بحسب الحاجة، مع تناسب الرسوم."
+    }
   ],
-  "related_slugs": ["renew-iqama", "transfer-sponsorship"],
-  "last_updated": "2026-03-18"
+  "related_slugs": [
+    "renew-iqama",
+    "transfer-sponsorship"
+  ],
+  "last_updated": "########",
+  "penalty_ar": "رخصة العمل المنتهية تمنع تجديد الإقامة وقد تؤثر على نطاقات المنشأة"
 }

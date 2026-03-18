@@ -10,31 +10,80 @@
   "category_ar": "خدمات المرور",
   "category_en": "Traffic Services",
   "tags": [
-    { "text_ar": "أبشر أفراد", "type": "info" },
-    { "text_ar": "إلكترونية بالكامل", "type": "success" },
-    { "text_ar": "آخر تحديث: مارس 2026", "type": "warning" }
+    {
+      "text_ar": "أبشر أفراد",
+      "type": "info"
+    },
+    {
+      "text_ar": "إلكترونية بالكامل",
+      "type": "success"
+    },
+    {
+      "text_ar": "آخر تحديث: مارس 2026",
+      "type": "warning"
+    }
   ],
   "checks": [
-    { "text_ar": "وجود حساب مفعّل في أبشر", "text_en": "Active Absher account" },
-    { "text_ar": "حساب بنكي مربوط بسداد", "text_en": "Bank account linked to Sadad" }
+    {
+      "text_ar": "وجود حساب مفعّل في أبشر",
+      "text_en": "Active Absher account"
+    },
+    {
+      "text_ar": "حساب بنكي مربوط بسداد",
+      "text_en": "Bank account linked to Sadad"
+    }
   ],
   "fees": [
-    { "label_ar": "رسوم الخدمة", "amount": 0, "unit_ar": "مجانية" }
+    {
+      "label_ar": "رسوم الخدمة",
+      "amount": 0,
+      "unit_ar": "مجانية"
+    }
   ],
-  "penalty_ar": "المخالفات غير المسددة تمنع تجديد الإقامة ورخصة القيادة والاستمارة",
   "steps": [
-    { "text_ar": "سجّل الدخول إلى أبشر أفراد", "text_en": "Log in to Absher Individuals" },
-    { "text_ar": "اختر \"خدماتي\" ثم \"خدمات المرور\"", "text_en": "Go to My Services → Traffic Services" },
-    { "text_ar": "اختر \"الاستعلام عن المخالفات المرورية\"", "text_en": "Select Check Traffic Violations" },
-    { "text_ar": "ستظهر قائمة بجميع المخالفات مع التفاصيل (المبلغ، التاريخ، الموقع)", "text_en": "All violations listed with details (amount, date, location)" },
-    { "text_ar": "اختر المخالفات المراد سدادها واضغط \"سداد\"", "text_en": "Select violations to pay and click Pay" },
-    { "text_ar": "أكمل السداد عبر سداد أو عبر تطبيق البنك مباشرة", "text_en": "Complete payment via Sadad or banking app" }
+    {
+      "text_ar": "سجّل الدخول إلى أبشر أفراد",
+      "text_en": "Log in to Absher Individuals"
+    },
+    {
+      "text_ar": "اختر \"خدماتي\" ثم \"خدمات المرور\"",
+      "text_en": "Go to My Services → Traffic Services"
+    },
+    {
+      "text_ar": "اختر \"الاستعلام عن المخالفات المرورية\"",
+      "text_en": "Select Check Traffic Violations"
+    },
+    {
+      "text_ar": "ستظهر قائمة بجميع المخالفات مع التفاصيل (المبلغ، التاريخ، الموقع)",
+      "text_en": "All violations listed with details (amount, date, location)"
+    },
+    {
+      "text_ar": "اختر المخالفات المراد سدادها واضغط \"سداد\"",
+      "text_en": "Select violations to pay and click Pay"
+    },
+    {
+      "text_ar": "أكمل السداد عبر سداد أو عبر تطبيق البنك مباشرة",
+      "text_en": "Complete payment via Sadad or banking app"
+    }
   ],
   "troubles": [
-    { "question_ar": "مخالفة مسجلة على مركبتي لكنني لم أكن السائق", "answer_ar": "يمكنك تقديم اعتراض عبر منصة أبشر أو تطبيق المرور (كلنا أمن). يجب تقديم الاعتراض خلال 30 يوماً من تاريخ المخالفة." },
-    { "question_ar": "هل هناك خصم على السداد المبكر؟", "answer_ar": "نعم، بعض المخالفات عليها خصم 25% عند السداد خلال 30 يوماً من تاريخ تسجيلها." },
-    { "question_ar": "المخالفات لا تظهر في أبشر", "answer_ar": "قد تحتاج 48-72 ساعة لتظهر بعد التسجيل. يمكنك أيضاً الاستعلام عبر تطبيق المرور أو منصة إيفاء." }
+    {
+      "question_ar": "مخالفة مسجلة على مركبتي لكنني لم أكن السائق",
+      "answer_ar": "يمكنك تقديم اعتراض عبر منصة أبشر أو تطبيق المرور (كلنا أمن). يجب تقديم الاعتراض خلال 30 يوماً من تاريخ المخالفة."
+    },
+    {
+      "question_ar": "هل هناك خصم على السداد المبكر؟",
+      "answer_ar": "نعم، بعض المخالفات عليها خصم 25% عند السداد خلال 30 يوماً من تاريخ تسجيلها."
+    },
+    {
+      "question_ar": "المخالفات لا تظهر في أبشر",
+      "answer_ar": "قد تحتاج 48-72 ساعة لتظهر بعد التسجيل. يمكنك أيضاً الاستعلام عبر تطبيق المرور أو منصة إيفاء."
+    }
   ],
-  "related_slugs": ["renew-driving-license", "vehicle-registration-renewal"],
-  "last_updated": "2026-03-18"
+  "related_slugs": [
+    "renew-driving-license",
+    "vehicle-registration-renewal"
+  ],
+  "last_updated": "########",
+  "penalty_ar": "المخالفات غير المسددة تمنع تجديد الإقامة ورخصة القيادة والاستمارة"
 }

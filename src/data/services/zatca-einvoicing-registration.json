@@ -44,7 +44,6 @@
       "unit_ar": "مجاني"
     }
   ],
-  "penalty_ar": "غرامات عدم الامتثال تتراوح بين 5,000 و 50,000 ر.س",
   "steps": [
     {
       "text_ar": "تأكد أن نظام الفوترة لديك متوافق مع متطلبات ZATCA",
@@ -85,5 +84,6 @@
     "zatca-vat-registration",
     "issue-commercial-registration"
   ],
-  "last_updated": "2026-03-18"
+  "last_updated": "########",
+  "penalty_ar": "غرامات عدم الامتثال تتراوح بين 5,000 و 50,000 ر.س"
 }

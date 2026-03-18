@@ -10,33 +10,88 @@
   "category_ar": "خدمات الجوازات",
   "category_en": "Passport Services",
   "tags": [
-    { "text_ar": "أبشر أعمال", "type": "info" },
-    { "text_ar": "إلكترونية بالكامل", "type": "success" },
-    { "text_ar": "آخر تحديث: مارس 2026", "type": "warning" }
+    {
+      "text_ar": "أبشر أعمال",
+      "type": "info"
+    },
+    {
+      "text_ar": "إلكترونية بالكامل",
+      "type": "success"
+    },
+    {
+      "text_ar": "آخر تحديث: مارس 2026",
+      "type": "warning"
+    }
   ],
   "checks": [
-    { "text_ar": "هوية المقيم سارية المفعول", "text_en": "Valid Iqama" },
-    { "text_ar": "لا توجد التزامات مالية على العامل (حقوق عمالية)", "text_en": "No outstanding labor dues" },
-    { "text_ar": "لا يوجد حظر سفر أو قضايا قائمة", "text_en": "No travel ban or pending cases" },
-    { "text_ar": "سداد جميع المخالفات المرورية", "text_en": "All traffic fines paid" }
+    {
+      "text_ar": "هوية المقيم سارية المفعول",
+      "text_en": "Valid Iqama"
+    },
+    {
+      "text_ar": "لا توجد التزامات مالية على العامل (حقوق عمالية)",
+      "text_en": "No outstanding labor dues"
+    },
+    {
+      "text_ar": "لا يوجد حظر سفر أو قضايا قائمة",
+      "text_en": "No travel ban or pending cases"
+    },
+    {
+      "text_ar": "سداد جميع المخالفات المرورية",
+      "text_en": "All traffic fines paid"
+    }
   ],
   "fees": [
-    { "label_ar": "رسوم التأشيرة", "amount": 0, "unit_ar": "مجانية" }
+    {
+      "label_ar": "رسوم التأشيرة",
+      "amount": 0,
+      "unit_ar": "مجانية"
+    }
   ],
-  "penalty_ar": null,
   "steps": [
-    { "text_ar": "سجّل الدخول إلى أبشر أعمال", "text_en": "Log in to Absher Business" },
-    { "text_ar": "اختر \"خدمات أعمالي\" ثم \"الجوازات\"", "text_en": "Go to My Business Services → Passports" },
-    { "text_ar": "اختر \"تأشيرات\" ثم \"إصدار تأشيرة خروج نهائي\"", "text_en": "Select Visas → Issue Final Exit Visa" },
-    { "text_ar": "اختر العامل من قائمة المكفولين", "text_en": "Select the worker from your sponsored list" },
-    { "text_ar": "أكّد البيانات واضغط \"إصدار\"", "text_en": "Confirm details and issue" },
-    { "text_ar": "العامل لديه 60 يوماً للمغادرة من تاريخ الإصدار", "text_en": "Worker has 60 days to depart from issue date" }
+    {
+      "text_ar": "سجّل الدخول إلى أبشر أعمال",
+      "text_en": "Log in to Absher Business"
+    },
+    {
+      "text_ar": "اختر \"خدمات أعمالي\" ثم \"الجوازات\"",
+      "text_en": "Go to My Business Services → Passports"
+    },
+    {
+      "text_ar": "اختر \"تأشيرات\" ثم \"إصدار تأشيرة خروج نهائي\"",
+      "text_en": "Select Visas → Issue Final Exit Visa"
+    },
+    {
+      "text_ar": "اختر العامل من قائمة المكفولين",
+      "text_en": "Select the worker from your sponsored list"
+    },
+    {
+      "text_ar": "أكّد البيانات واضغط \"إصدار\"",
+      "text_en": "Confirm details and issue"
+    },
+    {
+      "text_ar": "العامل لديه 60 يوماً للمغادرة من تاريخ الإصدار",
+      "text_en": "Worker has 60 days to depart from issue date"
+    }
   ],
   "troubles": [
-    { "question_ar": "العامل لا يريد المغادرة — هل يمكن إلغاء التأشيرة؟", "answer_ar": "نعم، يمكن إلغاء تأشيرة الخروج النهائي عبر أبشر قبل مغادرة العامل للمملكة." },
-    { "question_ar": "هل يمكن للعامل إصدارها بنفسه؟", "answer_ar": "نعم، يمكن للعامل إصدار تأشيرة خروج نهائي بنفسه عبر أبشر أفراد إذا انتهى عقد العمل." },
-    { "question_ar": "ماذا لو لم يغادر العامل خلال 60 يوماً؟", "answer_ar": "تنتهي صلاحية التأشيرة ويجب إصدار واحدة جديدة، وقد تُفرض غرامات على التأخير." }
+    {
+      "question_ar": "العامل لا يريد المغادرة — هل يمكن إلغاء التأشيرة؟",
+      "answer_ar": "نعم، يمكن إلغاء تأشيرة الخروج النهائي عبر أبشر قبل مغادرة العامل للمملكة."
+    },
+    {
+      "question_ar": "هل يمكن للعامل إصدارها بنفسه؟",
+      "answer_ar": "نعم، يمكن للعامل إصدار تأشيرة خروج نهائي بنفسه عبر أبشر أفراد إذا انتهى عقد العمل."
+    },
+    {
+      "question_ar": "ماذا لو لم يغادر العامل خلال 60 يوماً؟",
+      "answer_ar": "تنتهي صلاحية التأشيرة ويجب إصدار واحدة جديدة، وقد تُفرض غرامات على التأخير."
+    }
   ],
-  "related_slugs": ["renew-iqama", "exit-reentry-visa", "transfer-sponsorship"],
-  "last_updated": "2026-03-18"
+  "related_slugs": [
+    "renew-iqama",
+    "exit-reentry-visa",
+    "transfer-sponsorship"
+  ],
+  "last_updated": "########"
 }
