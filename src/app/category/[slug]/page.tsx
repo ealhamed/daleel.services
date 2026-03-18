@@ -18,6 +18,16 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: `${catAr} — دليل الخدمات الحكومية | ${catEn}`,
     description: `دليل شامل لجميع ${catAr} الإلكترونية في المملكة العربية السعودية. خطوات، رسوم، ومتطلبات. Complete guide to ${catEn} in Saudi Arabia.`,
+    alternates: {
+      canonical: `/category/${params.slug}/`,
+    },
+    openGraph: {
+      title: `${catAr} | ${catEn} — Daleel`,
+      description: `Complete guide to ${catEn} in Saudi Arabia — steps, fees, requirements.`,
+      url: `https://daleel.services/category/${params.slug}/`,
+      locale: 'ar_SA',
+      type: 'website',
+    },
   }
 }
 

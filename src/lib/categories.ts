@@ -17,6 +17,7 @@ const CATEGORY_SLUGS: Record<string, string> = {
   'خدمات صحية': 'health-services',
   'خدمات تعليمية': 'education-services',
   'خدمات الحج والعمرة': 'hajj-umrah-services',
+  'خدمات مالية': 'financial-services',
 }
 
 const REVERSE_SLUGS: Record<string, string> = {}

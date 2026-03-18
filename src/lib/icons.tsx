@@ -32,6 +32,21 @@ export const CATEGORY_ICONS: Record<string, React.ReactNode> = {
   'خدمات عدلية': (
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
   ),
+  'خدمات الإسكان': (
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M3 9l9-7 9 7v11a2 2 0 01-2 2H5a2 2 0 01-2-2z"/><path d="M9 22V12h6v10"/></svg>
+  ),
+  'خدمات صحية': (
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M22 12h-4l-3 9L9 3l-3 9H2"/></svg>
+  ),
+  'خدمات تعليمية': (
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M22 10v6M2 10l10-5 10 5-10 5z"/><path d="M6 12v5c0 2 3 3 6 3s6-1 6-3v-5"/></svg>
+  ),
+  'خدمات الحج والعمرة': (
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M12 2L2 7l10 5 10-5-10-5z"/><path d="M2 17l10 5 10-5"/><path d="M2 12l10 5 10-5"/></svg>
+  ),
+  'خدمات مالية': (
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect x="1" y="4" width="22" height="16" rx="2"/><line x1="1" y1="10" x2="23" y2="10"/></svg>
+  ),
 }
 
 export const CATEGORY_EN: Record<string, string> = {
@@ -46,4 +61,9 @@ export const CATEGORY_EN: Record<string, string> = {
   'خدمات العمالة المنزلية': 'Domestic Workers',
   'خدمات ضريبية': 'Tax Services',
   'خدمات عدلية': 'Justice Services',
+  'خدمات الإسكان': 'Housing Services',
+  'خدمات صحية': 'Health Services',
+  'خدمات تعليمية': 'Education Services',
+  'خدمات الحج والعمرة': 'Hajj & Umrah Services',
+  'خدمات مالية': 'Financial Services',
 }

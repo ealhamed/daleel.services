@@ -68,23 +68,30 @@ export default function HomePage({ services }: { services: ServiceData[] }) {
                 {lang === 'ar' ? (CATEGORY_EN[cat] || '') : cat} ({catServices.length})
               </span>
             </div>
-            {visible.map(s => (
-              <a key={s.slug} href={`/service/${s.slug}/`} className="card card--link">
-                <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
-                  <div>
-                    <div className="service-card__title">{lang === 'ar' ? s.title_ar : s.title_en}</div>
-                    <div className="service-card__meta">
-                      {lang === 'ar'
-                        ? `${s.title_en} • ${s.portal}`
-                        : `${s.ministry_en} • ${s.portal}`}
+            {visible.map(s => {
+              const desc = s.description_ar
+              const snippet = desc.length > 80 ? desc.slice(0, 80) + '…' : desc
+              return (
+                <a key={s.slug} href={`/service/${s.slug}/`} className="card card--link">
+                  <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
+                    <div style={{ minWidth: 0 }}>
+                      <div className="service-card__title">{lang === 'ar' ? s.title_ar : s.title_en}</div>
+                      <div className="service-card__meta">
+                        {lang === 'ar'
+                          ? `${s.title_en} • ${s.portal}`
+                          : `${s.ministry_en} • ${s.portal}`}
+                      </div>
+                      <div style={{ fontFamily: 'var(--font-ar)', fontSize: '11px', color: 'var(--text3)', marginTop: '3px', lineHeight: 1.5 }}>
+                        {snippet}
+                      </div>
                     </div>
+                    <svg className="service-card__arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" style={{ transform: lang === 'ar' ? 'scaleX(-1)' : 'none' }}>
+                      <polyline points="9 18 15 12 9 6"/>
+                    </svg>
                   </div>
-                  <svg className="service-card__arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" style={{ transform: lang === 'ar' ? 'scaleX(-1)' : 'none' }}>
-                    <polyline points="9 18 15 12 9 6"/>
-                  </svg>
-                </div>
-              </a>
-            ))}
+                </a>
+              )
+            })}
             {hasMore && (
               <button
                 onClick={() => toggleCat(cat)}
@@ -105,12 +112,8 @@ export default function HomePage({ services }: { services: ServiceData[] }) {
         )
       })}
 
-      {/* Back to top */}
-      <div style={{ textAlign: 'center', marginTop: '20px', marginBottom: '20px' }}>
-        <a href="#" style={{ fontSize: '13px', color: 'var(--text3)', textDecoration: 'none' }}>
-          {lang === 'ar' ? '↑ العودة للأعلى' : '↑ Back to top'}
-        </a>
-      </div>
+      {/* Spacer for floating back-to-top */}
+      <div style={{ height: '40px' }} />
     </div>
   )
 }

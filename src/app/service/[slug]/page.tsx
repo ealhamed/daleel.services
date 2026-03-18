@@ -16,11 +16,20 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     title: `${service.title_ar} — دليل الخدمات الحكومية | ${service.title_en}`,
     description: `${service.description_ar} | ${service.title_en} - steps, fees, requirements.`,
     keywords: `${service.title_ar}, ${service.title_en}, ${service.category_ar}, ${service.ministry_ar}, خدمات حكومية, السعودية, Saudi Arabia`,
+    alternates: {
+      canonical: `/service/${service.slug}/`,
+    },
     openGraph: {
-      title: `${service.title_ar} | Daleel`,
-      description: service.description_ar,
+      title: `${service.title_ar} | ${service.title_en}`,
+      description: `${service.title_en} - steps, fees, requirements | ${service.description_ar}`,
+      url: `https://daleel.services/service/${service.slug}/`,
       locale: 'ar_SA',
       type: 'article',
+    },
+    twitter: {
+      card: 'summary',
+      title: `${service.title_ar} | ${service.title_en}`,
+      description: `${service.title_en} - steps, fees, requirements`,
     },
   }
 }

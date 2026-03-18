@@ -25,6 +25,7 @@ const CAT_SLUGS = {
   'خدمات صحية': 'health-services',
   'خدمات تعليمية': 'education-services',
   'خدمات الحج والعمرة': 'hajj-umrah-services',
+  'خدمات مالية': 'financial-services',
 }
 
 // Collect unique categories
@@ -58,3 +59,15 @@ ${urls.map(u => `  <url>
 const outPath = fs.existsSync(OUT_DIR) ? path.join(OUT_DIR, 'sitemap.xml') : path.join(__dirname, 'public', 'sitemap.xml')
 fs.writeFileSync(outPath, xml)
 console.log(`Sitemap: ${urls.length} URLs (1 home + ${categories.length} categories + ${services.length} services)`)
+
+// Generate search index for nav search
+const searchIndex = services.map(s => ({
+  slug: s.slug,
+  title_ar: s.title_ar,
+  title_en: s.title_en,
+  portal: s.portal,
+  category_en: s.category_en || '',
+}))
+const searchOutPath = fs.existsSync(OUT_DIR) ? path.join(OUT_DIR, 'search-index.json') : path.join(__dirname, 'public', 'search-index.json')
+fs.writeFileSync(searchOutPath, JSON.stringify(searchIndex))
+console.log(`Search index: ${searchIndex.length} services`)

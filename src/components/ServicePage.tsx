@@ -5,23 +5,33 @@ import { ServiceData } from '@/lib/types'
 import { useLang } from './LangContext'
 import { getCategorySlug } from '@/lib/categories'
 
-// Map of keywords in step text to service slugs for auto-linking
-const STEP_LINKS: Record<string, { pattern: RegExp; slug: string; label_ar: string; label_en: string }[]> = {
-  'transfer-sponsorship': [
-    { pattern: /جدّد إقامة|renew.*iqama/i, slug: 'renew-iqama', label_ar: 'تجديد الإقامة', label_en: 'Renew Iqama' }
-  ],
-  'renew-iqama': [
-    { pattern: /رخصة عمل|work permit/i, slug: 'renew-work-permit', label_ar: 'رخصة العمل', label_en: 'Work Permit' }
-  ],
-  'vehicle-registration-renewal': [
-    { pattern: /الفحص الدوري|periodic.*inspection/i, slug: 'vehicle-registration-renewal', label_ar: '', label_en: '' },
-  ],
-  'issue-commercial-registration': [
-    { pattern: /الرخصة البلدية|municipal/i, slug: 'issue-municipal-license', label_ar: 'الرخصة البلدية', label_en: 'Municipal License' }
-  ],
-  'zatca-einvoicing-registration': [
-    { pattern: /ضريبة القيمة|VAT/i, slug: 'zatca-vat-registration', label_ar: 'التسجيل في الضريبة', label_en: 'VAT Registration' }
-  ],
+// Escape special regex characters
+function escapeRegex(s: string) {
+  return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
+}
+
+// Auto-link related services in step text by matching their title keywords
+function buildStepLinks(service: ServiceData, relatedServices: ServiceData[]) {
+  return relatedServices
+    .filter(r => r.slug !== service.slug)
+    .map(r => {
+      // Build regex from key words in both titles (escaped for safety)
+      const arWords = r.title_ar.split(/\s+/).filter(w => w.length > 3).slice(0, 3).map(escapeRegex)
+      const enWords = r.title_en.split(/\s+/).filter(w => w.length > 3).slice(0, 3).map(escapeRegex)
+      const patternStr = [...arWords, ...enWords].join('|')
+      if (!patternStr) return null
+      try {
+        return {
+          pattern: new RegExp(patternStr, 'i'),
+          slug: r.slug,
+          label_ar: r.title_ar.split(' عبر')[0],
+          label_en: r.title_en.split(' via')[0],
+        }
+      } catch {
+        return null
+      }
+    })
+    .filter(Boolean) as { pattern: RegExp; slug: string; label_ar: string; label_en: string }[]
 }
 
 export default function ServicePage({ service, relatedServices }: { service: ServiceData; relatedServices: ServiceData[] }) {
@@ -51,12 +61,12 @@ export default function ServicePage({ service, relatedServices }: { service: Ser
   const allChecked = checkedCount === service.checks.length
   const isEn = lang === 'en'
 
-  // Check if a step has a cross-link
+  // Auto-generated cross-links from related services
+  const stepLinks = buildStepLinks(service, relatedServices)
+
   const getStepLink = (stepText: string): { slug: string; label: string } | null => {
-    const links = STEP_LINKS[service.slug]
-    if (!links) return null
-    for (const link of links) {
-      if (link.pattern.test(stepText) && link.slug !== service.slug && (link.label_ar || link.label_en)) {
+    for (const link of stepLinks) {
+      if (link.pattern.test(stepText)) {
         return { slug: link.slug, label: isEn ? link.label_en : link.label_ar }
       }
     }
